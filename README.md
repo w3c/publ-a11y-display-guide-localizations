@@ -1,9 +1,9 @@
 
 ![W3C Logo](https://www.w3.org/Icons/w3c_home)
 
-# Accessibility Discussions of the Publishing@W3C Groups
+# Localizations of the Accessibility Metadata Display Guide for Digital Publications
 
-This is the repository for the Accessibility related discussions of the [Publishing@W3C Groups](https://www.w3.org/publishing/). 
+This repository hosts the localizations of the compact and desriptive display statements defined in the [Accessibility Metadata Display Guide for Digital Publications]([https://www.w3.org/publishing/](https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/)).
 
 ## Contributing to the Repository
 
