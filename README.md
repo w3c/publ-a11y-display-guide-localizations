@@ -3,7 +3,7 @@
 
 # Localizations of the Accessibility Metadata Display Guide for Digital Publications
 
-This repository hosts the localizations of the compact and desriptive display statements defined in the [Accessibility Metadata Display Guide for Digital Publications]([https://www.w3.org/publishing/](https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/)).
+This repository hosts the localizations of the compact and desriptive display statements defined in the [Accessibility Metadata Display Guide for Digital Publications](https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/).
 
 ## Contributing to the Repository
 
