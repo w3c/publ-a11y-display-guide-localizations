@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "영어권 지역의 다양한 관계자를 대표하는 대규모 그룹이 논의한 원문입니다. 개념 증명 구현 및 패널 테스트를 거쳐 개선되었습니다."
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "읽기 방식",

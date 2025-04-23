@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "उन अलग-अलग एक्टर का प्रतिनिधी करने वाले, किसी बड़े ग्रुप द्वारा की गई बातचीत के ओरिजनल शब्द जो ऐसी जगह से हैं जहां अंग्रेज़ी बोली जाती है. कॉन्सेप्ट लागू किए जाने के सबूत मिलने और पैनल टेस्ट करने के बाद यह बेहतर बन गया है."
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "पढ़ने के तरीके",

@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Det ursprungliga textinnehållet har diskuterats av en stor grupp som företräder olika aktörer i de engelsktalande regionerna. Innehållet har förbättrats efter tillämpning av koncept- och paneltester."
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Olika sätt att läsa",

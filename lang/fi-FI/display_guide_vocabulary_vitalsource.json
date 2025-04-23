@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Alkuperäisestä kieliasusta keskusteli suuri ryhmä, jossa oli edustettuna englanninkielisten maantieteellisten alueiden eri toimijoita. Sitä on parannettu konseptitoteutusten ja paneelitestausten jälkeen"
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Lukemistavat",

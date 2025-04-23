@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Orihinal na pananalita na tinalakay ng isang malaking grupo na kumakatawan sa iba't ibang kalahok sa mga rehiyong nagsasalita ng English. Pinahusay ito pagkatapos ipatupad ang proof of concept at mga panel tester"
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Mga paraan ng pagbasa",

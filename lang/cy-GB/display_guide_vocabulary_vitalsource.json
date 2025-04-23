@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Geiriad gwreiddiol a drafodwyd gan grŵp mawr sy'n cynrychioli actorion amrywiol o'r ardaloedd Saesneg eu hiaith. Mae wedi'i wella ar ôl gweithrediadau prawf cysyniad a phrofion gan banel."
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Ffyrdd o ddarllen",

@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Original wording discussed by a large group representing different actors from English-speaking geographies. It has been improved following proof of concept implementations and feedback from panel testers"
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Ways of reading",

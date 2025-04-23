@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Oryginalne brzmienie było przedmiotem dyskusji dużej grupy reprezentującej różne podmioty z anglojęzycznych obszarów geograficznych. Zostało ulepszone po wdrożeniach weryfikacji pomysłów i testach panelowych"
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Sposoby czytania",

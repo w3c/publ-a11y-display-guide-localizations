@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "英語圏のさまざまな関係者を代表する大規模なグループによって議論された原文。概念実証の実装とパネルテスターによる検証を経て改善されました。"
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "読書の方法",

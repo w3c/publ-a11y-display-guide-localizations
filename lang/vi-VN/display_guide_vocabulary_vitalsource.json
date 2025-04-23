@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Cụm từ gốc được thảo luận bởi một nhóm lớn đại diện cho các bên khác nhau từ các khu vực nói tiếng Anh. Cụm từ gốc đã được cải thiện sau khi chứng minh khái niệm triển khai và thử nghiệm bảng điều khiển"
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Các cách đọc",

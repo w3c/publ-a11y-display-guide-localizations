@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Původní znění projednávané velkou skupinou zastupující různé aktéry z anglicky mluvících regionů. Byl vylepšen po implementacích ověření konceptu a testování panelovými uživateli."
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Způsoby četby",

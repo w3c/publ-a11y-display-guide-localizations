@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Formularea originală discutată de un grup mare care reprezintă diferiți actori din regiunile vorbitoare de limbă engleză. A fost îmbunătățit după implementările de demonstrare a conceptului și testările cu paneluri"
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Moduri de citire",

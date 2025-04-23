@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "由代表英語地區不同構成者之大型小組討論的原始措辭。在概念驗證實施及面板測試人員的測試後，已改進"
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "閱讀方式",

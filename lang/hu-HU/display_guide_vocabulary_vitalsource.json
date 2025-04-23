@@ -5,7 +5,7 @@
     "variant": "canonical",
     "version": "2.0.b",
     "audience": "general",
-    "description": "Eredeti megfogalmazás, amelyet az angol nyelvű területek különböző szereplőit képviselők nagy csoportja vitatott meg. A működőképesség demonstrálása és a panel tesztelése után tovább tökéletesítették"
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
   },
   "ways-of-reading": {
     "ways-of-reading-title": "Az olvasás módjai",
