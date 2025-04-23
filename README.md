@@ -5,6 +5,8 @@
 
 This repository hosts the localizations of the compact and desriptive display statements defined in the [Accessibility Metadata Display Guide for Digital Publications](https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/).
 
+A [localisation visualizer](https://w3c.github.io/publ-a11y-display-guide-localizations/visualizer/index.html) allow human browsing of the different translation packages. A dropdown menu allows to choose the localisation to be displayed.
+
 ## Contributing to the Repository
 
 Use the standard fork, branch, and pull request workflow to propose changes to the specification. Please make branch names informative—by including the issue or bug number for example.
