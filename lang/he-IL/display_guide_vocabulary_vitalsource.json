@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "he-IL",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "הנוסח המקורי נדון על ידי קבוצה גדולה המייצגת גורמים שונים באזורים שבהם דוברים אנגלית. הנוסח שופר לאחר הטמעות של הוכחת היתכנות ובוחני פאנל"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "דרכים לקריאה",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "יש טקסט חלופי",
+      "descriptive": "יש תיאורי טקסט חלופיים לתמונות"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "אין מידע זמין על קריאה לא ויזואלית",
+      "descriptive": "אין מידע זמין על קריאה לא ויזואלית"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "לא ניתן לקרוא בקול או בכתב ברייל דינמי",
+      "descriptive": "לא ניתן לקרוא את התוכן בקול או בכתב ברייל דינמי"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "לא ניתן לקרוא באופן מלא בקול או בכתב ברייל דינמי",
+      "descriptive": "ניתן לקרוא רק חלק מהתוכן בקול או בכתב ברייל דינמי"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "ניתן לקרוא בקול או בכתב ברייל דימי",
+      "descriptive": "ניתן לקרוא את כל התוכן בקול או בכתב ברייל דינמי"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "קטעי אודיו שהוקלטו מראש",
+      "descriptive": "בתוכן משולבים קטעי אודיו שהוקלטו מראש"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " אין מידע זמין על קטעי אודיו שהוקלטו מראש",
+      "descriptive": " אין מידע זמין על קטעי אודיו שהוקלטו מראש"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "קטעי אודיו שהוקלטו מראש בלבד",
+      "descriptive": " ספר שמע ללא חלופת טקסט"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "קטעי אודיו מוקלטים מראש שמסונכרנים עם הטקסט",
+      "descriptive": "כל התוכן זמין כאודיו שהוקלט מראש ומסונכרן עם טקסט"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "ניתן לשנות את המראה",
+      "descriptive": " ניתן לשנות את מראה הטקסט ואת פריסת הדף בהתאם ליכולות של מערכת הקריאה (משפחת גופנים וגודל גופן, רווחים בין פסקאות, משפטים, מילים ואותיות, כמו גם צבע הרקע והטקסט)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "אין מידע זמין על אפשרויות לשינוי המראה",
+      "descriptive": " אין מידע זמין על אפשרויות לשינוי המראה"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "לא ניתן לשנות את המראה",
+      "descriptive": "לא ניתן לשנות את פריסת הטקסט והעמוד מכיוון שחוויית הקריאה קרובה לגרסה המודפסת, אך מערכות קריאה עדיין יכולות לספק אפשרויות לשינוי גודל התצוגה"
+    }
+  },
+  "conformance": {
+    "conformance-title": "התאמה",
+    "conformance-details-title": "מידע מפורט על תאימות",
+    "conformance-a": {
+      "compact": "הפרסום מציית לתקני הנגישות המינימליים",
+      "descriptive": "הפרסום מכיל הצהרת תאימות שהוא עומד בתקן הנגישות של EPUB ובתקן WCAG 2 רמה A"
+    },
+    "conformance-aa": {
+      "compact": "הפרסום מציית לתקני הנגישות המקובלים",
+      "descriptive": "הפרסום מכיל הצהרת תאימות שהוא עומד בתקן הנגישות של EPUB ובתקן WCAG 2 רמה AA"
+    },
+    "conformance-aaa": {
+      "compact": "הפרסום חורג מתקני הנגישות המקובלים",
+      "descriptive": "הפרסום מכיל הצהרת תאימות בנוגע לכך שהוא מציית לדרישות הנגישות של EPUB ולתקן WCAG 2 ברמה AAA"
+    },
+    "conformance-certifier": {
+      "compact": "הפרסום אושר על ידי",
+      "descriptive": "הפרסום אושר על ידי "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "ההסמכה של נותן האישור היא ",
+      "descriptive": "ההסמכה של נותן האישור היא "
+    },
+    "conformance-details-certification-info": {
+      "compact": "הפרסום אושר בתאריך ",
+      "descriptive": "הפרסום אושר בתאריך "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "למידע נוסף, אפשר לעיין בדוח של נותן האישור",
+      "descriptive": "למידע נוסף, אפשר לעיין בדוח של נותן האישור"
+    },
+    "conformance-details-claim": {
+      "compact": "נטען שהפרסום מציית",
+      "descriptive": "נטען שהפרסום מציית"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " נגישות EPUB 1.0",
+      "descriptive": " נגישות EPUB 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " נגישות EPUB 1.1",
+      "descriptive": " נגישות EPUB 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " רמה A",
+      "descriptive": " רמה A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " רמה AA",
+      "descriptive": " רמה AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " רמה AAA",
+      "descriptive": " רמה AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " הנחיות לנגישות תוכן באינטרנט (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " הנחיות לנגישות תוכן באינטרנט (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " הנחיות לנגישות תוכן באינטרנט (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "אין מידע זמין",
+      "descriptive": "אין מידע זמין"
+    },
+    "conformance-unknown-standard": {
+      "compact": "לא ניתן לקבוע עמידה בתקנים מקובלים לנגישות של הפרסום הזה",
+      "descriptive": "לא ניתן לקבוע עמידה בתקנים מקובלים לנגישות של הפרסום הזה"
+    }
+  },
+  "navigation": {
+    "navigation-title": "ניווט",
+    "navigation-index": {
+      "compact": "אינדקס",
+      "descriptive": "אינדקס עם קישורים לערכים עם הפניות"
+    },
+    "navigation-no-metadata": {
+      "compact": "אין מידע זמין",
+      "descriptive": "אין מידע זמין"
+    },
+    "navigation-page-navigation": {
+      "compact": "עבור לעמוד",
+      "descriptive": "רשימת דפים למעבר לדפים מגרסת המקור המודפסת"
+    },
+    "navigation-structural": {
+      "compact": "כותרות",
+      "descriptive": "רכיבים כמו כותרות, טבלאות וכו' לניווט מובנה"
+    },
+    "navigation-toc": {
+      "compact": "תוכן העניינים",
+      "descriptive": "תוכן העניינים לכל פרקי הטקסט באמצעות קישורים"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "תוכן עשיר",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "נוסחאות כימיות ב-LaTeX",
+      "descriptive": "נוסחאות כימיות בפורמט נגיש (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "נוסחאות כימיות ב-MathML",
+      "descriptive": "נוסחאות כימיות בפורמט נגיש (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "מתמטיקה כ-LaTeX",
+      "descriptive": "נוסחאות מתמטיות בפורמט נגיש (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "מתמטיקה כ-MathML",
+      "descriptive": "נוסחאות מתמטיות בפורמט נגיש (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "מופיעים תיאורי טקסט של נוסחאות מתמטיות",
+      "descriptive": "מופיעים תיאורי טקסט של נוסחאות מתמטיות"
+    },
+    "rich-content-closed-captions": {
+      "compact": " לסרטונים יש כתוביות סמויות",
+      "descriptive": " לסרטונים הכלולים בפרסומים יש כתוביות סמויות"
+    },
+    "rich-content-extended": {
+      "compact": "תמונות עם מידע רב מתוארות באמצעות תיאורים מפורטים",
+      "descriptive": "תמונות עם מידע רב מתוארות באמצעות תיאורים מפורטים"
+    },
+    "rich-content-open-captions": {
+      "compact": " לסרטונים יש כתוביות גלויות",
+      "descriptive": " לסרטונים הכלולים בפרסומים יש כתוביות גלויות"
+    },
+    "rich-content-transcript": {
+      "compact": "קיימים תמלילים",
+      "descriptive": "קיימים תמלילים"
+    },
+    "rich-content-unknown": {
+      "compact": "אין מידע זמין",
+      "descriptive": "אין מידע זמין"
+    }
+  },
+  "hazards": {
+    "hazards-title": "סכנות",
+    "hazards-flashing": {
+      "compact": "תוכן מהבהב",
+      "descriptive": "הפרסום מכיל תוכן מהבהב שעלול לגרום להתקפים בקרב אנשים בעלי רגישות לאור"
+    },
+    "hazards-motion": {
+      "compact": "הדמיית תנועה",
+      "descriptive": "הפרסום מכיל הדמיות תנועה שעלולות לגרום למחלת תנועה"
+    },
+    "hazards-no-metadata": {
+      "compact": "אין מידע זמין",
+      "descriptive": "אין מידע זמין"
+    },
+    "hazards-none": {
+      "compact": "אין סכנות",
+      "descriptive": "הפרסום אינו מכיל סכנות"
+    },
+    "hazards-sound": {
+      "compact": "צלילים",
+      "descriptive": "הפרסום מכיל צלילים שעלולים לעורר אי נוחות"
+    },
+    "hazards-unknown": {
+      "compact": "לא ידוע על קיומן של סכנות",
+      "descriptive": "לא ידוע על קיומן של סכנות"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "סיכום נגישות",
+    "accessibility-summary-no-metadata": {
+      "compact": "אין מידע זמין",
+      "descriptive": "אין מידע זמין"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "שיקולים משפטיים",
+    "legal-considerations-exempt": {
+      "compact": "באזורי שיפוט מסוימים, יש טענה לפטור מנגישות",
+      "descriptive": "הפרסום מבקש פטור מנגישות באזורי שיפוט מסוימים"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "אין מידע זמין",
+      "descriptive": "אין מידע זמין"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "מידע נוסף על נגישות",
+    "additional-accessibility-information-aria": {
+      "compact": "תפקידי ARIA כלולים",
+      "descriptive": "התוכן משופר עם תפקידי ARIA כדי לייעל את הארגון ולהקל על הניווט"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "תיאורי אודיו",
+      "descriptive": "תיאורי אודיו"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "ברייל",
+      "descriptive": "ברייל"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "צבע אינו האמצעי היחיד להעברת מידע",
+      "descriptive": "צבע אינו האמצעי היחיד להעברת מידע"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "קריאוּת במקרה של דיסלקציה",
+      "descriptive": "קריאוּת במקרה של דיסלקציה"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "הערות מלאות בשפת 'רובי'",
+      "descriptive": "הערות מלאות בשפת 'רובי'"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "ניגודיות גבוהה בין אודיו חזיתי לאודיו ברקע",
+      "descriptive": "ניגודיות גבוהה בין אודיו חזיתי לאודיו ברקע"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "ניגודיות גבוהה בין טקסט חזיתי לטקסט ברקע",
+      "descriptive": "ניגודיות גבוהה בין טקסט חזיתי לטקסט ברקע"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "גופן גדול",
+      "descriptive": "גופן גדול"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "מעברי עמוד כלולים",
+      "descriptive": "כלולים מעברי עמודים מהמקור המודפס"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "כמה הערות בשפת 'רובי'",
+      "descriptive": "כמה הערות בשפת 'רובי'"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "שפת הסימנים",
+      "descriptive": "שפת הסימנים"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "גרפיקה טקטילית כלולה",
+      "descriptive": "גרפיקה טקטילית שולבה כדי לאפשר לאנשים בעלי ליקויי ראייה לגשת בקלות לרכיבים חזותיים"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "אובייקטים תלת-ממדיים טקטיליים",
+      "descriptive": "אובייקטים תלת-ממדיים טקטיליים"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "סופקו רמזים להמרת טקסט לדיבור",
+      "descriptive": "סופקו רמזים להמרת טקסט לדיבור"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "ניגודיות גבוהה במיוחד בין הטקסט לרקע",
+      "descriptive": "ניגודיות גבוהה במיוחד בין הטקסט לרקע"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "מספרי עמודים גלויים ",
+      "descriptive": "מספרי עמודים גלויים "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "ללא צלילי רקע",
+      "descriptive": "ללא צלילי רקע"
+    }
+  }
+}

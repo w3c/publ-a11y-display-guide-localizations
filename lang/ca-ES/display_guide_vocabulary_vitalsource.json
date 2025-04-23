@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "ca-ES",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Redacció original comentada per un gran grup que representa diferents actors de zones de parla anglesa. S'ha millorat després de les implementacions de prova de concepte i dels verificadors de panell"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Mètodes de lectura",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Té text alternatiu",
+      "descriptive": "Té descripcions alternatives de text per a les imatges"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "No hi ha informació disponible sobre la lectura no visual",
+      "descriptive": "No hi ha informació disponible sobre la lectura no visual"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "No es pot llegir en veu alta ni en braille dinàmic",
+      "descriptive": "El contingut no es pot llegir com a discurs en veu alta o braille dinàmic"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "No està completament disponible en lectura en veu alta o braille dinàmic",
+      "descriptive": "No tot el contingut serà llegible com a discurs llegit en veu alta o braille dinàmic"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Disponible en lectura en veu alta o braille dinàmic",
+      "descriptive": "Tot el contingut es pot llegir com a discurs en veu alta o braille dinàmic"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Clips d'àudio pregravats",
+      "descriptive": "Els clips d'àudio pregravats estan incrustats en el contingut"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " No hi ha informació disponible sobre l'àudio pregravat",
+      "descriptive": " No hi ha informació disponible sobre l'àudio pregravat"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Només àudio pregravat",
+      "descriptive": " Audiollibre sense alternativa de text"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Àudio pregravat sincronitzat amb el text",
+      "descriptive": "Tot el contingut està disponible com a àudio pregravat i sincronitzat amb el text"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "L'aparença es pot modificar",
+      "descriptive": " L'aparença del text i el disseny de la pàgina es poden modificar segons les capacitats del sistema de lectura (família tipogràfica i mida de la font, espais entre paràgrafs, oracions, paraules i lletres, així com el color del fons i del text)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "No hi ha informació disponible sobre la modificabilitat de l'aparença",
+      "descriptive": " No hi ha informació disponible sobre la modificabilitat de l'aparença"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "L'aparença no es pot modificar",
+      "descriptive": "El text i el disseny de la pàgina no es poden modificar, ja que l'experiència de lectura és semblant a la d'una versió impresa, però els sistemes de lectura encara poden oferir opcions de zoom"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Conformitat",
+    "conformance-details-title": "Informació de conformitat detallada",
+    "conformance-a": {
+      "compact": "Aquesta publicació compleix els estàndards mínims d'accessibilitat",
+      "descriptive": "La publicació conté una declaració de conformitat que compleix amb l'estàndard d'accessibilitat EPUB i el WCAG 2, nivell A"
+    },
+    "conformance-aa": {
+      "compact": "Aquesta publicació compleix els estàndards d'accessibilitat acceptats",
+      "descriptive": "La publicació conté una declaració de conformitat que compleix amb l'estàndard d'accessibilitat EPUB i el WCAG 2, nivell AA"
+    },
+    "conformance-aaa": {
+      "compact": "Aquesta publicació supera els estàndards d'accessibilitat acceptats",
+      "descriptive": "La publicació conté una declaració de conformitat que compleix amb l'estàndard d'accessibilitat EPUB i el WCAG 2, nivell AAA"
+    },
+    "conformance-certifier": {
+      "compact": "La publicació ha estat certificada per",
+      "descriptive": "La publicació ha estat certificada per "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "La credencial del certificador és ",
+      "descriptive": "La credencial del certificador és "
+    },
+    "conformance-details-certification-info": {
+      "compact": "La publicació es va certificar el ",
+      "descriptive": "La publicació es va certificar el "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Per obtenir més informació, consulta l'informe del certificador",
+      "descriptive": "Per obtenir més informació, consulta l'informe del certificador"
+    },
+    "conformance-details-claim": {
+      "compact": "Aquesta publicació manifesta complir",
+      "descriptive": "Aquesta publicació manifesta complir"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB Accessibility 1.0",
+      "descriptive": " EPUB Accessibility 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB Accessibility 1.1",
+      "descriptive": " EPUB Accessibility 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Nivell A",
+      "descriptive": " Nivell A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Nivell AA",
+      "descriptive": " Nivell AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Nivell AAA",
+      "descriptive": " Nivell AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Directrius d'accessibilitat de contingut web (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Directrius d'accessibilitat de contingut web (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Directrius d'accessibilitat de contingut web (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "No hi ha informació disponible",
+      "descriptive": "No hi ha informació disponible"
+    },
+    "conformance-unknown-standard": {
+      "compact": "No es pot determinar la conformitat amb les normes d'accessibilitat acceptades d'aquesta publicació",
+      "descriptive": "No es pot determinar la conformitat amb les normes d'accessibilitat acceptades d'aquesta publicació"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Navegació",
+    "navigation-index": {
+      "compact": "Índex",
+      "descriptive": "Índex amb enllaços a les entrades referenciades"
+    },
+    "navigation-no-metadata": {
+      "compact": "No hi ha informació disponible",
+      "descriptive": "No hi ha informació disponible"
+    },
+    "navigation-page-navigation": {
+      "compact": "Vés a la pàgina",
+      "descriptive": "Llista de pàgines per accedir a les pàgines de la versió impresa original"
+    },
+    "navigation-structural": {
+      "compact": "Encapçalaments",
+      "descriptive": "Elements com encapçalaments, taules, etc., per a una navegació estructurada"
+    },
+    "navigation-toc": {
+      "compact": "Taula de continguts",
+      "descriptive": "Taula de continguts que proporciona accés a tots els capítols del text a través d'enllaços"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Contingut enriquit",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Fórmules químiques en LaTeX",
+      "descriptive": "Fórmules químiques en format accessible (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Fórmules químiques en MathML",
+      "descriptive": "Fórmules químiques en format accessible (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Matemàtiques com a LaTeX",
+      "descriptive": "Fórmules matemàtiques en format accessible (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Matemàtiques com MathML",
+      "descriptive": "Fórmules matemàtiques en format accessible (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Es proporcionen descripcions textuals de les matemàtiques",
+      "descriptive": "Es proporcionen descripcions textuals de les matemàtiques"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Els vídeos tenen subtítols tancats",
+      "descriptive": " Els vídeos inclosos a les publicacions tenen subtítols descriptius"
+    },
+    "rich-content-extended": {
+      "compact": "Les imatges enriquides amb informació es descriuen mitjançant descripcions ampliades",
+      "descriptive": "Les imatges enriquides amb informació es descriuen mitjançant descripcions ampliades"
+    },
+    "rich-content-open-captions": {
+      "compact": " Els vídeos tenen subtítols",
+      "descriptive": " Els vídeos inclosos a les publicacions tenen subtítols"
+    },
+    "rich-content-transcript": {
+      "compact": "Transcripcions proporcionades",
+      "descriptive": "Transcripcions proporcionades"
+    },
+    "rich-content-unknown": {
+      "compact": "No hi ha informació disponible",
+      "descriptive": "No hi ha informació disponible"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Riscos",
+    "hazards-flashing": {
+      "compact": "Contingut parpellejant",
+      "descriptive": "La publicació inclou contingut parpellejant que pot causar convulsions fotosensibles"
+    },
+    "hazards-motion": {
+      "compact": "Simulació de moviment",
+      "descriptive": "La publicació conté simulacions de moviment que poden causar mareig"
+    },
+    "hazards-no-metadata": {
+      "compact": "No hi ha informació disponible",
+      "descriptive": "No hi ha informació disponible"
+    },
+    "hazards-none": {
+      "compact": "Sense riscos",
+      "descriptive": "La publicació no conté riscos"
+    },
+    "hazards-sound": {
+      "compact": "Sons",
+      "descriptive": "La publicació conté sons que poden resultar incòmodes"
+    },
+    "hazards-unknown": {
+      "compact": "Es desconeix la presència de riscos",
+      "descriptive": "Es desconeix la presència de riscos"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Resum d'accessibilitat",
+    "accessibility-summary-no-metadata": {
+      "compact": "No hi ha informació disponible",
+      "descriptive": "No hi ha informació disponible"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Consideracions legals",
+    "legal-considerations-exempt": {
+      "compact": "manifesta una exempció d'accessibilitat en algunes jurisdiccions",
+      "descriptive": "Aquesta publicació manifesta una exempció d'accessibilitat en algunes jurisdiccions"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "No hi ha informació disponible",
+      "descriptive": "No hi ha informació disponible"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Informació addicional d'accessibilitat",
+    "additional-accessibility-information-aria": {
+      "compact": "Rols d'ARIA inclosos",
+      "descriptive": "El contingut es millora amb rols ARIA per optimitzar l'organització i facilitar la navegació"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Descripcions d'àudio",
+      "descriptive": "Descripcions d'àudio"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braille",
+      "descriptive": "Braille"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "El color no és l'únic mitjà per transmetre informació",
+      "descriptive": "El color no és l'únic mitjà per transmetre informació"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Llegibilitat per a la dislèxia",
+      "descriptive": "Llegibilitat per a la dislèxia"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Anotacions completes de ruby",
+      "descriptive": "Anotacions completes de ruby"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Alt contrast entre l'àudio de primer pla i l'àudio de fons",
+      "descriptive": "Alt contrast entre l'àudio de primer pla i l'àudio de fons"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Alt contrast entre el text de primer pla i el fons",
+      "descriptive": "Alt contrast entre el text de primer pla i el fons"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Impressió gran",
+      "descriptive": "Impressió gran"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Salts de pàgina inclosos",
+      "descriptive": "Salts de pàgina inclosos de la font d'impressió original"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Algunes anotacions de Ruby",
+      "descriptive": "Algunes anotacions de Ruby"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Llengua de signes",
+      "descriptive": "Llengua de signes"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Gràfics tàctils inclosos",
+      "descriptive": "S'han integrat gràfics tàctils per facilitar l'accés a elements visuals per a persones cegues"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Objectes tàctils en 3D",
+      "descriptive": "Objectes tàctils en 3D"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "S'ofereixen suggeriments de text a veu",
+      "descriptive": "S'ofereixen suggeriments de text a veu"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Contrast ultra alt entre el text i el fons",
+      "descriptive": "Contrast ultra alt entre el text i el fons"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Numeració de pàgines visible ",
+      "descriptive": "Numeració de pàgines visible "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Sense sons de fons",
+      "descriptive": "Sense sons de fons"
+    }
+  }
+}

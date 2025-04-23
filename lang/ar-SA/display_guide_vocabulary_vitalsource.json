@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "ar-SA",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "الصياغة الأصلية التي ناقشتها مجموعة كبيرة تمثل مختلف الجهات الفاعلة في المناطق الجغرافية الناطقة بالإنجليزية. جرى تحسينها بعد إجراء إثبات المفهوم واختبار اللوحة"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "أساليب القراءة",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "يحتوي على نص بديل",
+      "descriptive": "يوفر أوصاف نصية بديلة للصور."
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "لا توجد معلومات متاحة عن القراءة غير البصرية",
+      "descriptive": "لا توجد معلومات متاحة عن القراءة غير البصرية"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "غير قابل للقراءة بصوت عالٍ أو بطريقة برايل التفاعلية",
+      "descriptive": "المحتوى غير قابل للقراءة ككلام مقروء بصوت عالٍ أو بطريقة برايل التفاعلية."
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "غير قابل للقراءة بشكل كامل بصوت عالٍ أو بطريقة برايل التفاعلية",
+      "descriptive": "لن يكون كل المحتوى قابلاً للقراءة ككلام مقروء بصوت عالٍ أو بطريقة برايل التفاعلية"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "قابل للقراءة بصوت عالٍ أو بطريقة برايل التفاعلية",
+      "descriptive": "يمكن قراءة كل المحتوى ككلام مقروء بصوت عالٍ أو بطريقة برايل التفاعلية"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "مقاطع صوتية مسجلة مسبقًا",
+      "descriptive": "يجري تضمين المقاطع الصوتية المسجلة مسبقًا في المحتوى"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " لا توجد معلومات متاحة عن الصوت المسجل مسبقًا",
+      "descriptive": " لا توجد معلومات متاحة عن الصوت المسجل مسبقًا"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "صوت مسجل مسبقًا فقط",
+      "descriptive": " كتاب مسموع بدون بديل نصي"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "صوت مسجل مسبقًا ومتزامن مع النص",
+      "descriptive": "كل المحتوى متاح في صورة صوت مُسجَّل مسبقًا ومتزامن مع النص"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "يمكن تعديل المظهر",
+      "descriptive": " يمكن تعديل مظهر النص وتخطيط الصفحة وفقًا لإمكانيات نظام القراءة (عائلة الخطوط وحجم الخط، والمسافات بين الفقرات والجمل والكلمات والحروف، وكذلك لون الخلفية والنص)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "لا توجد معلومات عن إمكانية تعديل المظهر",
+      "descriptive": " لا توجد معلومات عن إمكانية تعديل المظهر"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "لا يمكن تعديل المظهر",
+      "descriptive": "لا يمكن تعديل النص وتخطيط الصفحة؛ لأن تجربة القراءة قريبة من النسخة المطبوعة، ولكن لا يزال بإمكان أنظمة القراءة توفير خيارات التكبير/التصغير"
+    }
+  },
+  "conformance": {
+    "conformance-title": "التوافق",
+    "conformance-details-title": "معلومات المطابقة التفصيلية",
+    "conformance-a": {
+      "compact": "يفي هذا المنشور بالحد الأدنى لمعايير إمكانية الوصول",
+      "descriptive": "يتضمن المنشور بيان مطابقة يؤكد أنه يلتزم بمعايير إمكانية الوصول EPUB وWCAG 2 المستوى A"
+    },
+    "conformance-aa": {
+      "compact": "يفي هذا المنشور بمعايير إمكانية الوصول المقبولة",
+      "descriptive": "يتضمن المنشور بيان مطابقة يؤكد أنه يلتزم بمعايير إمكانية الوصول EPUB وWCAG 2 المستوى AA"
+    },
+    "conformance-aaa": {
+      "compact": "يتجاوز هذا المنشور معايير إمكانية الوصول المقبولة",
+      "descriptive": "يتضمن المنشور بيان مطابقة يؤكد أنه يلتزم بمعايير إمكانية الوصول EPUB وWCAG 2 مستوى AAA"
+    },
+    "conformance-certifier": {
+      "compact": "حصل هذا المنشور على الاعتماد من قبل",
+      "descriptive": "حصل هذا المنشور على الاعتماد من قبل "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "بيانات اعتماد جهة الاعتماد هي ",
+      "descriptive": "بيانات اعتماد جهة الاعتماد هي "
+    },
+    "conformance-details-certification-info": {
+      "compact": "حصل هذا المنشور على الاعتماد بتاريخ ",
+      "descriptive": "حصل هذا المنشور على الاعتماد بتاريخ "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "لمزيد من المعلومات، راجع تقرير جهة الاعتماد",
+      "descriptive": "لمزيد من المعلومات، راجع تقرير جهة الاعتماد"
+    },
+    "conformance-details-claim": {
+      "compact": "يعلن هذا المنشور أنه يفي",
+      "descriptive": "يعلن هذا المنشور أنه يفي"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " إمكانية الوصول EPUB 1.0",
+      "descriptive": " إمكانية الوصول EPUB 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " إمكانية الوصول EPUB 1.1",
+      "descriptive": " إمكانية الوصول EPUB 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " المستوى A",
+      "descriptive": " المستوى A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " المستوى AA",
+      "descriptive": " المستوى AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " المستوى AAA",
+      "descriptive": " المستوى AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " إرشادات إمكانية الوصول إلى محتوى الويب (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " إرشادات إمكانية الوصول إلى محتوى الويب (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " إرشادات الوصول إلى محتوى الويب (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "لا تتوفر معلومات",
+      "descriptive": "لا تتوفر معلومات"
+    },
+    "conformance-unknown-standard": {
+      "compact": "لا يمكن تحديد التوافق مع المعايير المقبولة لإمكانية الوصول إلى هذا المنشور",
+      "descriptive": "لا يمكن تحديد التوافق مع المعايير المقبولة لإمكانية الوصول إلى هذا المنشور"
+    }
+  },
+  "navigation": {
+    "navigation-title": "التنقل",
+    "navigation-index": {
+      "compact": "فهرس",
+      "descriptive": "فهرس يحتوي على روابط للإدخالات المشار إليها"
+    },
+    "navigation-no-metadata": {
+      "compact": "لا تتوفر معلومات",
+      "descriptive": "لا تتوفر معلومات"
+    },
+    "navigation-page-navigation": {
+      "compact": "الانتقال إلى صفحة",
+      "descriptive": "قائمة الصفحات للانتقال إلى الصفحات من النسخة المطبوعة"
+    },
+    "navigation-structural": {
+      "compact": "عناوين",
+      "descriptive": "عناصر مثل العناوين والجداول وما إلى ذلك للتنقل المنظم"
+    },
+    "navigation-toc": {
+      "compact": "جدول المحتويات",
+      "descriptive": "جدول محتويات يوفر الوصول إلى جميع فصول النص عبر الروابط."
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "محتوى غني",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "الصيغ الكيميائية في LaTeX",
+      "descriptive": "الصيغ الكيميائية بتنسيق يمكن الوصول إليه (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "الصيغ الكيميائية في MathML",
+      "descriptive": "الصيغ الكيميائية بتنسيق يمكن الوصول إليه (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "الرياضيات بصيغة LaTeX",
+      "descriptive": "صيغ الرياضيات بتنسيق يمكن الوصول إليه (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "الرياضيات بصيغة MathML",
+      "descriptive": "صيغ الرياضيات بتنسيق يمكن الوصول إليه (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "تتوفر أوصاف نصية للرياضيات",
+      "descriptive": "تتوفر أوصاف نصية للرياضيات"
+    },
+    "rich-content-closed-captions": {
+      "compact": " تحتوي الفيديوهات على تسميات توضيحية مغلقة",
+      "descriptive": " تحتوي مقاطع الفيديو المضمنة في المنشورات على تسميات توضيحية مغلقة"
+    },
+    "rich-content-extended": {
+      "compact": "توصف الصور الغنية بالمعلومات بأوصاف تفصيلية.",
+      "descriptive": "توصف الصور الغنية بالمعلومات بأوصاف تفصيلية."
+    },
+    "rich-content-open-captions": {
+      "compact": " تحتوي الفيديوهات على تسميات توضيحية مفتوحة",
+      "descriptive": " تحتوي مقاطع الفيديو المضمنة في المنشورات على تسميات توضيحية مفتوحة."
+    },
+    "rich-content-transcript": {
+      "compact": "النصوص المقدمة",
+      "descriptive": "النصوص المقدمة"
+    },
+    "rich-content-unknown": {
+      "compact": "لا تتوفر معلومات",
+      "descriptive": "لا تتوفر معلومات"
+    }
+  },
+  "hazards": {
+    "hazards-title": "المخاطر",
+    "hazards-flashing": {
+      "compact": "محتوى وامض",
+      "descriptive": "يتضمن المنشور محتوى وامضًا قد يسبب نوبات صرع حساسة للضوء"
+    },
+    "hazards-motion": {
+      "compact": "محاكاة الحركة",
+      "descriptive": "يتضمن المنشور محاكاة للحركة قد تسبب دوار الحركة"
+    },
+    "hazards-no-metadata": {
+      "compact": "لا تتوفر معلومات",
+      "descriptive": "لا تتوفر معلومات"
+    },
+    "hazards-none": {
+      "compact": "لا توجد مخاطر",
+      "descriptive": "المنشور لا يحتوي على أي مخاطر"
+    },
+    "hazards-sound": {
+      "compact": "الأصوات",
+      "descriptive": "يحتوي المنشور على أصوات قد تسبب عدم الراحة"
+    },
+    "hazards-unknown": {
+      "compact": "وجود المخاطر غير معروف",
+      "descriptive": "وجود المخاطر غير معروف"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "ملخص إمكانية الوصول",
+    "accessibility-summary-no-metadata": {
+      "compact": "لا تتوفر معلومات",
+      "descriptive": "لا تتوفر معلومات"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "الاعتبارات القانونية",
+    "legal-considerations-exempt": {
+      "compact": "المطالبة بالإعفاء من إمكانية الوصول في بعض الولايات القضائية",
+      "descriptive": "يدعي هذا المنشور الإعفاء من إمكانية الوصول في بعض الولايات القضائية"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "لا تتوفر معلومات",
+      "descriptive": "لا تتوفر معلومات"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "معلومات إضافية عن إمكانية الوصول",
+    "additional-accessibility-information-aria": {
+      "compact": "جرى تضمين أدوار ARIA",
+      "descriptive": "تم تحسين المحتوى باستخدام أدوار ARIA لتحسين التنظيم وتسهيل التنقل"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "الأوصاف الصوتية",
+      "descriptive": "الأوصاف الصوتية"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "برايل",
+      "descriptive": "برايل"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "اللون ليس الوسيلة الوحيدة لتوصيل المعلومات",
+      "descriptive": "اللون ليس الوسيلة الوحيدة لتوصيل المعلومات"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "قابلية القراءة لعسر القراءة",
+      "descriptive": "قابلية القراءة لعسر القراءة"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "شروحات Ruby كاملة",
+      "descriptive": "شروحات Ruby كاملة"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "تباين عالٍ بين الصوت الأمامي والصوت الخلفي",
+      "descriptive": "تباين عالٍ بين الصوت الأمامي والصوت الخلفي"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "تباين عالٍ بين النص الأمامي والخلفية",
+      "descriptive": "تباين عالٍ بين النص الأمامي والخلفية"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "الطباعة الكبيرة",
+      "descriptive": "الطباعة الكبيرة"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "تتضمن فواصل الصفحات",
+      "descriptive": "تم تضمين فواصل الصفحات من المصدر المطبوع الأصلي"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "بعض الشروحات لـ Ruby",
+      "descriptive": "بعض الشروحات لـ Ruby"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "لغة الإشارة",
+      "descriptive": "لغة الإشارة"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "تم تضمين الرسومات اللمسية",
+      "descriptive": "جرى دمج الرسومات اللمسية لتسهيل وصول المكفوفين إلى العناصر المرئية"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "الأجسام ثلاثية الأبعاد اللمسية",
+      "descriptive": "الأجسام ثلاثية الأبعاد اللمسية"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "توفير تلميحات لتحويل النص إلى كلام",
+      "descriptive": "توفير تلميحات لتحويل النص إلى كلام"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "تباين فائق بين النص والخلفية",
+      "descriptive": "تباين فائق بين النص والخلفية"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "ترقيم الصفحات المرئي ",
+      "descriptive": "ترقيم الصفحات المرئي "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "بدون أصوات خلفية",
+      "descriptive": "بدون أصوات خلفية"
+    }
+  }
+}

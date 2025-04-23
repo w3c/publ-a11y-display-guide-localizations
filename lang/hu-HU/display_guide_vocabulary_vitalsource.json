@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "hu-HU",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Eredeti megfogalmazás, amelyet az angol nyelvű területek különböző szereplőit képviselők nagy csoportja vitatott meg. A működőképesség demonstrálása és a panel tesztelése után tovább tökéletesítették"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Az olvasás módjai",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Alternatív szöveggel rendelkezik",
+      "descriptive": "A képek alternatív szöveges leírással rendelkeznek"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Nincs információ a nem vizuális olvasásról",
+      "descriptive": "Nincs információ a nem vizuális olvasásról"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Nem olvasható felolvasással vagy dinamikus Braille-írással",
+      "descriptive": "A tartalom nem olvasható beszédhangon felolvasással vagy dinamikus Braille-írással"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Nem teljesen olvasható felolvasással vagy dinamikus Braille-írással",
+      "descriptive": "Nem minden tartalom olvasható beszédhangon felolvasással vagy dinamikus Braille-írással"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Olvasható felolvasással vagy dinamikus Braille-írással",
+      "descriptive": "Minden tartalom olvasható beszédhangon felolvasással vagy dinamikus Braille-írással"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Előre felvett hangklipek",
+      "descriptive": "Az előre felvett hangklipek a tartalomba vannak ágyazva"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Nincs információ az előre felvett hangok elérhetőségéről",
+      "descriptive": " Nincs információ az előre felvett hangok elérhetőségéről"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Csak előre felvett hang",
+      "descriptive": " Hangoskönyv szöveges alternatíva nélkül"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Szöveggel szinkronizált előre felvett hang",
+      "descriptive": "Az összes tartalom előre felvett, szöveggel szinkronizált hanganyagként érhető el"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "A megjelenés módosítható",
+      "descriptive": " A szöveg megjelenése és az oldal elrendezése az olvasási rendszer képességei szerint módosítható (betűcsalád és betűméret, bekezdések, mondatok, szavak és betűk közötti térközök, illetve a háttér- és szövegszín)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Nincs információ a megjelenés módosíthatóságáról",
+      "descriptive": " Nincs információ a megjelenés módosíthatóságáról"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "A megjelenés nem módosítható",
+      "descriptive": "A szöveg és az oldal elrendezése nem módosítható, mivel az olvasási élmény megközelíti a nyomtatott változatét, de az olvasási rendszerekben továbbra is elérhetők a nagyítási lehetőségek"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Megfelelés",
+    "conformance-details-title": "Részletes megfelelőségi információ",
+    "conformance-a": {
+      "compact": "A kiadvány megfelel a minimális hozzáférhetőségi szabványoknak",
+      "descriptive": "A kiadvány az EPUB hozzáférhetőségi és a WCAG 2 A szintű szabványoknak való megfelelést tanúsító megfelelőségi nyilatkozatot tartalmaz"
+    },
+    "conformance-aa": {
+      "compact": "A kiadvány megfelel az elfogadott hozzáférhetőségi szabványoknak",
+      "descriptive": "A kiadvány az EPUB hozzáférhetőségi és a WCAG 2 AA szintű szabványoknak való megfelelést tanúsító megfelelőségi nyilatkozatot tartalmaz"
+    },
+    "conformance-aaa": {
+      "compact": "A kiadvány többet nyújt az elfogadott hozzáférhetőségi szabványoknál",
+      "descriptive": "A kiadvány az EPUB hozzáférhetőségi és a WCAG 2 AAA szintű szabványoknak való megfelelést tanúsító megfelelőségi nyilatkozatot tartalmaz"
+    },
+    "conformance-certifier": {
+      "compact": "A kiadvány tanúsítója:",
+      "descriptive": "A kiadvány tanúsítója: "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "A tanúsító hitelesítő adatai: ",
+      "descriptive": "A tanúsító hitelesítő adatai: "
+    },
+    "conformance-details-certification-info": {
+      "compact": "A kiadvány tanúsításának dátuma: ",
+      "descriptive": "A kiadvány tanúsításának dátuma: "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "További információk a tanúsító jelentésében találhatók",
+      "descriptive": "További információk a tanúsító jelentésében találhatók"
+    },
+    "conformance-details-claim": {
+      "compact": "A kiadvány azt állítja, hogy megfelel a következő szabványoknak:",
+      "descriptive": "A kiadvány azt állítja, hogy megfelel a következő szabványoknak:"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB hozzáférhetőség 1.0",
+      "descriptive": " EPUB hozzáférhetőség 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB hozzáférhetőség 1.1",
+      "descriptive": " EPUB hozzáférhetőség 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " A szint",
+      "descriptive": " A szint"
+    },
+    "conformance-details-level-aa": {
+      "compact": " AA szint",
+      "descriptive": " AA szint"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " AAA szint",
+      "descriptive": " AAA szint"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Webes tartalomhoz való hozzáférhetőségi útmutató (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Webes tartalomhoz való hozzáférhetőségi útmutató (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Webes tartalomhoz való hozzáférhetőségi útmutató (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Nincs elérhető információ",
+      "descriptive": "Nincs elérhető információ"
+    },
+    "conformance-unknown-standard": {
+      "compact": "A kiadvány elfogadott hozzáférhetőségi szabványoknak való megfelelése nem állapítható meg",
+      "descriptive": "A kiadvány elfogadott hozzáférhetőségi szabványoknak való megfelelése nem állapítható meg"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Navigáció",
+    "navigation-index": {
+      "compact": "Index",
+      "descriptive": "Tárgymutató a hivatkozott bejegyzésekre mutató linkekkel"
+    },
+    "navigation-no-metadata": {
+      "compact": "Nincs elérhető információ",
+      "descriptive": "Nincs elérhető információ"
+    },
+    "navigation-page-navigation": {
+      "compact": "Ugrás másik oldalra",
+      "descriptive": "Oldallista a nyomtatott forrásverzió oldalainak eléréséhez"
+    },
+    "navigation-structural": {
+      "compact": "Címsorok",
+      "descriptive": "A strukturált navigációs segítő elemek, például a címsorok, táblázatok stb."
+    },
+    "navigation-toc": {
+      "compact": "Tartalomjegyzék",
+      "descriptive": "Tartalomjegyzék a szöveg összes fejezetére mutató linkekkel"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Formázott tartalom",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Kémiai képletek LaTeX-ben",
+      "descriptive": "Kémiai képletek hozzáférhető formátumban (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Kémiai képletek MathML-ben",
+      "descriptive": "Kémiai képletek hozzáférhető formátumban (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Matematika LaTeX formátumban",
+      "descriptive": "Matematikai képletek hozzáférhető formátumban (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Matematika MathML formátumban",
+      "descriptive": "Matematikai képletek hozzáférhető formátumban (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Matematikai részek szöveges leírása elérhető",
+      "descriptive": "Matematikai részek szöveges leírása elérhető"
+    },
+    "rich-content-closed-captions": {
+      "compact": " A videók hangfeliratozást tartalmaznak",
+      "descriptive": " A kiadványokban szereplő videók hangfeliratozást tartalmaznak"
+    },
+    "rich-content-extended": {
+      "compact": "Az információban gazdag képekhez bővített magyarázó leírások tartoznak",
+      "descriptive": "Az információban gazdag képekhez bővített magyarázó leírások tartoznak"
+    },
+    "rich-content-open-captions": {
+      "compact": " A videók feliratozást tartalmaznak",
+      "descriptive": " A kiadványokban szereplő videók feliratozást tartalmaznak"
+    },
+    "rich-content-transcript": {
+      "compact": "Leiratok elérhetők",
+      "descriptive": "Leiratok elérhetők"
+    },
+    "rich-content-unknown": {
+      "compact": "Nincs elérhető információ",
+      "descriptive": "Nincs elérhető információ"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Veszélyek",
+    "hazards-flashing": {
+      "compact": "Villódzó tartalom",
+      "descriptive": "A kiadványban villódzó tartalom szerepel, amely az ilyen fényre érzékeny felhasználóknál rohamot válthat ki"
+    },
+    "hazards-motion": {
+      "compact": "Mozgásszimuláció",
+      "descriptive": "A kiadvány mozgásszimulációkat tartalmaz, amelyek émelygéssel járó utazási betegséget okozhatnak"
+    },
+    "hazards-no-metadata": {
+      "compact": "Nincs elérhető információ",
+      "descriptive": "Nincs elérhető információ"
+    },
+    "hazards-none": {
+      "compact": "Nincsenek veszélyek",
+      "descriptive": "A kiadvány nem tartalmaz veszélyes részeket"
+    },
+    "hazards-sound": {
+      "compact": "Hangok",
+      "descriptive": "A kiadvány olyan hangokat tartalmaz, amelyek esetleg kellemetlenek lehetnek"
+    },
+    "hazards-unknown": {
+      "compact": "Veszélyes részek megléte nem ismert",
+      "descriptive": "Veszélyes részek megléte nem ismert"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Hozzáférhetőségi összefoglaló",
+    "accessibility-summary-no-metadata": {
+      "compact": "Nincs elérhető információ",
+      "descriptive": "Nincs elérhető információ"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Jogi megfontolások",
+    "legal-considerations-exempt": {
+      "compact": "Egyes joghatóságokban hozzáférhetőségi mentességgel kapcsolatos állítást tartalmaz",
+      "descriptive": "A kiadvány egyes joghatóságokban hozzáférhetőségi mentességgel kapcsolatos állítást tartalmaz"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Nincs elérhető információ",
+      "descriptive": "Nincs elérhető információ"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "További hozzáférhetőségi információk",
+    "additional-accessibility-information-aria": {
+      "compact": "ARIA role attribútumok szerepelnek a kiadványban",
+      "descriptive": "A tartalom a rendszerezés optimalizálása és a navigáció megkönnyítése érdekében ARIA role attribútumokat tartalmaz"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Hangnarráció",
+      "descriptive": "Hangnarráció"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braille-írás",
+      "descriptive": "Braille-írás"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Az információ átadásának nem a szín az egyetlen módja",
+      "descriptive": "Az információ átadásának nem a szín az egyetlen módja"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Diszlexia-barát olvashatóság",
+      "descriptive": "Diszlexia-barát olvashatóság"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Minden szövegkiegészítő jelölés",
+      "descriptive": "Minden szövegkiegészítő jelölés"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Magas kontraszt az előtér és a háttér hangja között",
+      "descriptive": "Magas kontraszt az előtér és a háttér hangja között"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Magas kontraszt az előtér és a háttér szövege között",
+      "descriptive": "Magas kontraszt az előtér és a háttér szövege között"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Nagyméretű nyomtatás",
+      "descriptive": "Nagyméretű nyomtatás"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Oldaltörések beágyazva",
+      "descriptive": "Oldaltörések az eredeti nyomtatási forrásnak megfelelően beágyazva"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Néhány szövegkiegészítő jelölés",
+      "descriptive": "Néhány szövegkiegészítő jelölés"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Jelnyelv",
+      "descriptive": "Jelnyelv"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Tapintható grafikákat tartalmaz",
+      "descriptive": "A vizuális elemek vakok általi hozzáférhetőségének megkönnyítésére tapintható grafikák szerepelnek a kiadványban"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Tapintható 3D-objektumok",
+      "descriptive": "Tapintható 3D-objektumok"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Szövegfelolvasási útmutatók elérhetők",
+      "descriptive": "Szövegfelolvasási útmutatók elérhetők"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Ultra magas kontraszt a szöveg és a háttér között",
+      "descriptive": "Ultra magas kontraszt a szöveg és a háttér között"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Látható oldalszámozás ",
+      "descriptive": "Látható oldalszámozás "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Háttérzajok nélkül",
+      "descriptive": "Háttérzajok nélkül"
+    }
+  }
+}

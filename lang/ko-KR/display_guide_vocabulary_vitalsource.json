@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "ko-KR",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "영어권 지역의 다양한 관계자를 대표하는 대규모 그룹이 논의한 원문입니다. 개념 증명 구현 및 패널 테스트를 거쳐 개선되었습니다."
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "읽기 방식",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "대체 텍스트가 있습니다.",
+      "descriptive": "이미지에 대한 대체 텍스트 설명이 있습니다."
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "비시각적 읽기에 대한 정보가 없습니다.",
+      "descriptive": "비시각적 읽기에 대한 정보가 없습니다."
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "소리내어 읽기 또는 동적 점자로 읽을 수 없습니다.",
+      "descriptive": "콘텐츠를 소리내어 읽기 또는 동적 점자로 읽을 수 없습니다."
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "소리내어 읽기 또는 동적 점자로는 완전히 읽을 수 없습니다.",
+      "descriptive": "모든 콘텐츠를 소리내어 읽기 음성 또는 동적 점자로 읽을 수 있는 것은 아닙니다."
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "소리내어 읽기 또는 동적 점자로 읽을 수 있습니다.",
+      "descriptive": "모든 콘텐츠를 소리내어 읽기 음성 또는 동적 점자로 읽을 수 있습니다."
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "사전 녹음된 오디오 클립",
+      "descriptive": "사전 녹음된 오디오 클립이 콘텐츠에 삽입됩니다."
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " 사전 녹음된 오디오에 대한 정보가 없습니다.",
+      "descriptive": " 사전 녹음된 오디오에 대한 정보가 없습니다."
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "사전 녹음된 오디오만",
+      "descriptive": " 텍스트 대체물이 없는 오디오북"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "텍스트와 동기화된 사전 녹음된 오디오",
+      "descriptive": "모든 콘텐츠는 텍스트와 동기화되어 있는 사전 녹음된 오디오로 제공됩니다."
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "모양을 수정할 수 있습니다.",
+      "descriptive": " 텍스트 및 페이지 레이아웃의 모양은 읽기 시스템의 기능(글꼴 모음 및 글꼴 크기, 단락, 문장, 단어, 글자 사이의 공백, 배경 및 텍스트 색상)에 따라 수정할 수 있습니다."
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "모양 수정 가능성에 대한 정보가 없습니다.",
+      "descriptive": " 모양 수정 가능성에 대한 정보가 없습니다."
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "모양을 수정할 수 없습니다.",
+      "descriptive": "텍스트와 페이지 레이아웃은 수정할 수 없으며, 읽기 환경은 인쇄 버전과 유사하지만 읽기 시스템은 여전히 확대/축소 옵션을 제공할 수 있습니다."
+    }
+  },
+  "conformance": {
+    "conformance-title": "적합성",
+    "conformance-details-title": "자세한 적합성 정보",
+    "conformance-a": {
+      "compact": "이 출판물은 최소한의 접근성 표준을 충족합니다.",
+      "descriptive": "이 출판물에는 EPUB 접근성 및 WCAG 2 레벨 A 표준을 충족한다는 적합성 선언문이 포함되어 있습니다."
+    },
+    "conformance-aa": {
+      "compact": "이 출판물은 공인된 접근성 표준을 충족합니다.",
+      "descriptive": "이 출판물에는 EPUB 접근성 및 WCAG 2 레벨 AA 표준을 충족한다는 적합성 선언문이 포함되어 있습니다."
+    },
+    "conformance-aaa": {
+      "compact": "이 출판물은 허용되는 접근성 표준을 초과합니다.",
+      "descriptive": "이 출판물에는 EPUB 접근성 및 WCAG 2 레벨 AAA 표준을 충족한다는 적합성 선언문이 포함되어 있습니다."
+    },
+    "conformance-certifier": {
+      "compact": "이 출판물은 다음 기관에서 인증되었습니다.",
+      "descriptive": "이 출판물은 다음 기관에서 인증되었습니다. "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "인증자의 자격 증명은 다음과 같습니다. ",
+      "descriptive": "인증자의 자격 증명은 다음과 같습니다. "
+    },
+    "conformance-details-certification-info": {
+      "compact": "이 출판물은 인증되었습니다. ",
+      "descriptive": "이 출판물은 인증되었습니다. "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "자세한 내용은 인증자의 보고서를 참조하세요.",
+      "descriptive": "자세한 내용은 인증자의 보고서를 참조하세요."
+    },
+    "conformance-details-claim": {
+      "compact": "이 출판물은 충족한다고 주장합니다.",
+      "descriptive": "이 출판물은 충족한다고 주장합니다."
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB 접근성 1.0",
+      "descriptive": " EPUB 접근성 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB 접근성 1.1",
+      "descriptive": " EPUB 접근성 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " 레벨 A",
+      "descriptive": " 레벨 A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Level AA",
+      "descriptive": " Level AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " 레벨 AAA",
+      "descriptive": " 레벨 AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " 웹 콘텐츠 접근성 지침(WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " 웹 콘텐츠 접근성 지침(WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " 웹 콘텐츠 접근성 지침(WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "정보가 없습니다",
+      "descriptive": "정보가 없습니다"
+    },
+    "conformance-unknown-standard": {
+      "compact": "이 출판물의 접근성 표준 준수 여부는 확인할 수 없습니다.",
+      "descriptive": "이 출판물의 접근성 표준 준수 여부는 확인할 수 없습니다."
+    }
+  },
+  "navigation": {
+    "navigation-title": "내비게이션",
+    "navigation-index": {
+      "compact": "색인",
+      "descriptive": "참조된 항목에 대한 링크가 포함된 색인"
+    },
+    "navigation-no-metadata": {
+      "compact": "정보가 없습니다",
+      "descriptive": "정보가 없습니다"
+    },
+    "navigation-page-navigation": {
+      "compact": "페이지로 이동",
+      "descriptive": "인쇄 소스 버전의 페이지로 이동하려면 페이지 목록을 사용하세요."
+    },
+    "navigation-structural": {
+      "compact": "제목",
+      "descriptive": "구조화된 내비게이션을 위한 제목, 표 등의 요소"
+    },
+    "navigation-toc": {
+      "compact": "목차",
+      "descriptive": "링크를 통해 텍스트의 모든 장으로 이동할 수 있는 목차"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "풍부한 콘텐츠",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "LaTeX에서의 화학 공식",
+      "descriptive": "접근 가능한 형식의 화학 공식(LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "MathML에서의 화학 공식",
+      "descriptive": "접근 가능한 형식의 화학 공식(MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "LaTeX로 수학",
+      "descriptive": "접근 가능한 형식의 수학 공식(LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "MathML로 표현된 수학",
+      "descriptive": "접근 가능한 형식의 수학 공식(MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "수학에 대한 텍스트 설명이 제공됩니다.",
+      "descriptive": "수학에 대한 텍스트 설명이 제공됩니다."
+    },
+    "rich-content-closed-captions": {
+      "compact": " 동영상에는 자막이 포함되어 있습니다.",
+      "descriptive": " 출판물에 포함된 동영상에는 자막이 포함되어 있습니다."
+    },
+    "rich-content-extended": {
+      "compact": "정보가 풍부한 이미지는 자세한 설명이 제공됩니다.",
+      "descriptive": "정보가 풍부한 이미지는 자세한 설명이 제공됩니다."
+    },
+    "rich-content-open-captions": {
+      "compact": " 동영상에는 열린 캡션이 있습니다.",
+      "descriptive": " 출판물에 포함된 동영상에는 오픈 캡션이 있습니다."
+    },
+    "rich-content-transcript": {
+      "compact": "대본 제공",
+      "descriptive": "대본 제공"
+    },
+    "rich-content-unknown": {
+      "compact": "정보가 없습니다",
+      "descriptive": "정보가 없습니다"
+    }
+  },
+  "hazards": {
+    "hazards-title": "위험",
+    "hazards-flashing": {
+      "compact": "깜빡이는 콘텐츠",
+      "descriptive": "이 출판물에는 광과민성 발작을 일으킬 수 있는 깜박이는 콘텐츠가 포함되어 있습니다."
+    },
+    "hazards-motion": {
+      "compact": "모션 시뮬레이션",
+      "descriptive": "이 출판물에는 멀미를 유발할 수 있는 모션 시뮬레이션이 포함되어 있습니다."
+    },
+    "hazards-no-metadata": {
+      "compact": "정보가 없습니다",
+      "descriptive": "정보가 없습니다"
+    },
+    "hazards-none": {
+      "compact": "위험 없음",
+      "descriptive": "이 출판물에는 위험이 없습니다."
+    },
+    "hazards-sound": {
+      "compact": "소리",
+      "descriptive": "이 출판물에는 불쾌감을 줄 수 있는 소리가 포함되어 있습니다."
+    },
+    "hazards-unknown": {
+      "compact": "위험 존재 여부는 알 수 없습니다.",
+      "descriptive": "위험 존재 여부는 알 수 없습니다."
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "접근성 요약",
+    "accessibility-summary-no-metadata": {
+      "compact": "정보가 없습니다",
+      "descriptive": "정보가 없습니다"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "법적 고려사항",
+    "legal-considerations-exempt": {
+      "compact": "일부 지역에서 접근성 면제를 주장합니다.",
+      "descriptive": "이 출판물은 일부 지역에서 접근성 면제를 주장합니다."
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "정보가 없습니다",
+      "descriptive": "정보가 없습니다"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "추가 접근성 정보",
+    "additional-accessibility-information-aria": {
+      "compact": "ARIA 역할이 포함되어 있습니다.",
+      "descriptive": "ARIA 역할로 콘텐츠가 향상되어 조직을 최적화하고 탐색이 용이합니다."
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "오디오 설명",
+      "descriptive": "오디오 설명"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "점자",
+      "descriptive": "점자"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "색상은 정보를 전달하는 유일한 방법이 아닙니다.",
+      "descriptive": "색상은 정보를 전달하는 유일한 방법이 아닙니다."
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "난독증 가독성",
+      "descriptive": "난독증 가독성"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "전체 루비 주석",
+      "descriptive": "전체 루비 주석"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "전경 오디오와 배경 오디오 간의 높은 대비",
+      "descriptive": "전경 오디오와 배경 오디오 간의 높은 대비"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "전경 텍스트와 배경 간의 높은 대비",
+      "descriptive": "전경 텍스트와 배경 간의 높은 대비"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "큰 글씨",
+      "descriptive": "큰 글씨"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "페이지 구분이 포함되었습니다.",
+      "descriptive": "원본 인쇄본의 페이지 구분이 포함되었습니다."
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "몇 가지 Ruby 주석",
+      "descriptive": "몇 가지 Ruby 주석"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "수화",
+      "descriptive": "수화"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "촉각 그래픽이 포함되어 있습니다.",
+      "descriptive": "시각 장애인이 시각적 요소에 쉽게 접근할 수 있도록 촉각 그래픽이 통합되었습니다."
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "촉각 3D 객체",
+      "descriptive": "촉각 3D 객체"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "텍스트 음성 변환(TTS) 힌트가 제공됩니다.",
+      "descriptive": "텍스트 음성 변환(TTS) 힌트가 제공됩니다."
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "텍스트와 배경 간의 높은 대비",
+      "descriptive": "텍스트와 배경 간의 높은 대비"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "페이지 번호 표시 ",
+      "descriptive": "페이지 번호 표시 "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "배경음이 없습니다.",
+      "descriptive": "배경음이 없습니다."
+    }
+  }
+}

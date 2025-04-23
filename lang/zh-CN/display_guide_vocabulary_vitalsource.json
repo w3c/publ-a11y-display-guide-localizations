@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "zh-CN",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "原始措辞是由代表英语地区不同参与者的大群体共同讨论得出的。经过概念验证和小组测试人员的努力，该系统已得到改进"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "阅读方式",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "有替代文本",
+      "descriptive": "为图像提供替代文本描述"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "没有关于非视觉阅读的可用信息",
+      "descriptive": "没有关于非视觉阅读的可用信息"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "无法朗读或动态盲文阅读",
+      "descriptive": "内容无法朗读或动态盲文阅读"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "无法完全朗读或动态盲文阅读",
+      "descriptive": "并非所有内容都可以朗读或动态盲文阅读"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "可以朗读或动态盲文阅读",
+      "descriptive": "所有内容均可朗读或动态盲文阅读"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "预先录制的音频片段",
+      "descriptive": "在内容中嵌入了预先录制的音频片段"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " 没有可用的预录音频信息",
+      "descriptive": " 没有可用的预录音频信息"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "仅预先录制的音频",
+      "descriptive": " 没有文字版的有声读物"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "与文本同步的预录音频",
+      "descriptive": "所有内容均以预先录制的音频形式提供，并与文本同步"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "外观可以修改",
+      "descriptive": " 文本外观和页面布局可根据阅读系统的功能进行修改（字体样式和字体大小，段落、句子、单词和字母之间的间距，以及背景和文本的颜色）"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "没有关于外观可修改性的信息",
+      "descriptive": " 没有关于外观可修改性的信息"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "外观无法修改",
+      "descriptive": "文本和页面布局无法修改，阅读体验接近印刷版，但阅读系统仍可提供缩放选项"
+    }
+  },
+  "conformance": {
+    "conformance-title": "一致性",
+    "conformance-details-title": "详细的一致性信息",
+    "conformance-a": {
+      "compact": "本出版物符合最低的无障碍标准",
+      "descriptive": "该出版物包含一份符合性声明，表明其符合 EPUB 可访问性和 WCAG 2 级别 A 标准"
+    },
+    "conformance-aa": {
+      "compact": "本出版物符合公认的无障碍标准",
+      "descriptive": "本出版物包含一份符合 EPUB 无障碍和 WCAG 2 级 AA 标准的声明"
+    },
+    "conformance-aaa": {
+      "compact": "本出版物超出了公认的无障碍标准",
+      "descriptive": "本出版物包含一份符合 EPUB 无障碍和 WCAG 2 级 AAA 标准的声明"
+    },
+    "conformance-certifier": {
+      "compact": "本出版物认证者为",
+      "descriptive": "本出版物认证者为 "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "认证者的凭据是 ",
+      "descriptive": "认证者的凭据是 "
+    },
+    "conformance-details-certification-info": {
+      "compact": "本出版物认证日期为 ",
+      "descriptive": "本出版物认证日期为 "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "有关更多信息，请参阅认证者的报告",
+      "descriptive": "有关更多信息，请参阅认证者的报告"
+    },
+    "conformance-details-claim": {
+      "compact": "本出版物声称符合",
+      "descriptive": "本出版物声称符合"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB 无障碍 1.0",
+      "descriptive": " EPUB 无障碍 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB 无障碍 1.1",
+      "descriptive": " EPUB 无障碍 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " A 级",
+      "descriptive": " A 级"
+    },
+    "conformance-details-level-aa": {
+      "compact": " AA 级",
+      "descriptive": " AA 级"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " AAA 级",
+      "descriptive": " AAA 级"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Web 内容无障碍指南 (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Web 内容无障碍指南 (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Web 内容可访问性指南 (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "没有可用的信息",
+      "descriptive": "没有可用的信息"
+    },
+    "conformance-unknown-standard": {
+      "compact": "无法确定本出版物是否符合公认的无障碍标准",
+      "descriptive": "无法确定本出版物是否符合公认的无障碍标准"
+    }
+  },
+  "navigation": {
+    "navigation-title": "导航",
+    "navigation-index": {
+      "compact": "索引",
+      "descriptive": "带有参考条目链接的索引"
+    },
+    "navigation-no-metadata": {
+      "compact": "没有可用的信息",
+      "descriptive": "没有可用的信息"
+    },
+    "navigation-page-navigation": {
+      "compact": "转到页",
+      "descriptive": "页面列表，转到印刷版页面"
+    },
+    "navigation-structural": {
+      "compact": "标题",
+      "descriptive": "用于结构化导航的标题、表格等元素"
+    },
+    "navigation-toc": {
+      "compact": "目录",
+      "descriptive": "通过链接访问所有文本章节的目录"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "丰富的内容",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "LaTeX 中的化学公式",
+      "descriptive": "以无障碍格式（LaTeX）呈现的化学公式"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "MathML 中的化学式",
+      "descriptive": "以无障碍格式（MathML）呈现的化学公式"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "以 LaTeX 格式呈现的数学",
+      "descriptive": "以无障碍格式（LaTeX）呈现的数学公式"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "数学内容采用 MathML 格式",
+      "descriptive": "以无障碍格式（MathML）呈现的数学公式"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "提供数学的文本说明",
+      "descriptive": "提供数学的文本说明"
+    },
+    "rich-content-closed-captions": {
+      "compact": " 视频有隐藏式字幕",
+      "descriptive": " 出版物中的视频配有隐藏式字幕"
+    },
+    "rich-content-extended": {
+      "compact": "信息丰富的图像附有详细描述",
+      "descriptive": "信息丰富的图像附有详细描述"
+    },
+    "rich-content-open-captions": {
+      "compact": " 视频有开放字幕",
+      "descriptive": " 出版物中的视频配有开放式字幕"
+    },
+    "rich-content-transcript": {
+      "compact": "提供的成绩单",
+      "descriptive": "提供的成绩单"
+    },
+    "rich-content-unknown": {
+      "compact": "没有可用的信息",
+      "descriptive": "没有可用的信息"
+    }
+  },
+  "hazards": {
+    "hazards-title": "危险",
+    "hazards-flashing": {
+      "compact": "闪烁的内容",
+      "descriptive": "该出版物含有闪烁内容，可能引发光敏性癫痫发作"
+    },
+    "hazards-motion": {
+      "compact": "运动模拟",
+      "descriptive": "该出版物包含可能引起晕动症的运动模拟"
+    },
+    "hazards-no-metadata": {
+      "compact": "没有可用的信息",
+      "descriptive": "没有可用的信息"
+    },
+    "hazards-none": {
+      "compact": "无危险",
+      "descriptive": "该出版物不包含任何危险"
+    },
+    "hazards-sound": {
+      "compact": "声音",
+      "descriptive": "该出版物包含可能令人感到不适的声音"
+    },
+    "hazards-unknown": {
+      "compact": "未知是否存在危险",
+      "descriptive": "未知是否存在危险"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "无障碍摘要",
+    "accessibility-summary-no-metadata": {
+      "compact": "没有可用的信息",
+      "descriptive": "没有可用的信息"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "法律考量",
+    "legal-considerations-exempt": {
+      "compact": "声称在某些司法管辖区享有无障碍豁免权",
+      "descriptive": "本出版物声称在某些司法管辖区享有无障碍豁免权。"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "没有可用的信息",
+      "descriptive": "没有可用的信息"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "其他无障碍信息",
+    "additional-accessibility-information-aria": {
+      "compact": "包括 ARIA 角色",
+      "descriptive": "通过 ARIA 角色增强内容，以优化组织并促进导航"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "音频描述",
+      "descriptive": "音频描述"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "盲文",
+      "descriptive": "盲文"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "颜色不是传达信息的唯一方式",
+      "descriptive": "颜色不是传达信息的唯一方式"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "阅读障碍",
+      "descriptive": "阅读障碍"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "完整的 Ruby 注解",
+      "descriptive": "完整的 Ruby 注解"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "前景和背景音频对比度高",
+      "descriptive": "前景和背景音频对比度高"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "前景与背景文本对比度高",
+      "descriptive": "前景与背景文本对比度高"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "大字体",
+      "descriptive": "大字体"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "包括分页符",
+      "descriptive": "包括原始印刷来源的分页符"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "一些 Ruby 注解",
+      "descriptive": "一些 Ruby 注解"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "手语",
+      "descriptive": "手语"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "包括触觉图形",
+      "descriptive": "为了方便视障人士使用，视觉元素还随有触觉图形"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "触觉 3D 对象",
+      "descriptive": "触觉 3D 对象"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "已提供文本转语音提示",
+      "descriptive": "已提供文本转语音提示"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "文本与背景对比度极高",
+      "descriptive": "文本与背景对比度极高"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "可见页码 ",
+      "descriptive": "可见页码 "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "无背景声音",
+      "descriptive": "无背景声音"
+    }
+  }
+}

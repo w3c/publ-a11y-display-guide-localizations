@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "is-IS",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Upprunalegt orðalag var rætt af stórum hópi fulltrúa frá mismunandi enskumælandi löndum. Það hefur verið bætt eftir sönnun á gildi hugmyndar og pallborðsprófunum."
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Leiðir til lesturs",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Hefur annan texta",
+      "descriptive": "Hefur aðrar textalýsingar fyrir myndir"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Engar upplýsingar um ósjónrænan lestur eru tiltækar",
+      "descriptive": "Engar upplýsingar um ósjónrænan lestur eru tiltækar"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Ekki læsilegt í upplestri eða virku blindraletri",
+      "descriptive": "Efnið er ekki læsilegt sem upplestur eða virkt blindraletur"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Ekki að fullu læsilegt í upplestri eða virku blindraletri",
+      "descriptive": "Ekki verður allt efnið læsilegt sem upplestur eða virkt blindraletur"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Læsilegt í upplestri og virku blindraletri",
+      "descriptive": "Allt efni er læsilegt sem upplestur og virkt blindraletur"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Áður upptekinn hljóðbútur",
+      "descriptive": "Áður uppteknir hljóðbútar eru felldir inn í efnið"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Engar upplýsingar um áður upptekið hljóð eru tiltækar",
+      "descriptive": " Engar upplýsingar um áður upptekið hljóð eru tiltækar"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Aðeins áður upptekið hljóð",
+      "descriptive": " Hljóðbók án textavalkosts"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Áður upptekið hljóð samstillt við texta",
+      "descriptive": "Allt efnið er fáanlegt sem áður upptekið hljóð, samstillt við texta"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Hægt er að breyta útliti",
+      "descriptive": " Hægt er að breyta útliti textans og uppsetningu síðunnar í samræmi við getu leskerfisins (leturgerð og leturstærð, bil á milli málsgreina, setninga, orða og bókstafa, sem og lit á bakgrunni og texta)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Engar upplýsingar liggja fyrir um möguleika á að breyta útliti",
+      "descriptive": " Engar upplýsingar liggja fyrir um möguleika á að breyta útliti"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Ekki er hægt að breyta útliti",
+      "descriptive": "Ekki er hægt að breyta texta og síðuskipulagi þar sem lestrarupplifunin er nálægt prentútgáfu, en engu að síður er hægt að nota aðdrátt í lestrarkerfum"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Samræmi",
+    "conformance-details-title": "Ítarlegar upplýsingar um samræmi",
+    "conformance-a": {
+      "compact": "Þetta útgáfurit uppfyllir lágmarksstaðla um aðgengi",
+      "descriptive": "Útgáfuritið inniheldur samræmisyfirlýsingu um að hún uppfylli EPUB-aðgengisstaðalinn og WCAG 2 Level AA-staðalinn."
+    },
+    "conformance-aa": {
+      "compact": "Þetta útgáfurit uppfyllir viðurkennda aðgengisstaðla",
+      "descriptive": "Útgáfuritið inniheldur samræmisyfirlýsingu um að hún uppfylli EPUB-aðgengisstaðalinn og WCAG 2 Level AA-staðalinn."
+    },
+    "conformance-aaa": {
+      "compact": "Þetta útgáfurit fer fram úr viðurkenndum aðgengisstöðlum",
+      "descriptive": "Útgáfuritið inniheldur samræmisyfirlýsingu um að hún uppfylli EPUB-aðgengisstaðalinn og WCAG 2 Level AAA-staðalinn."
+    },
+    "conformance-certifier": {
+      "compact": "Útgáfuritið var vottað af",
+      "descriptive": "Útgáfuritið var vottað af "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Skilríki vottunaraðila er ",
+      "descriptive": "Skilríki vottunaraðila er "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Útgáfuritið var vottað þann ",
+      "descriptive": "Útgáfuritið var vottað þann "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Frekari upplýsingar er að finna í skýrslu vottunaraðila",
+      "descriptive": "Frekari upplýsingar er að finna í skýrslu vottunaraðila"
+    },
+    "conformance-details-claim": {
+      "compact": "Þetta útgáfurit segist uppfylla",
+      "descriptive": "Þetta útgáfurit segist uppfylla"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB 1.0 aðgengisstaðalinn",
+      "descriptive": " EPUB 1.0 aðgengisstaðalinn"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB 1.1 aðgengisstaðalinn",
+      "descriptive": " EPUB 1.1 aðgengisstaðalinn"
+    },
+    "conformance-details-level-a": {
+      "compact": " Level A",
+      "descriptive": " Level A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Level AA",
+      "descriptive": " Level AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Level AAA",
+      "descriptive": " Level AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Leiðbeiningar um aðgengi að vefefni (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Leiðbeiningar um aðgengi að vefefni (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Leiðbeiningar um aðgengi að vefefni (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Engar upplýsingar eru tiltækar",
+      "descriptive": "Engar upplýsingar eru tiltækar"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Ekki er hægt að ákvarða samræmi þessa útgáfurits við viðurkennda aðgengisstaðla",
+      "descriptive": "Ekki er hægt að ákvarða samræmi þessa útgáfurits við viðurkennda aðgengisstaðla"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Stjórntæki",
+    "navigation-index": {
+      "compact": "Atriðisorðaskrá",
+      "descriptive": "Atriðaorðaskrá með tenglum á tilvísanir í færslur"
+    },
+    "navigation-no-metadata": {
+      "compact": "Engar upplýsingar eru tiltækar",
+      "descriptive": "Engar upplýsingar eru tiltækar"
+    },
+    "navigation-page-navigation": {
+      "compact": "Fara á síðu",
+      "descriptive": "Síðulisti til að fara á síður úr upprunalegu prentútgáfunni"
+    },
+    "navigation-structural": {
+      "compact": "Fyrirsagnir",
+      "descriptive": "Þættir eins og fyrirsagnir, töflur o.s.frv. fyrir skipulega leiðsögn"
+    },
+    "navigation-toc": {
+      "compact": "Efnisyfirlit",
+      "descriptive": "Efnisyfirlit sem veitir aðgang að öllum köflum textans í gegnum tengla"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Sniðið efni",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Efnaformúlur í LaTeX",
+      "descriptive": "Efnaformúlur á aðgengilegu sniði (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Efnaformúlur í MathML",
+      "descriptive": "Efnaformúlur á aðgengilegu sniði (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Stærðfræði sem LaTeX",
+      "descriptive": "Stærðfræðiformúlur á aðgengilegu sniði (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Stærðfræði sem MathML",
+      "descriptive": "Stærðfræðiformúlur á aðgengilegu sniði (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Textalýsingar á stærðfræði eru veittar",
+      "descriptive": "Textalýsingar á stærðfræði eru veittar"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Myndbönd innihalda skjátexta",
+      "descriptive": " Myndbönd sem eru í útgáfuritum innihalda skjátexta"
+    },
+    "rich-content-extended": {
+      "compact": "Upplýsingaríkum myndum er ítarlega lýst",
+      "descriptive": "Upplýsingaríkum myndum er ítarlega lýst"
+    },
+    "rich-content-open-captions": {
+      "compact": " Myndbönd innihalda fasta skjátexta",
+      "descriptive": " Myndbönd í útgáfuritum innihalda fasta skjátexta"
+    },
+    "rich-content-transcript": {
+      "compact": "Umritanir fylgja",
+      "descriptive": "Umritanir fylgja"
+    },
+    "rich-content-unknown": {
+      "compact": "Engar upplýsingar eru tiltækar",
+      "descriptive": "Engar upplýsingar eru tiltækar"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Hættur",
+    "hazards-flashing": {
+      "compact": "Blikkandi efni",
+      "descriptive": "Útgáfuritið inniheldur blikkandi efni sem getur valdið ljósnæmum flogum"
+    },
+    "hazards-motion": {
+      "compact": "Hreyfieftirlíking",
+      "descriptive": "Útgáfuritið inniheldur hreyfieftirlíkingar sem geta valdið ógleði"
+    },
+    "hazards-no-metadata": {
+      "compact": "Engar upplýsingar eru tiltækar",
+      "descriptive": "Engar upplýsingar eru tiltækar"
+    },
+    "hazards-none": {
+      "compact": "Engar hættur",
+      "descriptive": "Útgáfuritið inniheldur engar hættur"
+    },
+    "hazards-sound": {
+      "compact": "Hljóð",
+      "descriptive": "Útgáfuritið inniheldur hljóð sem geta verið óþægileg"
+    },
+    "hazards-unknown": {
+      "compact": "Ekki er vitað hvort hættur séu til staðar",
+      "descriptive": "Ekki er vitað hvort hættur séu til staðar"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Yfirlit yfir aðgengi",
+    "accessibility-summary-no-metadata": {
+      "compact": "Engar upplýsingar eru tiltækar",
+      "descriptive": "Engar upplýsingar eru tiltækar"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Lagaleg atriði",
+    "legal-considerations-exempt": {
+      "compact": "Gerir kröfu um undanþágu frá aðgengiskröfum í sumum lögsagnarumdæmum",
+      "descriptive": "Þetta útgáfurit gerir kröfu um undanþágu frá aðgengiskröfum í sumum lögsagnarumdæmum."
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Engar upplýsingar eru tiltækar",
+      "descriptive": "Engar upplýsingar eru tiltækar"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Viðbótarupplýsingar um aðgengi",
+    "additional-accessibility-information-aria": {
+      "compact": "ARIA-hlutverk innifalin",
+      "descriptive": "Efni er aukið með ARIA-hlutverkum til að hámarka skipulag og auðvelda skoðun"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Hljóðlýsingar",
+      "descriptive": "Hljóðlýsingar"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Blindraletur",
+      "descriptive": "Blindraletur"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Litur er ekki eina leiðin til að koma upplýsingum á framfæri.",
+      "descriptive": "Litur er ekki eina leiðin til að koma upplýsingum á framfæri."
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Læsileiki fyrir lesblinda",
+      "descriptive": "Læsileiki fyrir lesblinda"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Ruby-skýringar að fullu",
+      "descriptive": "Ruby-skýringar að fullu"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Mikil skil á milli hljóðs í forgrunni og bakgrunni",
+      "descriptive": "Mikil skil á milli hljóðs í forgrunni og bakgrunni"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Mikil skil á milli texta í forgrunni og bakgrunni",
+      "descriptive": "Mikil skil á milli texta í forgrunni og bakgrunni"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Stórt letur",
+      "descriptive": "Stórt letur"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Síðuskil innifalin",
+      "descriptive": "Síðuskil innifalin frá upprunalegri prentútgáfu"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Ruby-skýringar að hluta",
+      "descriptive": "Ruby-skýringar að hluta"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Táknmál",
+      "descriptive": "Táknmál"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Snertigrafík innifalin",
+      "descriptive": "Snertigrafík hefur verið samþætt til að auðvelda blindu fólki aðgang að sjónrænum þáttum"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Áþreifanlegir þrívíddarhlutir",
+      "descriptive": "Áþreifanlegir þrívíddarhlutir"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Leiðrétting fyrir talgervil í boði",
+      "descriptive": "Leiðrétting fyrir talgervil í boði"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Mjög mikil birtuskil á milli texta og bakgrunns",
+      "descriptive": "Mjög mikil birtuskil á milli texta og bakgrunns"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Sýnilegt blaðsíðutal ",
+      "descriptive": "Sýnilegt blaðsíðutal "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Án bakgrunnshljóða",
+      "descriptive": "Án bakgrunnshljóða"
+    }
+  }
+}

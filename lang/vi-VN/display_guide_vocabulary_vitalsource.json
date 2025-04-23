@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "vi-VN",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Cụm từ gốc được thảo luận bởi một nhóm lớn đại diện cho các bên khác nhau từ các khu vực nói tiếng Anh. Cụm từ gốc đã được cải thiện sau khi chứng minh khái niệm triển khai và thử nghiệm bảng điều khiển"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Các cách đọc",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Có văn bản thay thế",
+      "descriptive": "Có các mô tả văn bản thay thế cho hình ảnh"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Không có thông tin nào về việc đọc không cần hình ảnh",
+      "descriptive": "Không có thông tin nào về việc đọc không cần hình ảnh"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Không thể đọc được bằng chữ nổi đọc to hoặc chữ nổi động",
+      "descriptive": "Nội dung không thể đọc được dưới dạng lời nói đọc to hoặc chữ nổi động"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Không đọc được hoàn toàn ở dạng đọc to hoặc chữ nổi động",
+      "descriptive": "Không phải tất cả nội dung sẽ có thể đọc được dưới dạng bài phát biểu đọc to hoặc chữ nổi động"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Có thể đọc được ở dạng đọc to hoặc chữ nổi động",
+      "descriptive": "Tất cả nội dung có thể được đọc dưới dạng lời nói đọc to hoặc chữ nổi động"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Các đoạn âm thanh được ghi sẵn",
+      "descriptive": "Các đoạn âm thanh được ghi sẵn được nhúng vào nội dung"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Không có thông tin nào về âm thanh đã được ghi âm trước",
+      "descriptive": " Không có thông tin nào về âm thanh đã được ghi âm trước"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Chỉ âm thanh được ghi sẵn",
+      "descriptive": " Sách nói không có văn bản thay thế"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Âm thanh ghi sẵn được đồng bộ hóa với văn bản",
+      "descriptive": "Tất cả nội dung đều có sẵn dưới dạng âm thanh được ghi âm trước đồng bộ với văn bản"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Có thể sửa đổi hình thức",
+      "descriptive": " Có thể sửa đổi hình thức của văn bản và bố cục trang theo chức năng của hệ thống đọc (bộ phông chữ và kích thước phông chữ, khoảng cách giữa các đoạn văn, câu văn, từ và chữ cái, cũng như màu nền và văn bản)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Không có thông tin về khả năng thay đổi giao diện",
+      "descriptive": " Không có thông tin về khả năng thay đổi giao diện"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Không thể sửa đổi hình thức",
+      "descriptive": "Không thể sửa đổi văn bản và bố cục trang vì trải nghiệm đọc gần giống với phiên bản giấy in, nhưng hệ thống đọc vẫn có thể cung cấp các tùy chọn thu phóng"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Hợp chuẩn",
+    "conformance-details-title": "Thông tin chi tiết về sự phù hợp",
+    "conformance-a": {
+      "compact": "Ấn phẩm này đáp ứng các tiêu chuẩn tối thiểu về hỗ trợ tiếp cận",
+      "descriptive": "Ấn phẩm chứa tuyên bố về sự phù hợp cho biết đáp ứng tiêu chuẩn Hỗ trợ tiếp cận EPUB và WCAG 2 Cấp độ A"
+    },
+    "conformance-aa": {
+      "compact": "Ấn phẩm này đáp ứng các tiêu chuẩn được chấp nhận về hỗ trợ tiếp cận",
+      "descriptive": "Ấn phẩm chứa tuyên bố về sự phù hợp cho biết đáp ứng tiêu chuẩn Hỗ trợ tiếp cận EPUB và WCAG 2 Cấp độ AA"
+    },
+    "conformance-aaa": {
+      "compact": "Ấn phẩm này vượt quá các tiêu chuẩn được chấp nhận về hỗ trợ tiếp cận",
+      "descriptive": "Ấn phẩm chứa tuyên bố về sự phù hợp cho biết đáp ứng tiêu chuẩn Hỗ trợ tiếp cận EPUB và WCAG 2 Cấp độ AAA"
+    },
+    "conformance-certifier": {
+      "compact": "Ấn phẩm đã được chứng nhận bởi",
+      "descriptive": "Ấn phẩm đã được chứng nhận bởi "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Thông tin xác thực của người chứng nhận là ",
+      "descriptive": "Thông tin xác thực của người chứng nhận là "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Ấn phẩm đã được chứng nhận vào ngày ",
+      "descriptive": "Ấn phẩm đã được chứng nhận vào ngày "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Để biết thêm thông tin, vui lòng tham khảo báo cáo của cơ quan chứng nhận",
+      "descriptive": "Để biết thêm thông tin, vui lòng tham khảo báo cáo của cơ quan chứng nhận"
+    },
+    "conformance-details-claim": {
+      "compact": "Ấn phẩm này tuyên bố đáp ứng",
+      "descriptive": "Ấn phẩm này tuyên bố đáp ứng"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " Hỗ trợ tiếp cận EPUB 1.0",
+      "descriptive": " Hỗ trợ tiếp cận EPUB 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " Hỗ trợ tiếp cận EPUB 1.1",
+      "descriptive": " Hỗ trợ tiếp cận EPUB 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Cấp độ A",
+      "descriptive": " Cấp độ A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Cấp độ AA",
+      "descriptive": " Cấp độ AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Cấp độ AAA",
+      "descriptive": " Cấp độ AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Nguyên tắc hỗ trợ tiếp cận nội dung web (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Nguyên tắc hỗ trợ tiếp cận nội dung web (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Nguyên tắc hỗ trợ tiếp cận nội dung web (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Không có thông tin nào",
+      "descriptive": "Không có thông tin nào"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Không thể xác định liệu ấn phẩm này có phù hợp với các tiêu chuẩn được chấp nhận về hỗ trợ tiếp cận hay không",
+      "descriptive": "Không thể xác định liệu ấn phẩm này có phù hợp với các tiêu chuẩn được chấp nhận về hỗ trợ tiếp cận hay không"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Điều hướng",
+    "navigation-index": {
+      "compact": "Chỉ mục",
+      "descriptive": "Chỉ mục có liên kết đến các mục được tham chiếu"
+    },
+    "navigation-no-metadata": {
+      "compact": "Không có thông tin nào",
+      "descriptive": "Không có thông tin nào"
+    },
+    "navigation-page-navigation": {
+      "compact": "Đi tới trang",
+      "descriptive": "Danh sách trang để chuyển đến các trang từ phiên bản nguồn in"
+    },
+    "navigation-structural": {
+      "compact": "Tiêu đề",
+      "descriptive": "Các thành phần như tiêu đề, bảng biểu, v.v. để điều hướng có cấu trúc"
+    },
+    "navigation-toc": {
+      "compact": "Mục lục",
+      "descriptive": "Mục lục cho phép truy cập vào tất cả các chương của văn bản thông qua các liên kết"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Nội dung phong phú",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Công thức hóa học trong LaTeX",
+      "descriptive": "Công thức hóa học ở định dạng dễ truy cập (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Công thức hóa học trong MathML",
+      "descriptive": "Công thức hóa học ở định dạng có thể truy cập (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Toán học dưới dạng LaTeX",
+      "descriptive": "Các công thức toán học ở định dạng dễ truy cập (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Toán dưới dạng MathML",
+      "descriptive": "Các công thức toán học ở định dạng có thể truy cập (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Các mô tả văn bản về toán học được cung cấp",
+      "descriptive": "Các mô tả văn bản về toán học được cung cấp"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Video có phụ đề",
+      "descriptive": " Video có trong các ấn phẩm có phụ đề đóng"
+    },
+    "rich-content-extended": {
+      "compact": "Hình ảnh chứa nhiều thông tin được mô tả bằng các mô tả chi tiết",
+      "descriptive": "Hình ảnh chứa nhiều thông tin được mô tả bằng các mô tả chi tiết"
+    },
+    "rich-content-open-captions": {
+      "compact": " Video có phụ đề mở",
+      "descriptive": " Video có trong các ấn phẩm có phụ đề mở"
+    },
+    "rich-content-transcript": {
+      "compact": "(Các) bảng điểm được cung cấp",
+      "descriptive": "(Các) bảng điểm được cung cấp"
+    },
+    "rich-content-unknown": {
+      "compact": "Không có thông tin nào",
+      "descriptive": "Không có thông tin nào"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Mối nguy hiểm",
+    "hazards-flashing": {
+      "compact": "Nội dung nhấp nháy",
+      "descriptive": "Ấn phẩm có nội dung nhấp nháy có thể gây ra co giật do nhạy cảm với ánh sáng"
+    },
+    "hazards-motion": {
+      "compact": "Mô phỏng chuyển động",
+      "descriptive": "Ấn phẩm này có chứa các mô phỏng chuyển động có thể gây ra chứng say tàu xe"
+    },
+    "hazards-no-metadata": {
+      "compact": "Không có thông tin nào",
+      "descriptive": "Không có thông tin nào"
+    },
+    "hazards-none": {
+      "compact": "Không có mối nguy hiểm nào",
+      "descriptive": "Ấn phẩm không có mối nguy hiểm nào"
+    },
+    "hazards-sound": {
+      "compact": "Âm thanh",
+      "descriptive": "Ấn phẩm có chứa âm thanh có thể gây khó chịu"
+    },
+    "hazards-unknown": {
+      "compact": "Sự hiện diện của các mối nguy hiểm chưa được biết đến",
+      "descriptive": "Sự hiện diện của các mối nguy hiểm chưa được biết đến"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Tóm tắt về hỗ trợ tiếp cận",
+    "accessibility-summary-no-metadata": {
+      "compact": "Không có thông tin nào",
+      "descriptive": "Không có thông tin nào"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Các yếu tố pháp lý cân nhắc",
+    "legal-considerations-exempt": {
+      "compact": "Tuyên bố miễn trừ hỗ trợ tiếp cận ở một số khu vực pháp lý",
+      "descriptive": "Ấn phẩm này tuyên bố miễn trừ hỗ trợ tiếp cận ở một số khu vực pháp lý"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Không có thông tin nào",
+      "descriptive": "Không có thông tin nào"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Thông tin bổ sung về hỗ trợ tiếp cận",
+    "additional-accessibility-information-aria": {
+      "compact": "Bao gồm các vai trò ARIA",
+      "descriptive": "Nội dung được tăng cường bằng các vai trò ARIA để tối ưu hóa việc sắp xếp và hỗ trợ điều hướng"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Mô tả âm thanh",
+      "descriptive": "Mô tả âm thanh"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braille",
+      "descriptive": "Braille"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Màu sắc không phải là cách duy nhất để truyền đạt thông tin",
+      "descriptive": "Màu sắc không phải là cách duy nhất để truyền đạt thông tin"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Khả năng đọc chứng khó đọc",
+      "descriptive": "Khả năng đọc chứng khó đọc"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Chú thích ruby đầy đủ",
+      "descriptive": "Chú thích ruby đầy đủ"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Độ tương phản cao giữa âm thanh nền và âm thanh nền sau",
+      "descriptive": "Độ tương phản cao giữa âm thanh nền và âm thanh nền sau"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Độ tương phản cao giữa văn bản tiền cảnh và nền",
+      "descriptive": "Độ tương phản cao giữa văn bản tiền cảnh và nền"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Chữ in lớn",
+      "descriptive": "Chữ in lớn"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Bao gồm ngắt trang",
+      "descriptive": "Các ngắt trang được bao gồm từ nguồn in gốc"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Một số chú thích Ruby",
+      "descriptive": "Một số chú thích Ruby"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Ngôn ngữ ký hiệu",
+      "descriptive": "Ngôn ngữ ký hiệu"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Bao gồm đồ họa xúc giác",
+      "descriptive": "Đồ họa xúc giác đã được tích hợp để tạo điều kiện cho người mù tiếp cận các thành phần hình ảnh"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Vật thể 3D xúc giác",
+      "descriptive": "Vật thể 3D xúc giác"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Cung cấp gợi ý chuyển văn bản thành giọng nói",
+      "descriptive": "Cung cấp gợi ý chuyển văn bản thành giọng nói"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Độ tương phản cực cao giữa văn bản và nền",
+      "descriptive": "Độ tương phản cực cao giữa văn bản và nền"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Đánh số trang nhìn thấy được ",
+      "descriptive": "Đánh số trang nhìn thấy được "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Không có âm thanh nền",
+      "descriptive": "Không có âm thanh nền"
+    }
+  }
+}

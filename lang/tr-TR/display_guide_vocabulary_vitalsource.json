@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "tr-TR",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "İngilizce konuşulan bölgelerin farklı temsilcilerini içeren büyük bir grup tarafından tartışılan orijinal ifadeler. Pilot projeler ve panel testlerinden sonra geliştirildi"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Okuma yöntemleri",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Alternatif metin var",
+      "descriptive": "Görseller için alternatif metin açıklamaları var"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Görsel olmayan okuma hakkında bilgi yok",
+      "descriptive": "Görsel olmayan okuma hakkında bilgi yok"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Sesli okuma veya dinamik braille alfabesiyle okunamaz",
+      "descriptive": "İçerik, sesli okuma veya dinamik braille alfabesiyle okunamaz"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Sesli okuma veya dinamik braille alfabesiyle tamamı okunamaz",
+      "descriptive": "İçeriğin tamamı, sesli okuma veya dinamik braille alfabesiyle okunamaz"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Sesli okuma veya dinamik braille alfabesiyle okunabilir",
+      "descriptive": "Tüm içerik, sesli okuma veya dinamik braille alfabesiyle okunabilir"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Önceden kaydedilmiş ses klipleri",
+      "descriptive": "Önceden kaydedilmiş ses klipleri içeriğe gömülmüş"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Önceden kaydedilmiş ses hakkında bilgi yok",
+      "descriptive": " Önceden kaydedilmiş ses hakkında bilgi yok"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Yalnızca önceden kaydedilmiş ses",
+      "descriptive": " Metin alternatifi olmayan sesli kitap"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Metinle senkronize olan önceden kaydedilmiş ses",
+      "descriptive": "Tüm içerik, metinle senkronize olan önceden kaydedilmiş ses biçiminde sunuluyor"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Görünüm değiştirilebilir",
+      "descriptive": " Metin ve sayfa düzeninin görünümü, okuma sisteminin özelliklerine göre değiştirilebilir (yazı tipi ailesi ve yazı tipi boyutu; paragraflar, cümleler, kelimeler ve harfler arasındaki boşluklar; arka plan ve metin rengi)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Görünümün değiştirilip değiştirilemeyeceği hakkında bilgi yok",
+      "descriptive": " Görünümün değiştirilip değiştirilemeyeceği hakkında bilgi yok"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Görünüm değiştirilemez",
+      "descriptive": "Okuma deneyimi, basılı versiyona yakın olduğu için metin ve sayfa düzeni değiştirilemez ancak okuma sistemleri, yakınlaştırma seçenekleri sunabilir"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Uygunluk",
+    "conformance-details-title": "Detaylı uygunluk bilgileri",
+    "conformance-a": {
+      "compact": "Bu yayın, minimum erişilebilirlik standartlarını karşılıyor",
+      "descriptive": "Yayın, EPUB Erişilebilirlik ve WCAG 2 Seviye A standardını karşıladığına dair bir uygunluk beyanı içeriyor"
+    },
+    "conformance-aa": {
+      "compact": "Bu yayın, kabul edilen erişilebilirlik standartlarını karşılıyor",
+      "descriptive": "Yayın, EPUB Erişilebilirlik ve WCAG 2 Seviye AA standardını karşıladığına dair bir uygunluk beyanı içeriyor"
+    },
+    "conformance-aaa": {
+      "compact": "Bu yayın, kabul edilen erişilebilirlik standartlarının üzerinde",
+      "descriptive": "Yayın, EPUB Erişilebilirlik ve WCAG 2 Seviye AAA standardını karşıladığına dair bir uygunluk beyanı içeriyor"
+    },
+    "conformance-certifier": {
+      "compact": "Yayın şu tarafça onaylanmış:",
+      "descriptive": "Yayın şu tarafça onaylanmış: "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Onay verenin kimlik bilgileri: ",
+      "descriptive": "Onay verenin kimlik bilgileri: "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Yayın şu tarihte onaylanmış: ",
+      "descriptive": "Yayın şu tarihte onaylanmış: "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Daha fazla bilgi için onay verenin raporuna bakın",
+      "descriptive": "Daha fazla bilgi için onay verenin raporuna bakın"
+    },
+    "conformance-details-claim": {
+      "compact": "Bu yayının şunları karşıladığı beyan ediliyor:",
+      "descriptive": "Bu yayının şunları karşıladığı beyan ediliyor:"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB Erişilebilirlik 1.0",
+      "descriptive": " EPUB Erişilebilirlik 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB Erişilebilirlik 1.1",
+      "descriptive": " EPUB Erişilebilirlik 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Seviye A",
+      "descriptive": " Seviye A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Seviye AA",
+      "descriptive": " Seviye AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Seviye AAA",
+      "descriptive": " Seviye AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Web İçeriği Erişilebilirlik Yönergeleri (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Web İçeriği Erişilebilirlik Yönergeleri (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Web İçeriği Erişilebilirlik Yönergeleri (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Bilgi yok",
+      "descriptive": "Bilgi yok"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Bu yayının erişilebilirlik için kabul edilen standartlara uygunluğu belirlenemedi",
+      "descriptive": "Bu yayının erişilebilirlik için kabul edilen standartlara uygunluğu belirlenemedi"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Gezinti",
+    "navigation-index": {
+      "compact": "Dizin",
+      "descriptive": "Atıfta bulunulan girdilere bağlantıları içeren dizin"
+    },
+    "navigation-no-metadata": {
+      "compact": "Bilgi yok",
+      "descriptive": "Bilgi yok"
+    },
+    "navigation-page-navigation": {
+      "compact": "Sayfaya git",
+      "descriptive": "Baskı kaynak versiyonundaki sayfalara gitmek için sayfa listesi"
+    },
+    "navigation-structural": {
+      "compact": "Başlıklar",
+      "descriptive": "Yapılandırılmış gezinme için başlıklar, tablolar vb. gibi öğeler"
+    },
+    "navigation-toc": {
+      "compact": "İçindekiler tablosu",
+      "descriptive": "Metnin tüm bölümlerine bağlantıları içeren içindekiler tablosu"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Zengin içerik",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "LaTeX formatında kimyasal formüller",
+      "descriptive": "Erişilebilir formatta kimyasal formüller (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "MathML formatında kimyasal formüller",
+      "descriptive": "Erişilebilir formatta kimyasal formüller (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "LaTeX formatında matematik",
+      "descriptive": "Erişilebilir formatta matematik formülleri (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "MathML formatında matematik",
+      "descriptive": "Erişilebilir formatta matematik formülleri (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Matematikle ilgili metin açıklamaları sağlanıyor",
+      "descriptive": "Matematikle ilgili metin açıklamaları sağlanıyor"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Videolarda kapalı alt yazılar var",
+      "descriptive": " Yayınlarda yer alan videolarda kapalı alt yazılar var"
+    },
+    "rich-content-extended": {
+      "compact": "Bilgi açısından zengin görseller, genişletilmiş açıklamalarla tanımlanıyor",
+      "descriptive": "Bilgi açısından zengin görseller, genişletilmiş açıklamalarla tanımlanıyor"
+    },
+    "rich-content-open-captions": {
+      "compact": " Videolarda açık alt yazılar var",
+      "descriptive": " Yayınlarda yer alan videolarda açık alt yazılar var"
+    },
+    "rich-content-transcript": {
+      "compact": "Deşifre/deşifreler sağlanıyor",
+      "descriptive": "Deşifre/deşifreler sağlanıyor"
+    },
+    "rich-content-unknown": {
+      "compact": "Bilgi yok",
+      "descriptive": "Bilgi yok"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Tehlikeler",
+    "hazards-flashing": {
+      "compact": "Yanıp sönen ışık içeriği",
+      "descriptive": "Yayında fotosensitif nöbetlere neden olabilecek yanıp sönen ışık içeriği var"
+    },
+    "hazards-motion": {
+      "compact": "Hareket simülasyonu",
+      "descriptive": "Yayında hareket hastalığına neden olabilecek hareket simülasyonları var"
+    },
+    "hazards-no-metadata": {
+      "compact": "Bilgi yok",
+      "descriptive": "Bilgi yok"
+    },
+    "hazards-none": {
+      "compact": "Tehlike yok",
+      "descriptive": "Yayın herhangi bir tehlike içermiyor"
+    },
+    "hazards-sound": {
+      "compact": "Sesler",
+      "descriptive": "Yayında rahatsızlık verebilecek sesler var"
+    },
+    "hazards-unknown": {
+      "compact": "Tehlike olup olmadığı bilinmiyor",
+      "descriptive": "Tehlike olup olmadığı bilinmiyor"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Erişilebilirlik özeti",
+    "accessibility-summary-no-metadata": {
+      "compact": "Bilgi yok",
+      "descriptive": "Bilgi yok"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Hukuki hususlar",
+    "legal-considerations-exempt": {
+      "compact": "Bazı yargı bölgelerinde erişilebilirlik muafiyeti olduğu beyan ediliyor",
+      "descriptive": "Bu yayının bazı yargı bölgelerinde erişilebilirlik muafiyeti olduğu beyan ediliyor"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Bilgi yok",
+      "descriptive": "Bilgi yok"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Ek erişilebilirlik bilgileri",
+    "additional-accessibility-information-aria": {
+      "compact": "ARIA rolleri dahil",
+      "descriptive": "İçerik, düzeni optimize etmek ve gezinmeyi kolaylaştırmak için ARIA rolleri ile geliştirilmiş"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Sesli betimlemeler",
+      "descriptive": "Sesli betimlemeler"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braille",
+      "descriptive": "Braille"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Renk, bilgiyi aktarmanın tek yolu değildir",
+      "descriptive": "Renk, bilgiyi aktarmanın tek yolu değildir"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Disleksi için okunabilirlik",
+      "descriptive": "Disleksi için okunabilirlik"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Tam ruby anotasyonları",
+      "descriptive": "Tam ruby anotasyonları"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Ön plan ve arka plan sesleri arasında yüksek kontrast",
+      "descriptive": "Ön plan ve arka plan sesleri arasında yüksek kontrast"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Ön plan metni ve arka plan arasında yüksek kontrast",
+      "descriptive": "Ön plan metni ve arka plan arasında yüksek kontrast"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Büyük yazı",
+      "descriptive": "Büyük yazı"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Sayfa sonları dahil",
+      "descriptive": "Orijinal baskı kaynağından alınan sayfa sonları dahil edilmiş"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Bazı Ruby anotasyonları",
+      "descriptive": "Bazı Ruby anotasyonları"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "İşaret dili",
+      "descriptive": "İşaret dili"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Dokunsal grafikler dahil",
+      "descriptive": "Görme engelli kişilerin görsel unsurlara erişimini kolaylaştırmak için dokunsal grafikler entegre edilmiş"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Dokunsal 3D nesneler",
+      "descriptive": "Dokunsal 3D nesneler"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Metinden sese ipuçları sağlanıyor",
+      "descriptive": "Metinden sese ipuçları sağlanıyor"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Metin ve arka plan arasında ultra yüksek kontrast",
+      "descriptive": "Metin ve arka plan arasında ultra yüksek kontrast"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Görünür sayfa numaralandırmaları ",
+      "descriptive": "Görünür sayfa numaralandırmaları "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Arka plan sesleri yok",
+      "descriptive": "Arka plan sesleri yok"
+    }
+  }
+}

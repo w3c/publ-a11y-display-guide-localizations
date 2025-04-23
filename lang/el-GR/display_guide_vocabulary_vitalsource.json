@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "el-GR",
+    "variant": "canonical",
+    "version": "2.0.β",
+    "audience": "general",
+    "description": "Η αρχική διατύπωση συζητήθηκε από μια μεγάλη ομάδα που εκπροσωπούσε διάφορους φορείς των αγγλόφωνων γεωγραφικών περιοχών. Έχει βελτιωθεί έπειτα από εφαρμογές απόδειξης εννοιών και έννοιας και άτομα δοκιμής που συμμετέχουν στο πάνελ."
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Μέθοδοι ανάγνωσης",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Έχει εναλλακτικό κείμενο",
+      "descriptive": "Έχει εναλλακτικές περιγραφές κειμένου για εικόνες"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Δεν υπάρχουν διαθέσιμες πληροφορίες για τη μη οπτική ανάγνωση",
+      "descriptive": "Δεν υπάρχουν διαθέσιμες πληροφορίες για τη μη οπτική ανάγνωση"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Μη αναγνώσιμο σε φωνητική ανάγνωση ή δυναμική γραφή Μπράιγ",
+      "descriptive": "Το περιεχόμενο δεν είναι αναγνώσιμο ως ομιλία φωνητικής ανάγνωσης ή δυναμική γραφή Μπράιγ"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Δεν είναι πλήρως αναγνώσιμο σε φωνητική ανάγνωση ή δυναμική γραφή Μπράιγ",
+      "descriptive": "Δεν θα είναι αναγνώσιμο όλο το περιεχόμενο ως ομιλία φωνητικής ανάγνωσης ή δυναμική γραφή Μπράιγ"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Αναγνώσιμο με φωνητική ανάγνωση ή δυναμική γραφή Μπράιγ",
+      "descriptive": "Όλο το περιεχόμενο μπορεί να αναγνωστεί ως ομιλία φωνητικής ανάγνωσης ή ως δυναμική γραφή Μπράιγ"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Προηχογραφημένα ηχητικά κλιπ",
+      "descriptive": "Τα προηχογραφημένα κλιπ ήχου είναι ενσωματωμένα στο περιεχόμενο"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Δεν υπάρχουν διαθέσιμες πληροφορίες για τον προηχογραφημένο ήχο",
+      "descriptive": " Δεν υπάρχουν διαθέσιμες πληροφορίες για τον προηχογραφημένο ήχο"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Μόνο προηχογραφημένος ήχος",
+      "descriptive": " Ηχητικό βιβλίο χωρίς εναλλακτική επιλογή κειμένου"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Προηχογραφημένος ήχος συγχρονισμένος με κείμενο",
+      "descriptive": "Όλο το περιεχόμενο είναι διαθέσιμο ως προηχογραφημένος ήχος συγχρονισμένος με κείμενο"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Η εμφάνιση μπορεί να τροποποιηθεί",
+      "descriptive": " Η εμφάνιση του κειμένου και η διάταξη της σελίδας μπορούν να τροποποιηθούν ανάλογα με τις δυνατότητες του συστήματος ανάγνωσης (οικογένεια και μέγεθος γραμματοσειράς, διαστήματα μεταξύ παραγράφων, προτάσεων, λέξεων και γραμμάτων, καθώς και χρώμα φόντου και κειμένου)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Δεν υπάρχουν διαθέσιμες πληροφορίες για τη δυνατότητα τροποποίησης της εμφάνισης",
+      "descriptive": " Δεν υπάρχουν διαθέσιμες πληροφορίες για τη δυνατότητα τροποποίησης της εμφάνισης"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Η εμφάνιση δεν μπορεί να τροποποιηθεί.",
+      "descriptive": "Δεν είναι δυνατή η τροποποίηση της διάταξης κειμένου και σελίδας, καθώς η εμπειρία ανάγνωσης είναι παρόμοια με αυτήν μιας έντυπης έκδοσης, ωστόσο τα συστήματα ανάγνωσης μπορούν ακόμα να παρέχουν επιλογές ζουμ"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Συμμόρφωση",
+    "conformance-details-title": "Λεπτομερείς πληροφορίες συμμόρφωσης",
+    "conformance-a": {
+      "compact": "Η παρούσα έκδοση πληροί τα ελάχιστα πρότυπα προσβασιμότητας",
+      "descriptive": "Η δημοσίευση περιέχει δήλωση συμμόρφωσης ότι πληροί τα πρότυπα Προσβασιμότητας EPUB και το πρότυπο WCAG 2 Επίπεδο A"
+    },
+    "conformance-aa": {
+      "compact": "Η παρούσα έκδοση πληροί τα αποδεκτά πρότυπα προσβασιμότητας",
+      "descriptive": "Η δημοσίευση περιέχει δήλωση συμμόρφωσης ότι πληροί τα πρότυπα Προσβασιμότητας EPUB και το πρότυπο WCAG 2 Επίπεδο AA"
+    },
+    "conformance-aaa": {
+      "compact": "Η παρούσα έκδοση υπερβαίνει τα αποδεκτά πρότυπα προσβασιμότητας",
+      "descriptive": "Η δημοσίευση περιέχει δήλωση συμμόρφωσης ότι πληροί τα πρότυπα Προσβασιμότητας EPUB και το πρότυπο WCAG 2 Επίπεδο AAA"
+    },
+    "conformance-certifier": {
+      "compact": "Η έκδοση πιστοποιήθηκε από",
+      "descriptive": "Η έκδοση πιστοποιήθηκε από "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Το διαπιστευτήριο του/της υπεύθυνου πιστοποίησης είναι ",
+      "descriptive": "Το διαπιστευτήριο του/της υπεύθυνου πιστοποίησης είναι "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Η έκδοση πιστοποιήθηκε στις ",
+      "descriptive": "Η έκδοση πιστοποιήθηκε στις "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Για περισσότερες πληροφορίες, ανατρέξτε στην αναφορά του/της υπεύθυνου πιστοποίησης",
+      "descriptive": "Για περισσότερες πληροφορίες, ανατρέξτε στην αναφορά του/της υπεύθυνου πιστοποίησης"
+    },
+    "conformance-details-claim": {
+      "compact": "Η παρούσα δημοσίευση ισχυρίζεται ότι πληροί",
+      "descriptive": "Η παρούσα δημοσίευση ισχυρίζεται ότι πληροί"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " Προσβασιμότητα EPUB 1.0",
+      "descriptive": " Προσβασιμότητα EPUB 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " Προσβασιμότητα EPUB 1.1",
+      "descriptive": " Προσβασιμότητα EPUB 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Επίπεδο A",
+      "descriptive": " Επίπεδο A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Επίπεδο AA",
+      "descriptive": " Επίπεδο AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Επίπεδο AAA",
+      "descriptive": " Επίπεδο AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Οδηγίες προσβασιμότητας περιεχομένου ιστού (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Οδηγίες προσβασιμότητας περιεχομένου ιστού (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Οδηγίες προσβασιμότητας περιεχομένου ιστού (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Δεν υπάρχουν διαθέσιμες πληροφορίες",
+      "descriptive": "Δεν υπάρχουν διαθέσιμες πληροφορίες"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Η συμμόρφωση με τα αποδεκτά πρότυπα προσβασιμότητας της παρούσας δημοσίευσης δεν μπορεί να προσδιοριστεί",
+      "descriptive": "Η συμμόρφωση με τα αποδεκτά πρότυπα προσβασιμότητας της παρούσας δημοσίευσης δεν μπορεί να προσδιοριστεί"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Περιήγηση",
+    "navigation-index": {
+      "compact": "Ευρετήριο",
+      "descriptive": "Ευρετήριο με συνδέσμους προς καταχωρήσεις αναφοράς"
+    },
+    "navigation-no-metadata": {
+      "compact": "Δεν υπάρχουν διαθέσιμες πληροφορίες",
+      "descriptive": "Δεν υπάρχουν διαθέσιμες πληροφορίες"
+    },
+    "navigation-page-navigation": {
+      "compact": "Μετάβαση στη σελίδα",
+      "descriptive": "Λίστα σελίδων για μετάβαση σε σελίδες από την έντυπη έκδοση"
+    },
+    "navigation-structural": {
+      "compact": "Επικεφαλίδες",
+      "descriptive": "Στοιχεία όπως επικεφαλίδες, πίνακες κ.λπ. για δομημένη πλοήγηση"
+    },
+    "navigation-toc": {
+      "compact": "Πίνακας περιεχομένων",
+      "descriptive": "Πίνακας περιεχομένων για όλα τα κεφάλαια του κειμένου μέσω συνδέσμων"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Εμπλουτισμένο περιεχόμενο",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Χημικοί τύποι σε LaTeX",
+      "descriptive": "Χημικοί τύποι σε προσβάσιμη μορφή (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Χημικοί τύποι σε MathML",
+      "descriptive": "Χημικοί τύποι σε προσβάσιμη μορφή (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Μαθηματικά ως LaTeX",
+      "descriptive": "Μαθηματικοί τύποι σε προσβάσιμη μορφή (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Μαθηματικά ως MathML",
+      "descriptive": "Μαθηματικοί τύποι σε προσβάσιμη μορφή (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Παρέχονται περιγραφές μαθηματικών σε μορφή κειμένου",
+      "descriptive": "Παρέχονται περιγραφές μαθηματικών σε μορφή κειμένου"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Τα βίντεο έχουν κλειστούς υπότιτλους",
+      "descriptive": " Τα βίντεο που περιλαμβάνονται στις δημοσιεύσεις έχουν κλειστούς υπότιτλους"
+    },
+    "rich-content-extended": {
+      "compact": "Οι εικόνες που είναι πλούσιες σε πληροφορίες περιλαμβάνουν εκτενείς περιγραφές",
+      "descriptive": "Οι εικόνες που είναι πλούσιες σε πληροφορίες περιλαμβάνουν εκτενείς περιγραφές"
+    },
+    "rich-content-open-captions": {
+      "compact": " Τα βίντεο έχουν ανοιχτούς υπότιτλους",
+      "descriptive": " Τα βίντεο που περιλαμβάνονται στις δημοσιεύσεις έχουν ανοιχτούς υπότιτλους"
+    },
+    "rich-content-transcript": {
+      "compact": "Παρέχονται μεταγραφές",
+      "descriptive": "Παρέχονται μεταγραφές"
+    },
+    "rich-content-unknown": {
+      "compact": "Δεν υπάρχουν διαθέσιμες πληροφορίες",
+      "descriptive": "Δεν υπάρχουν διαθέσιμες πληροφορίες"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Κίνδυνοι",
+    "hazards-flashing": {
+      "compact": "Περιεχόμενο που αναβοσβήνει",
+      "descriptive": "Η δημοσίευση περιλαμβάνει περιεχόμενο που αναβοσβήνει και μπορεί να προκαλέσει επιληπτικές κρίσεις φωτοευαισθησίας"
+    },
+    "hazards-motion": {
+      "compact": "Προσομοίωση κίνησης",
+      "descriptive": "Η δημοσίευση περιέχει προσομοιώσεις κίνησης που μπορεί να προκαλέσουν ναυτία"
+    },
+    "hazards-no-metadata": {
+      "compact": "Δεν υπάρχουν διαθέσιμες πληροφορίες",
+      "descriptive": "Δεν υπάρχουν διαθέσιμες πληροφορίες"
+    },
+    "hazards-none": {
+      "compact": "Δεν υπάρχουν κίνδυνοι",
+      "descriptive": "Η δημοσίευση δεν περιέχει κινδύνους"
+    },
+    "hazards-sound": {
+      "compact": "Ήχοι",
+      "descriptive": "Η έκδοση περιέχει ήχους που μπορεί να είναι δυσάρεστοι"
+    },
+    "hazards-unknown": {
+      "compact": "Η παρουσία κινδύνων είναι άγνωστη",
+      "descriptive": "Η παρουσία κινδύνων είναι άγνωστη"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Περίληψη προσβασιμότητας",
+    "accessibility-summary-no-metadata": {
+      "compact": "Δεν υπάρχουν διαθέσιμες πληροφορίες",
+      "descriptive": "Δεν υπάρχουν διαθέσιμες πληροφορίες"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Νομικές εκτιμήσεις",
+    "legal-considerations-exempt": {
+      "compact": "Αξιώνει απαλλαγή από την προσβασιμότητα σε ορισμένες δικαιοδοσίες",
+      "descriptive": "Η παρούσα δημοσίευση ισχυρίζεται ότι έχει απαλλαγή από τις απαιτήσεις προσβασιμότητας σε ορισμένες δικαιοδοσίες"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Δεν υπάρχουν διαθέσιμες πληροφορίες",
+      "descriptive": "Δεν υπάρχουν διαθέσιμες πληροφορίες"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Πρόσθετες πληροφορίες για την προσβασιμότητα",
+    "additional-accessibility-information-aria": {
+      "compact": "Περιλαμβάνονται ρόλοι ARIA",
+      "descriptive": "Το περιεχόμενο ενισχύεται με ρόλους ARIA για βελτιστοποίηση της οργάνωσης και διευκόλυνση της πλοήγησης"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Ηχητικές περιγραφές",
+      "descriptive": "Ηχητικές περιγραφές"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Μπράιγ",
+      "descriptive": "Μπράιγ"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Το χρώμα δεν είναι ο μοναδικός τρόπος μετάδοσης πληροφοριών",
+      "descriptive": "Το χρώμα δεν είναι ο μοναδικός τρόπος μετάδοσης πληροφοριών"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Αναγνωσιμότητα για άτομα με δυσλεξία",
+      "descriptive": "Αναγνωσιμότητα για άτομα με δυσλεξία"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Πλήρη σχόλια Ruby",
+      "descriptive": "Πλήρη σχόλια Ruby"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Υψηλή αντίθεση μεταξύ ήχου προσκηνίου και παρασκηνίου",
+      "descriptive": "Υψηλή αντίθεση μεταξύ ήχου προσκηνίου και παρασκηνίου"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Υψηλή αντίθεση μεταξύ κειμένου προσκηνίου και παρασκηνίου",
+      "descriptive": "Υψηλή αντίθεση μεταξύ κειμένου προσκηνίου και παρασκηνίου"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Μεγάλη εκτύπωση",
+      "descriptive": "Μεγάλη εκτύπωση"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Περιλαμβάνονται αλλαγές σελίδας",
+      "descriptive": "Περιλαμβάνονται αλλαγές σελίδας από την αρχική πηγή εκτύπωσης"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Μερικά σχόλια Ruby",
+      "descriptive": "Μερικά σχόλια Ruby"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Νοηματική γλώσσα",
+      "descriptive": "Νοηματική γλώσσα"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Περιλαμβάνονται απτικά γραφικά",
+      "descriptive": "Έχουν ενσωματωθεί απτικά γραφικά για να διευκολυνθεί η πρόσβαση τυφλών ατόμων σε οπτικά στοιχεία"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Απτικά τρισδιάστατα αντικείμενα",
+      "descriptive": "Απτικά τρισδιάστατα αντικείμενα"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Παρέχεται υπόδειξη για μετατροπή κειμένου σε ομιλία",
+      "descriptive": "Παρέχεται υπόδειξη για μετατροπή κειμένου σε ομιλία"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Υπερβολικά υψηλή αντίθεση μεταξύ κειμένου και παρασκηνίου",
+      "descriptive": "Υπερβολικά υψηλή αντίθεση μεταξύ κειμένου και παρασκηνίου"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Ορατή αρίθμηση σελίδων ",
+      "descriptive": "Ορατή αρίθμηση σελίδων "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Χωρίς ήχους παρασκηνίου",
+      "descriptive": "Χωρίς ήχους παρασκηνίου"
+    }
+  }
+}

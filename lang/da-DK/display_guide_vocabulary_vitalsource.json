@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "da-DK",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Den oprindelige ordlyd blev drøftet af en stor gruppe, der repræsenterer forskellige aktører fra de engelsktalende områder. Den er blevet forbedret efter implementeringer af konceptafprøvning og feedback fra paneltestere"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Måder at læse på",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Har alternativ tekst",
+      "descriptive": "Har alternative tekstbeskrivelser for billeder"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Der er ingen tilgængelige oplysninger om ikke-visuel læsning",
+      "descriptive": "Der er ingen tilgængelige oplysninger om ikke-visuel læsning"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Kan ikke læses med Læs højt eller dynamisk punktskrift",
+      "descriptive": "Indholdet kan ikke læses med Læs højt eller dynamisk punktskrift"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Ikke fuldt læsbar med Læs højt eller dynamisk punktskrift",
+      "descriptive": "Ikke alt indhold vil kunne læses som Læs højt eller dynamisk punktskrift"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Kan læses med Læs højt eller dynamisk punktskrift",
+      "descriptive": "Alt indholdet kan læses med Læs højt eller dynamisk punktskrift"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Forudindspillede lydklip",
+      "descriptive": "Forudindspillede lydklip er indlejret i indholdet"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Der er ingen tilgængelige oplysninger om forudindspillet lyd",
+      "descriptive": " Der er ingen tilgængelige oplysninger om forudindspillet lyd"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Kun forudindspillet lyd",
+      "descriptive": " Lydbog uden alternativ tekst"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Forudindspillet lyd synkroniseret med tekst",
+      "descriptive": "Alt indhold er tilgængeligt som forudindspillet lyd synkroniseret med tekst"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Udseendet kan ændres",
+      "descriptive": " Tekstens udseende og sidelayoutet kan ændres i henhold til læsesystemets muligheder (skrifttypefamilie og skriftstørrelse, mellemrum mellem afsnit, sætninger, ord og bogstaver samt farve på baggrund og tekst)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Der er ingen tilgængelige oplysninger om muligheden for at ændre udseendet",
+      "descriptive": " Der er ingen tilgængelige oplysninger om muligheden for at ændre udseendet"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Udseendet kan ikke ændres",
+      "descriptive": "Tekst og sidelayout kan ikke ændres, da læseoplevelsen er tæt på en trykt version, men læsesystemer kan stadig have zoommuligheder"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Overensstemmelse",
+    "conformance-details-title": "Detaljerede overensstemmelsesoplysninger",
+    "conformance-a": {
+      "compact": "Denne publikation opfylder minimumsstandarder for tilgængelighed",
+      "descriptive": "Publikationen indeholder en overensstemmelseserklæring om, at den opfylder EPUB- og WCAG 2 niveau A-standarder"
+    },
+    "conformance-aa": {
+      "compact": "Denne publikation overholder accepterede standarder for tilgængelighed",
+      "descriptive": "Publikationen indeholder en overensstemmelseserklæring om, at den opfylder EPUB- og WCAG 2 niveau AA-standarder"
+    },
+    "conformance-aaa": {
+      "compact": "Denne publikation overgår accepterede standarder for tilgængelighed",
+      "descriptive": "Publikationen indeholder en overensstemmelseserklæring om, at den opfylder EPUB- og WCAG 2 niveau AAA-standarder"
+    },
+    "conformance-certifier": {
+      "compact": "Publikationen er certificeret af",
+      "descriptive": "Publikationen er certificeret af "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Certifikatudstederens legitimationsoplysninger er ",
+      "descriptive": "Certifikatudstederens legitimationsoplysninger er "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Publikationen blev certificeret den ",
+      "descriptive": "Publikationen blev certificeret den "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Se certifikatudstederens rapport for at få flere oplysninger",
+      "descriptive": "Se certifikatudstederens rapport for at få flere oplysninger"
+    },
+    "conformance-details-claim": {
+      "compact": "Denne publikation hævder at opfylde",
+      "descriptive": "Denne publikation hævder at opfylde"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB-tilgængelighed 1.0",
+      "descriptive": " EPUB-tilgængelighed 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB-tilgængelighed 1.1",
+      "descriptive": " EPUB-tilgængelighed 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Niveau A",
+      "descriptive": " Niveau A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Niveau AA",
+      "descriptive": " Niveau AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Niveau AAA",
+      "descriptive": " Niveau AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Retningslinjer for webindholds tilgængelighed (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Retningslinjer for webindholds tilgængelighed (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Retningslinjer for webindholds tilgængelighed (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Der er ingen tilgængelige oplysninger",
+      "descriptive": "Der er ingen tilgængelige oplysninger"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Denne publikations overensstemmelse med accepterede standarder for tilgængelighed af kan ikke fastslås",
+      "descriptive": "Denne publikations overensstemmelse med accepterede standarder for tilgængelighed af kan ikke fastslås"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Navigation",
+    "navigation-index": {
+      "compact": "Indeks",
+      "descriptive": "Indeks med links til refererede poster"
+    },
+    "navigation-no-metadata": {
+      "compact": "Der er ingen tilgængelige oplysninger",
+      "descriptive": "Der er ingen tilgængelige oplysninger"
+    },
+    "navigation-page-navigation": {
+      "compact": "Gå til side",
+      "descriptive": "Sideliste til at navigere til sider fra den trykte kildeversion"
+    },
+    "navigation-structural": {
+      "compact": "Overskrifter",
+      "descriptive": "Elementer som overskrifter, tabeller osv. til struktureret navigation"
+    },
+    "navigation-toc": {
+      "compact": "Indholdsfortegnelse",
+      "descriptive": "Indholdsfortegnelse til alle kapitler i teksten via links."
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Rigt indhold",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Kemiske formler i LaTeX",
+      "descriptive": "Kemiske formler i tilgængeligt format (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Kemiske formler i MathML",
+      "descriptive": "Kemiske formler i tilgængeligt format (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Matematik som LaTeX",
+      "descriptive": "Matematikske formler i tilgængeligt format (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Matematik som MathML",
+      "descriptive": "Matematikske formler i tilgængeligt format (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Der gives tekstbeskrivelser af matematik",
+      "descriptive": "Der gives tekstbeskrivelser af matematik"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Videoer har undertekster",
+      "descriptive": " Videoer inkluderet i publikationer har undertekster."
+    },
+    "rich-content-extended": {
+      "compact": "Informationsrige billeder beskrives med udvidede beskrivelser",
+      "descriptive": "Informationsrige billeder beskrives med udvidede beskrivelser"
+    },
+    "rich-content-open-captions": {
+      "compact": " Videoer har undertekster",
+      "descriptive": " Videoer inkluderet i publikationer har undertekster"
+    },
+    "rich-content-transcript": {
+      "compact": "Udskrift(er) leveret",
+      "descriptive": "Udskrift(er) leveret"
+    },
+    "rich-content-unknown": {
+      "compact": "Der er ingen tilgængelige oplysninger",
+      "descriptive": "Der er ingen tilgængelige oplysninger"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Farer",
+    "hazards-flashing": {
+      "compact": "Blinkende lys i indholdet",
+      "descriptive": "Publikationen indeholder blinkende lys, der kan forårsage lysfølsomme anfald"
+    },
+    "hazards-motion": {
+      "compact": "Bevægelsessimulation",
+      "descriptive": "Publikationen indeholder bevægelsessimulationer, der kan forårsage køresyge"
+    },
+    "hazards-no-metadata": {
+      "compact": "Der er ingen tilgængelige oplysninger",
+      "descriptive": "Der er ingen tilgængelige oplysninger"
+    },
+    "hazards-none": {
+      "compact": "Ingen risici",
+      "descriptive": "Publikationen indeholder ingen risici"
+    },
+    "hazards-sound": {
+      "compact": "Lyd",
+      "descriptive": "Publikationen indeholder lyde, der kan være ubehagelige"
+    },
+    "hazards-unknown": {
+      "compact": "Tilstedeværelsen af risici er ukendt",
+      "descriptive": "Tilstedeværelsen af risici er ukendt"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Opsummering om tilgængelighed",
+    "accessibility-summary-no-metadata": {
+      "compact": "Der er ingen tilgængelige oplysninger",
+      "descriptive": "Der er ingen tilgængelige oplysninger"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Juridiske overvejelser",
+    "legal-considerations-exempt": {
+      "compact": "Påberåber sig en tilgængelighedsundtagelse i visse jurisdiktioner",
+      "descriptive": "Denne publikation påberåber sig en tilgængelighedsundtagelse i nogle jurisdiktioner"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Der er ingen tilgængelige oplysninger",
+      "descriptive": "Der er ingen tilgængelige oplysninger"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Yderligere tilgængelighedsoplysninger",
+    "additional-accessibility-information-aria": {
+      "compact": "ARIA-roller inkluderet",
+      "descriptive": "Indholdet er forbedret med ARIA-roller for at optimere organisering og lette navigation"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Lydbeskrivelser",
+      "descriptive": "Lydbeskrivelser"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Punktskrift",
+      "descriptive": "Punktskrift"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Farve er ikke den eneste måde at formidle information på",
+      "descriptive": "Farve er ikke den eneste måde at formidle information på"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Læsbarhed for ordblinde",
+      "descriptive": "Læsbarhed for ordblinde"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Fuldstændige Ruby-kommentarer",
+      "descriptive": "Fuldstændige Ruby-kommentarer"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Høj kontrast mellem forgrunds- og baggrundslyd",
+      "descriptive": "Høj kontrast mellem forgrunds- og baggrundslyd"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Høj kontrast mellem forgrundstekst og baggrund",
+      "descriptive": "Høj kontrast mellem forgrundstekst og baggrund"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Stor skrift",
+      "descriptive": "Stor skrift"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Sideskift er inkluderet",
+      "descriptive": "Sideskift inkluderet fra den oprindelige trykte kilde"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Nogle Ruby-kommentarer",
+      "descriptive": "Nogle Ruby-kommentarer"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Tegnsprog",
+      "descriptive": "Tegnsprog"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Taktil grafik inkluderet",
+      "descriptive": "Taktil grafik er blevet integreret for at lette adgangen til visuelle elementer for blinde"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Taktile 3D-objekter",
+      "descriptive": "Taktile 3D-objekter"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Tekst til tale-hints angivet",
+      "descriptive": "Tekst til tale-hints angivet"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Ultra høj kontrast mellem tekst og baggrund",
+      "descriptive": "Ultra høj kontrast mellem tekst og baggrund"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Synlig sidenummerering ",
+      "descriptive": "Synlig sidenummerering "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Uden baggrundslyde",
+      "descriptive": "Uden baggrundslyde"
+    }
+  }
+}

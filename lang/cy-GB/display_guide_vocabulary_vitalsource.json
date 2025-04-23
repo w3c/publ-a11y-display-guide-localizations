@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "cy-GB",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Geiriad gwreiddiol a drafodwyd gan grŵp mawr sy'n cynrychioli actorion amrywiol o'r ardaloedd Saesneg eu hiaith. Mae wedi'i wella ar ôl gweithrediadau prawf cysyniad a phrofion gan banel."
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Ffyrdd o ddarllen",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Yn cynnwys testun amgen",
+      "descriptive": "Yn cynnwys disgrifiadau testun amgen ar gyfer delweddau"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Nid oes unrhyw wybodaeth am ddarllen anweledol ar gael",
+      "descriptive": "Nid oes unrhyw wybodaeth am ddarllen anweledol ar gael"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Ddim yn ddarllenadwy mewn darllen yn uchel neu braille deinamig",
+      "descriptive": "Nid yw'r cynnwys yn ddarllenadwy fel lleferydd darllen yn uchel neu braille deinamig"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Ddim yn gwbl ddarllenadwy mewn darllen yn uchel na braille deinamig",
+      "descriptive": "Ni fydd yr holl gynnwys yn ddarllenadwy fel lleferydd darllen yn uchel neu braille deinamig"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Yn ddarllenadwy mewn darllen yn uchel neu braille dynamig",
+      "descriptive": "Gellir darllen yr holl gynnwys fel lleferydd darllen yn uchel neu braille deinamig."
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Clipiau sain wedi'u recordio ymlaen llaw",
+      "descriptive": "Mae clipiau sain wedi'u recordio ymlaen llaw wedi'u hymgorffori yn y cynnwys"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Nid oes gwybodaeth ar gael am sain wedi'i recordio ymlaen llaw",
+      "descriptive": " Nid oes gwybodaeth ar gael am sain wedi'i recordio ymlaen llaw"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Sain wedi'i recordio ymlaen llaw yn unig",
+      "descriptive": " Llyfr llafar heb unrhyw ddewis testun amgen"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Sain wedi'i recordio ymlaen llaw wedi'i gydamseru â thestun",
+      "descriptive": "Mae'r holl gynnwys ar gael fel sain wedi'i recordio ymlaen llaw wedi'i gydamseru â thestun"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Gellir addasu'r ymddangosiad",
+      "descriptive": " Gellir addasu ymddangosiad y testun a chynllun y dudalen yn ôl galluoedd y system ddarllen (teulu ffont a maint ffont, bylchau rhwng paragraffau, brawddegau, geiriau a llythrennau, yn ogystal â lliw cefndir a thestun)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Dim gwybodaeth am addasrwydd newid ymddangosiad ar gael",
+      "descriptive": " Dim gwybodaeth am addasrwydd newid ymddangosiad ar gael"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Ni ellir addasu'r ymddangosiad",
+      "descriptive": "Ni ellir addasu dyluniad testun a thudalen gan fod y profiad darllen yn agos at fersiwn print, ond gall systemau darllen ddarparu opsiynau nesáu a phellhau o hyd"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Cydymffurfiad",
+    "conformance-details-title": "Gwybodaeth fanwl am gydymffurfiaeth",
+    "conformance-a": {
+      "compact": "Mae'r cyhoeddiad hwn yn bodloni safonau hygyrchedd gofynnol",
+      "descriptive": "Mae'r cyhoeddiad yn cynnwys datganiad cydymffurfio ei fod yn bodloni safonau Hygyrchedd EPUB a WCAG 2 Lefel A."
+    },
+    "conformance-aa": {
+      "compact": "Mae'r cyhoeddiad hwn yn bodloni safonau hygyrchedd derbyniol",
+      "descriptive": "Mae'r cyhoeddiad yn cynnwys datganiad cydymffurfio ei fod yn bodloni safonau Hygyrchedd EPUB a WCAG 2 Lefel AA."
+    },
+    "conformance-aaa": {
+      "compact": "Mae'r cyhoeddiad hwn yn rhagori ar safonau hygyrchedd derbyniol",
+      "descriptive": "Mae'r cyhoeddiad yn cynnwys datganiad cydymffurfio ei fod yn bodloni safonau Hygyrchedd EPUB a WCAG 2 Lefel AAA"
+    },
+    "conformance-certifier": {
+      "compact": "Ardystiwyd y cyhoeddiad gan",
+      "descriptive": "Ardystiwyd y cyhoeddiad gan "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Manylion yr ardystiwr yw ",
+      "descriptive": "Manylion yr ardystiwr yw "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Ardystiwyd y cyhoeddiad ar ",
+      "descriptive": "Ardystiwyd y cyhoeddiad ar "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Am ragor o wybodaeth, cyfeiriwch at adroddiad yr ardystiwr",
+      "descriptive": "Am ragor o wybodaeth, cyfeiriwch at adroddiad yr ardystiwr"
+    },
+    "conformance-details-claim": {
+      "compact": "Mae'r cyhoeddiad hwn yn honni ei fod yn bodloni",
+      "descriptive": "Mae'r cyhoeddiad hwn yn honni ei fod yn bodloni"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " Hygyrchedd EPUB 1.0",
+      "descriptive": " Hygyrchedd EPUB 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " Hygyrchedd EPUB 1.1",
+      "descriptive": " Hygyrchedd EPUB 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Lefel A",
+      "descriptive": " Lefel A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Lefel AA",
+      "descriptive": " Lefel AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Lefel AAA",
+      "descriptive": " Lefel AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Canllawiau Hygyrchedd Cynnwys Gwe (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Canllawiau Hygyrchedd Cynnwys Gwe (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Canllawiau Hygyrchedd Cynnwys Gwe (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Nid oes gwybodaeth ar gael",
+      "descriptive": "Nid oes gwybodaeth ar gael"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Ni ellir penderfynu ar gydymffurfiaeth â safonau derbyniol ar gyfer hygyrchedd y cyhoeddiad hwn",
+      "descriptive": "Ni ellir penderfynu ar gydymffurfiaeth â safonau derbyniol ar gyfer hygyrchedd y cyhoeddiad hwn"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Llywio",
+    "navigation-index": {
+      "compact": "Mynegai",
+      "descriptive": "Mynegai gyda dolenni i gofnodion y cyfeirir atynt"
+    },
+    "navigation-no-metadata": {
+      "compact": "Nid oes gwybodaeth ar gael",
+      "descriptive": "Nid oes gwybodaeth ar gael"
+    },
+    "navigation-page-navigation": {
+      "compact": "Mynd i dudalen",
+      "descriptive": "Rhestr tudalennau i fynd i dudalennau o'r fersiwn ffynhonnell brint"
+    },
+    "navigation-structural": {
+      "compact": "Penawdau",
+      "descriptive": "Elfennau fel penawdau, tablau, ac ati ar gyfer llywio strwythuredig"
+    },
+    "navigation-toc": {
+      "compact": "Tabl cynnwys",
+      "descriptive": "Tabl cynnwys sy'n darparu mynediad i bob pennod o'r testun trwy ddolenni"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Cynnwys cyfoethog",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Fformiwlâu cemegol yn LaTeX",
+      "descriptive": "Fformiwlâu cemegol mewn fformat hygyrch (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Fformiwlâu cemegol yn MathML",
+      "descriptive": "Fformiwlâu cemegol mewn fformat hygyrch (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Mathemateg fel LaTeX",
+      "descriptive": "Fformiwlâu mathemateg mewn fformat hygyrch (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Mathemateg fel MathML",
+      "descriptive": "Fformiwlâu mathemateg mewn fformat hygyrch (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Darperir disgrifiadau testun o fathemateg",
+      "descriptive": "Darperir disgrifiadau testun o fathemateg"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Mae gan fideos gapsiynau caeedig",
+      "descriptive": " Mae gan fideos sydd wedi'u cynnwys mewn cyhoeddiadau gapsiynau caeedig"
+    },
+    "rich-content-extended": {
+      "compact": "Mae delweddau llawn gwybodaeth yn cael eu disgrifio gan ddisgrifiadau estynedig",
+      "descriptive": "Mae delweddau llawn gwybodaeth yn cael eu disgrifio gan ddisgrifiadau estynedig"
+    },
+    "rich-content-open-captions": {
+      "compact": " Mae gan fideos gapsiynau agored",
+      "descriptive": " Mae gan fideos sydd wedi'u cynnwys mewn cyhoeddiadau gapsiynau agored"
+    },
+    "rich-content-transcript": {
+      "compact": "Trawsgrifiad(au) wedi'u darparu",
+      "descriptive": "Trawsgrifiad(au) wedi'u darparu"
+    },
+    "rich-content-unknown": {
+      "compact": "Nid oes gwybodaeth ar gael",
+      "descriptive": "Nid oes gwybodaeth ar gael"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Peryglon",
+    "hazards-flashing": {
+      "compact": "Cynnwys sy'n fflachio",
+      "descriptive": "Mae'r cyhoeddiad yn cynnwys cynnwys sy'n fflachio a all achosi trawiadau ffotosensitif."
+    },
+    "hazards-motion": {
+      "compact": "Efelychiad symudiad",
+      "descriptive": "Mae'r cyhoeddiad yn cynnwys efelychiadau symudiad a all achosi salwch symud."
+    },
+    "hazards-no-metadata": {
+      "compact": "Nid oes gwybodaeth ar gael",
+      "descriptive": "Nid oes gwybodaeth ar gael"
+    },
+    "hazards-none": {
+      "compact": "Dim peryglon",
+      "descriptive": "Nid yw'r cyhoeddiad yn cynnwys unrhyw beryglon"
+    },
+    "hazards-sound": {
+      "compact": "Synau",
+      "descriptive": "Mae'r cyhoeddiad yn cynnwys synau a allai fod yn anghyfforddus"
+    },
+    "hazards-unknown": {
+      "compact": "Nid yw presenoldeb peryglon yn hysbys",
+      "descriptive": "Nid yw presenoldeb peryglon yn hysbys"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Crynodeb hygyrchedd",
+    "accessibility-summary-no-metadata": {
+      "compact": "Nid oes gwybodaeth ar gael",
+      "descriptive": "Nid oes gwybodaeth ar gael"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Ystyriaethau cyfreithiol",
+    "legal-considerations-exempt": {
+      "compact": "Yn hawlio eithriad hygyrchedd mewn rhai awdurdodaethau",
+      "descriptive": "Mae'r cyhoeddiad hwn yn hawlio eithriad hygyrchedd mewn rhai awdurdodaethau"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Nid oes gwybodaeth ar gael",
+      "descriptive": "Nid oes gwybodaeth ar gael"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Gwybodaeth hygyrchedd ychwanegol",
+    "additional-accessibility-information-aria": {
+      "compact": "Mae rolau ARIA wedi'u cynnwys",
+      "descriptive": "Mae cynnwys yn cael ei wella gyda rolau ARIA i optimeiddio trefniadaeth a hwyluso llywio"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Disgrifiadau sain",
+      "descriptive": "Disgrifiadau sain"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braille",
+      "descriptive": "Braille"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Nid lliw yw'r unig ffordd o gyfleu gwybodaeth",
+      "descriptive": "Nid lliw yw'r unig ffordd o gyfleu gwybodaeth"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Darllenadwyedd dyslecsia",
+      "descriptive": "Darllenadwyedd dyslecsia"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Anodiadau llawn ruby",
+      "descriptive": "Anodiadau llawn ruby"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Cyferbyniad uchel rhwng sain blaendir a sain gefndir",
+      "descriptive": "Cyferbyniad uchel rhwng sain blaendir a sain gefndir"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Cyferbyniad uchel rhwng testun blaen a'r cefndir",
+      "descriptive": "Cyferbyniad uchel rhwng testun blaen a'r cefndir"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Print mawr",
+      "descriptive": "Print mawr"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Mae toriadau tudalen wedi'u cynnwys",
+      "descriptive": "Mae toriadau tudalen wedi'u cynnwys o'r ffynhonnell print gwreiddiol"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Rhai anodiadau Ruby",
+      "descriptive": "Rhai anodiadau Ruby"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Iaith Arwyddion",
+      "descriptive": "Iaith Arwyddion"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Yn cynnwys graffeg gyffyrddadwy",
+      "descriptive": "Mae graffeg gyffyrddadwy wedi'u hintegreiddio i hwyluso mynediad i elfennau gweledol ar gyfer pobl ddall"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Gwrthrychau 3D cyffyrddadwy",
+      "descriptive": "Gwrthrychau 3D cyffyrddadwy"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Darperir awgrymiadau testun-i-leferydd",
+      "descriptive": "Darperir awgrymiadau testun-i-leferydd"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Cyferbyniad eithriadol o uchel rhwng testun a'r cefndir",
+      "descriptive": "Cyferbyniad eithriadol o uchel rhwng testun a'r cefndir"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Dangos rhifau tudalennau ",
+      "descriptive": "Dangos rhifau tudalennau "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Heb synau cefndir",
+      "descriptive": "Heb synau cefndir"
+    }
+  }
+}

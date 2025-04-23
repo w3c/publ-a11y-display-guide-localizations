@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "ru-RU",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Языковое наполнение обсуждалось большим количеством носителей английского языка из разных регионов. Наполнение было доработано после апробирования и тестирования проверяющими"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Способы чтения",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Имеется альтернативный текст",
+      "descriptive": "Имеются альтернативные текстовые описания изображений"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Информация о возможностях чтения без помощи зрения недоступна",
+      "descriptive": "Информация о возможностях чтения без помощи зрения недоступна"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Недоступно в виде синтезированной речи или динамического шрифта Брайля",
+      "descriptive": "Контент недоступен для чтения в виде синтезированной речи или динамического шрифта Брайля"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Частично доступно в виде синтезированной речи или динамического шрифта Брайля",
+      "descriptive": "Для чтения в виде синтезированной речи или динамического шрифта Брайля доступен не весь контент"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Доступно для чтения в виде синтезированной речи или динамического шрифта Брайля",
+      "descriptive": "Весь контент доступен для чтения в виде синтезированной речи или динамической азбуки Брайля"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Предварительно записанные аудиоклипы",
+      "descriptive": "В контент встроены предварительно записанные аудиоклипы"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Информация о предварительно записанном аудио недоступна",
+      "descriptive": " Информация о предварительно записанном аудио недоступна"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Только предварительно записанное аудио",
+      "descriptive": " Аудиокнига без альтернативного текста"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Предварительно записанное аудио, синхронизированное с текстом",
+      "descriptive": "Весь контент доступен в виде предварительно записанного аудио, синхронизированного с текстом"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Внешний вид можно изменить",
+      "descriptive": " Внешний вид текста и макет страницы можно изменить в соответствии с возможностями средства чтения (тип и размер шрифта, интервалы между абзацами, предложениями, словами и буквами, а также цвет фона и текста)."
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Нет данных о возможности изменения внешнего вида",
+      "descriptive": " Нет данных о возможности изменения внешнего вида"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Внешний вид нельзя изменить",
+      "descriptive": "Расположение текста и страницы невозможно изменить, поскольку процесс чтения напоминает чтение печатной книги. Тем не менее, средства чтения могут обеспечивать масштабирование"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Соответствие",
+    "conformance-details-title": "Подробная информация о соответствии",
+    "conformance-a": {
+      "compact": "Публикация соответствует минимальным стандартам специальных возможностей",
+      "descriptive": "Публикация содержит утверждение о том, что она соответствует стандартам специальных возможностей EPUB и WCAG 2 уровня A"
+    },
+    "conformance-aa": {
+      "compact": "Эта публикация соответствует стандартам специальных возможностей",
+      "descriptive": "Публикация содержит утверждение о том, что она соответствует стандартам специальных возможностей EPUB и WCAG 2 уровня AA"
+    },
+    "conformance-aaa": {
+      "compact": "Публикация превышает стандарты специальных возможностей",
+      "descriptive": "Публикация содержит утверждение о том, что она соответствует стандартам специальных возможностей EPUB и WCAG 2 уровня AAA"
+    },
+    "conformance-certifier": {
+      "compact": "Орган сертификации публикации",
+      "descriptive": "Орган сертификации публикации "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Данные органа сертификации ",
+      "descriptive": "Данные органа сертификации "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Дата сертификации публикации ",
+      "descriptive": "Дата сертификации публикации "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Для дополнительной информации смотрите отчет органа сертификации",
+      "descriptive": "Для дополнительной информации смотрите отчет органа сертификации"
+    },
+    "conformance-details-claim": {
+      "compact": "Публикация содержит утверждение о том, что она соответствует",
+      "descriptive": "Публикация содержит утверждение о том, что она соответствует"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " Специальные возможности EPUB 1.0",
+      "descriptive": " Специальные возможности EPUB 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " Специальные возможности EPUB 1.1",
+      "descriptive": " Специальные возможности EPUB 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Уровень A",
+      "descriptive": " Уровень A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Уровень AA",
+      "descriptive": " Уровень AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Уровень AAA",
+      "descriptive": " Уровень AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Руководство по специальным возможностям веб-контента (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Руководство по специальным возможностям веб-контента (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Руководство по специальным возможностям веб-контента (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Информация недоступна",
+      "descriptive": "Информация недоступна"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Не удается определить степень соответствия данной публикации стандартам специальных возможностей",
+      "descriptive": "Не удается определить степень соответствия данной публикации стандартам специальных возможностей"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Навигация",
+    "navigation-index": {
+      "compact": "Алфавитный указатель",
+      "descriptive": "Указатель со ссылками"
+    },
+    "navigation-no-metadata": {
+      "compact": "Информация недоступна",
+      "descriptive": "Информация недоступна"
+    },
+    "navigation-page-navigation": {
+      "compact": "Перейти к странице",
+      "descriptive": "Список для перехода по страницам как в печатном оригинале"
+    },
+    "navigation-structural": {
+      "compact": "Заголовки",
+      "descriptive": "Элементы, такие как заголовки и таблицы для навигации по контенту"
+    },
+    "navigation-toc": {
+      "compact": "Содержание",
+      "descriptive": "Оглавление всех глав текста доступно по ссылкам"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Форматированное содержимое",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Химические формулы в LaTeX",
+      "descriptive": "Химические формулы в читаемом формате (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Химические формулы в MathML",
+      "descriptive": "Химические формулы в читаемом формате (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Математика в формате LaTeX",
+      "descriptive": "Математические формулы в читаемом формате (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Математические формулы в формате MathML",
+      "descriptive": "Математические формулы в читаемом формате (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Предоставлены текстовые описания математики",
+      "descriptive": "Предоставлены текстовые описания математики"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Видео снабжены выключаемыми субтитрами",
+      "descriptive": " Видео в публикации имеют выключаемые субтитры"
+    },
+    "rich-content-extended": {
+      "compact": "Информационно насыщенные изображения сопровождаются расширенными описаниями",
+      "descriptive": "Информационно насыщенные изображения сопровождаются расширенными описаниями"
+    },
+    "rich-content-open-captions": {
+      "compact": " Видео с невыключаемыми субтитрами",
+      "descriptive": " Видео в публикации имеют невыключаемые субтитры."
+    },
+    "rich-content-transcript": {
+      "compact": "Предлагаются стенограммы",
+      "descriptive": "Предлагаются стенограммы"
+    },
+    "rich-content-unknown": {
+      "compact": "Информация недоступна",
+      "descriptive": "Информация недоступна"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Опасности",
+    "hazards-flashing": {
+      "compact": "Мерцающий контент",
+      "descriptive": "Публикация содержит мигающий контент, который может вызвать приступы светочувствительной эпилепсии"
+    },
+    "hazards-motion": {
+      "compact": "Имитация движения",
+      "descriptive": "Публикация содержит симуляции движения, которые могут вызвать укачивание"
+    },
+    "hazards-no-metadata": {
+      "compact": "Информация недоступна",
+      "descriptive": "Информация недоступна"
+    },
+    "hazards-none": {
+      "compact": "Не содержит опасного контента",
+      "descriptive": "Публикация безопасна"
+    },
+    "hazards-sound": {
+      "compact": "Звуки",
+      "descriptive": "Публикация содержит звуки, которые могут вызывать беспокойство"
+    },
+    "hazards-unknown": {
+      "compact": "Наличие опасного контента неизвестно",
+      "descriptive": "Наличие опасного контента неизвестно"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Сводка по специальным возможностям",
+    "accessibility-summary-no-metadata": {
+      "compact": "Информация недоступна",
+      "descriptive": "Информация недоступна"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Юридические аспекты",
+    "legal-considerations-exempt": {
+      "compact": "Необязательность специальных возможностей в некоторых юрисдикциях",
+      "descriptive": "Эта публикация содержит утверждение о том, что она не подпадает под требования специальных возможностей в некоторых юрисдикциях"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Информация недоступна",
+      "descriptive": "Информация недоступна"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Дополнительная информация о доступности",
+    "additional-accessibility-information-aria": {
+      "compact": "ARIA-роли включены",
+      "descriptive": "Контент дополнен ARIA-ролями для оптимизации структуры и упрощения навигации"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Аудиоописания",
+      "descriptive": "Аудиоописания"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Брайль",
+      "descriptive": "Брайль"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Передача информации не ограничена световыми средствами",
+      "descriptive": "Передача информации не ограничена световыми средствами"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Читаемость для людей с дислексией",
+      "descriptive": "Читаемость для людей с дислексией"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Полная аннотация для произношения",
+      "descriptive": "Полная аннотация для произношения"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Высокий контраст между звуком переднего и заднего плана",
+      "descriptive": "Высокий контраст между звуком переднего и заднего плана"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Высокий контраст между текстом на переднем плане и фоном",
+      "descriptive": "Высокий контраст между текстом на переднем плане и фоном"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Крупный шрифт",
+      "descriptive": "Крупный шрифт"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Включены разрывы страниц",
+      "descriptive": "Разрывы страниц как в печатном оригинале"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Некоторые аннотации Ruby",
+      "descriptive": "Некоторые аннотации Ruby"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Язык жестов",
+      "descriptive": "Язык жестов"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Содержит тактильную графику",
+      "descriptive": "В визуальные элементы интегрирована тактильная графика для слепых"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Тактильные 3D объекты",
+      "descriptive": "Тактильные 3D объекты"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Текст подсказок преобразуется в речь",
+      "descriptive": "Текст подсказок преобразуется в речь"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Очень высокий контраст между текстом и фоном",
+      "descriptive": "Очень высокий контраст между текстом и фоном"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Отображение номеров страниц ",
+      "descriptive": "Отображение номеров страниц "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Без фоновых звуков",
+      "descriptive": "Без фоновых звуков"
+    }
+  }
+}
