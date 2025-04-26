@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "th-TH",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "วิธีการอ่าน",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "มีข้อความแสดงแทน",
+      "descriptive": "มีคำอธิบายข้อความทางเลือกสำหรับรูปภาพ"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "ไม่มีข้อมูลเกี่ยวกับการอ่านแบบไม่ใช้ภาพ",
+      "descriptive": "ไม่มีข้อมูลเกี่ยวกับการอ่านแบบไม่ใช้ภาพ"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "ไม่สามารถอ่านได้ในรูปแบบอ่านออกเสียงหรืออักษรเบรลล์แบบไดนามิก",
+      "descriptive": "เนื้อหาไม่สามารถอ่านได้ในรูปแบบคำพูดอ่านออกเสียงหรืออักษรเบรลล์แบบไดนามิก"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "ไม่สามารถอ่านได้อย่างสมบูรณ์ในรูปแบบอ่านออกเสียงหรืออักษรเบรลล์แบบไดนามิก",
+      "descriptive": "เนื้อหาบางส่วนจะไม่สามารถอ่านได้ในรูปแบบคำพูดอ่านออกเสียงหรืออักษรเบรลล์แบบไดนามิก"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "อ่านได้ในรูปแบบอ่านออกเสียงหรืออักษรเบรลล์แบบไดนามิก",
+      "descriptive": "เนื้อหาทั้งหมดสามารถอ่านได้ในรูปแบบคำพูดอ่านออกเสียงหรืออักษรเบรลล์แบบไดนามิก"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "คลิปเสียงที่บันทึกไว้ล่วงหน้า",
+      "descriptive": "คลิปเสียงที่บันทึกไว้ล่วงหน้าจะถูกฝังไว้ในเนื้อหา"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " ไม่มีข้อมูลเกี่ยวกับเสียงที่บันทึกไว้ล่วงหน้า",
+      "descriptive": " ไม่มีข้อมูลเกี่ยวกับเสียงที่บันทึกไว้ล่วงหน้า"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "เสียงที่บันทึกไว้ล่วงหน้าเท่านั้น",
+      "descriptive": " หนังสือเสียงที่ไม่มีข้อความสำรอง"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "เสียงที่บันทึกไว้ล่วงหน้าพร้อมการซิงโครไนซ์กับข้อความ",
+      "descriptive": "เนื้อหาทั้งหมดมีให้ใช้งานในรูปแบบเสียงที่บันทึกไว้ล่วงหน้าซึ่งซิงค์กับข้อความ"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "สามารถแก้ไขลักษณะที่ปรากฏได้",
+      "descriptive": " ลักษณะที่ปรากฏของข้อความและเลย์เอาต์หน้าสามารถแก้ไขได้ตามความสามารถของระบบการอ่าน (ชุดแบบอักษรและขนาดแบบอักษร ช่องว่างระหว่างย่อหน้า ประโยค คำ และตัวอักษร รวมถึงสีของพื้นหลังและข้อความ)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "ไม่มีข้อมูลเกี่ยวกับการปรับเปลี่ยนรูปลักษณ์",
+      "descriptive": " ไม่มีข้อมูลเกี่ยวกับการปรับเปลี่ยนรูปลักษณ์"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "ไม่สามารถปรับเปลี่ยนลักษณะที่ปรากฏได้",
+      "descriptive": "ไม่สามารถแก้ไขข้อความและเลย์เอาต์หน้าได้ ประสบการณ์การอ่านใกล้เคียงกับเวอร์ชันพิมพ์ ระบบการอ่านยังคงมีตัวเลือกการซูมได้"
+    }
+  },
+  "conformance": {
+    "conformance-title": "ความสอดคล้อง",
+    "conformance-details-title": "ข้อมูลความสอดคล้องโดยละเอียด",
+    "conformance-a": {
+      "compact": "สิ่งพิมพ์นี้ตรงตามมาตรฐานการเข้าถึงขั้นต่ำ",
+      "descriptive": "สิ่งพิมพ์นี้มีคำชี้แจงความสอดคล้องว่าเป็นไปตามมาตรฐาน EPUB Accessibility และ WCAG 2 ระดับ A"
+    },
+    "conformance-aa": {
+      "compact": "สิ่งพิมพ์นี้เป็นไปตามมาตรฐานการเข้าถึงที่ยอมรับ",
+      "descriptive": "สิ่งพิมพ์นี้มีคำชี้แจงความสอดคล้องว่าเป็นไปตามมาตรฐาน EPUB Accessibility และ WCAG 2 ระดับ AA"
+    },
+    "conformance-aaa": {
+      "compact": "สิ่งพิมพ์นี้เกินมาตรฐานการเข้าถึงที่ยอมรับได้",
+      "descriptive": "สิ่งพิมพ์นี้มีคำชี้แจงความสอดคล้องว่าเป็นไปตามมาตรฐาน EPUB Accessibility และ WCAG 2 ระดับ AAA"
+    },
+    "conformance-certifier": {
+      "compact": "สิ่งพิมพ์ได้รับการรับรองโดย",
+      "descriptive": "สิ่งพิมพ์ได้รับการรับรองโดย "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "ข้อมูลรับรองของผู้รับรองคือ ",
+      "descriptive": "ข้อมูลรับรองของผู้รับรองคือ "
+    },
+    "conformance-details-certification-info": {
+      "compact": "สิ่งพิมพ์ได้รับการรับรองเมื่อ ",
+      "descriptive": "สิ่งพิมพ์ได้รับการรับรองเมื่อ "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "สำหรับข้อมูลเพิ่มเติม โปรดดูรายงานของผู้รับรอง",
+      "descriptive": "สำหรับข้อมูลเพิ่มเติม โปรดดูรายงานของผู้รับรอง"
+    },
+    "conformance-details-claim": {
+      "compact": "สิ่งพิมพ์นี้อ้างว่าเป็นไปตาม",
+      "descriptive": "สิ่งพิมพ์นี้อ้างว่าเป็นไปตาม"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " การช่วยสำหรับการเข้าถึง EPUB 1.0",
+      "descriptive": " การช่วยสำหรับการเข้าถึง EPUB 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB Accessibility 1.1",
+      "descriptive": " EPUB Accessibility 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " ระดับ A",
+      "descriptive": " ระดับ A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " ระดับ AA",
+      "descriptive": " ระดับ AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " ระดับ AAA",
+      "descriptive": " ระดับ AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " แนวทางการเข้าถึงเนื้อหาเว็บ (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " แนวทางการเข้าถึงเนื้อหาเว็บ (WCAG) 2.1",
+      "descriptive": " แนวทางการเข้าถึงเนื้อหาเว็บ (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " แนวทางการเข้าถึงเนื้อหาเว็บ (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "ไม่มีข้อมูลที่มีอยู่",
+      "descriptive": "ไม่มีข้อมูลที่มีอยู่"
+    },
+    "conformance-unknown-standard": {
+      "compact": "ไม่สามารถกำหนดความสอดคล้องกับมาตรฐานที่ยอมรับในการเข้าถึงสิ่งพิมพ์นี้ได้",
+      "descriptive": "ไม่สามารถกำหนดความสอดคล้องกับมาตรฐานที่ยอมรับในการเข้าถึงสิ่งพิมพ์นี้ได้"
+    }
+  },
+  "navigation": {
+    "navigation-title": "การนำทาง",
+    "navigation-index": {
+      "compact": "ดัชนี",
+      "descriptive": "ดัชนีพร้อมลิงค์ไปยังรายการอ้างอิง"
+    },
+    "navigation-no-metadata": {
+      "compact": "ไม่มีข้อมูลที่มีอยู่",
+      "descriptive": "ไม่มีข้อมูลที่มีอยู่"
+    },
+    "navigation-page-navigation": {
+      "compact": "ไปที่หน้า",
+      "descriptive": "รายการหน้าที่จะไปยังหน้าจากเวอร์ชันต้นฉบับที่พิมพ์"
+    },
+    "navigation-structural": {
+      "compact": "หัวเรื่อง",
+      "descriptive": "องค์ประกอบต่างๆ เช่น หัวเรื่อง ตาราง และอื่นๆ สำหรับการนำทางที่มีโครงสร้าง"
+    },
+    "navigation-toc": {
+      "compact": "สารบัญ",
+      "descriptive": "สารบัญของทุกบทในข้อความผ่านลิงก์"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "เนื้อหาที่หลากหลาย",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "สูตรเคมีใน LaTeX",
+      "descriptive": "สูตรเคมีในรูปแบบที่เข้าถึงได้ (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "สูตรเคมีใน MathML",
+      "descriptive": "สูตรเคมีในรูปแบบที่เข้าถึงได้ (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "คณิตศาสตร์ในรูปแบบ LaTeX",
+      "descriptive": "สูตรคณิตศาสตร์ในรูปแบบที่เข้าถึงได้ (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "คณิตศาสตร์ในรูปแบบ MathML",
+      "descriptive": "สูตรคณิตศาสตร์ในรูปแบบที่สามารถเข้าถึงได้ (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "มีคำอธิบายข้อความทางคณิตศาสตร์ให้",
+      "descriptive": "มีคำอธิบายข้อความทางคณิตศาสตร์ให้"
+    },
+    "rich-content-closed-captions": {
+      "compact": " วิดีโอมีคำบรรยายปิด",
+      "descriptive": " วิดีโอที่รวมอยู่ในสิ่งพิมพ์มีคำบรรยายปิด"
+    },
+    "rich-content-extended": {
+      "compact": "รูปภาพที่อุดมไปด้วยข้อมูลได้รับการอธิบายด้วยคำอธิบายที่ขยายความ",
+      "descriptive": "รูปภาพที่อุดมไปด้วยข้อมูลได้รับการอธิบายด้วยคำอธิบายที่ขยายความ"
+    },
+    "rich-content-open-captions": {
+      "compact": " วิดีโอมีคำบรรยายแบบเปิด",
+      "descriptive": " วิดีโอที่รวมอยู่ในสิ่งพิมพ์มีคำบรรยายเปิด"
+    },
+    "rich-content-transcript": {
+      "compact": "การถอดเสียงที่ให้มา",
+      "descriptive": "การถอดเสียงที่ให้มา"
+    },
+    "rich-content-unknown": {
+      "compact": "ไม่มีข้อมูลที่มีอยู่",
+      "descriptive": "ไม่มีข้อมูลที่มีอยู่"
+    }
+  },
+  "hazards": {
+    "hazards-title": "อันตราย",
+    "hazards-flashing": {
+      "compact": "เนื้อหาที่กะพริบ",
+      "descriptive": "สิ่งพิมพ์นี้มีเนื้อหาที่กะพริบซึ่งอาจทำให้เกิดอาการชักจากแสงได้"
+    },
+    "hazards-motion": {
+      "compact": "การจำลองการเคลื่อนไหว",
+      "descriptive": "สิ่งพิมพ์นี้มีการจำลองการเคลื่อนไหวที่อาจทำให้เกิดอาการเมาได้"
+    },
+    "hazards-no-metadata": {
+      "compact": "ไม่มีข้อมูลที่มีอยู่",
+      "descriptive": "ไม่มีข้อมูลที่มีอยู่"
+    },
+    "hazards-none": {
+      "compact": "ไม่มีอันตราย",
+      "descriptive": "สิ่งพิมพ์นี้ไม่มีอันตราย"
+    },
+    "hazards-sound": {
+      "compact": "เสียง",
+      "descriptive": "สิ่งพิมพ์นี้มีเสียงที่อาจสร้างความไม่สบายใจ"
+    },
+    "hazards-unknown": {
+      "compact": "การมีอยู่ของอันตรายยังไม่ทราบ",
+      "descriptive": "อันตรายที่จะเกิดขึ้นนั้นไม่ทราบแน่ชัด"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "สรุปการเข้าถึง",
+    "accessibility-summary-no-metadata": {
+      "compact": "ไม่มีข้อมูลที่มีอยู่",
+      "descriptive": "ไม่มีข้อมูลที่มีอยู่"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "ข้อพิจารณาทางกฎหมาย",
+    "legal-considerations-exempt": {
+      "compact": "เรียกร้องการยกเว้นการเข้าถึงได้ในบางเขตอำนาจศาล",
+      "descriptive": "สิ่งพิมพ์นี้อ้างสิทธิยกเว้นการเข้าถึงได้ในเขตอำนาจศาลบางแห่ง"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "ไม่มีข้อมูลที่มีอยู่",
+      "descriptive": "ไม่มีข้อมูลที่มีอยู่"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "ข้อมูลการเข้าถึงเพิ่มเติม",
+    "additional-accessibility-information-aria": {
+      "compact": "รวมบทบาท ARIA",
+      "descriptive": "เนื้อหาได้รับการปรับปรุงด้วยบทบาท ARIA เพื่อเพิ่มประสิทธิภาพองค์กรและอำนวยความสะดวกในการนำทาง"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "คำบรรยายเสียง",
+      "descriptive": "คำบรรยายเสียง"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "อักษรเบรลล์",
+      "descriptive": "อักษรเบรลล์"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "สีไม่ใช่เพียงสื่อกลางในการถ่ายทอดข้อมูลเท่านั้น",
+      "descriptive": "สีไม่ใช่เพียงสื่อกลางในการถ่ายทอดข้อมูลเท่านั้น"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "ความสามารถในการอ่านของภาวะดิสเล็กเซีย",
+      "descriptive": "ความสามารถในการอ่านของภาวะดิสเล็กเซีย"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "คำอธิบายประกอบแบบเต็มสำหรับรูบี้",
+      "descriptive": "คำอธิบายประกอบแบบเต็มสำหรับรูบี้"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "คอนทราสต์สูงระหว่างเสียงเบื้องหน้าและเบื้องหลัง",
+      "descriptive": "คอนทราสต์สูงระหว่างเสียงเบื้องหน้าและเบื้องหลัง"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "คอนทราสต์สูงระหว่างข้อความเบื้องหน้าและพื้นหลัง",
+      "descriptive": "คอนทราสต์สูงระหว่างข้อความเบื้องหน้าและพื้นหลัง"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "พิมพ์ขนาดใหญ่",
+      "descriptive": "พิมพ์ขนาดใหญ่"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "รวมการแบ่งหน้า",
+      "descriptive": "รวมตัวแบ่งหน้าจากแหล่งพิมพ์ต้นฉบับ"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "คำอธิบายประกอบ Ruby บางส่วน",
+      "descriptive": "คำอธิบายประกอบ Ruby บางส่วน"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "ภาษามือ",
+      "descriptive": "ภาษามือ"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "รวมกราฟิกสัมผัส",
+      "descriptive": "มีการผสานการทำงานกับกราฟิกแบบสัมผัสได้เพื่ออำนวยความสะดวกในการเข้าถึงองค์ประกอบภาพโดยคนตาบอด"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "วัตถุ 3 มิติที่สามารถสัมผัสได้",
+      "descriptive": "วัตถุ 3 มิติที่สามารถสัมผัสได้"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "มีการให้คำแนะนำการแปลงข้อความเป็นคำพูด",
+      "descriptive": "มีการให้คำแนะนำการแปลงข้อความเป็นคำพูด"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "คอนทราสต์สูงเป็นพิเศษระหว่างข้อความและพื้นหลัง",
+      "descriptive": "คอนทราสต์สูงเป็นพิเศษระหว่างข้อความและพื้นหลัง"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "หมายเลขหน้าที่มองเห็นได้ ",
+      "descriptive": "หมายเลขหน้าที่มองเห็นได้ "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "ไม่มีเสียงพื้นหลัง",
+      "descriptive": "ไม่มีเสียงพื้นหลัง"
+    }
+  }
+}

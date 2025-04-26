@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "zh-TW",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "閱讀方式",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "有替代文字",
+      "descriptive": "具有影像的替代文字說明"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "無關於非視覺閱讀的資訊",
+      "descriptive": "無關於非視覺閱讀的資訊"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "無法以大聲閱讀和動態盲文形式閱讀",
+      "descriptive": "內容無法以大聲閱讀語音或動態盲文形式閱讀"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "無法完全以大聲閱讀和動態盲文形式閱讀",
+      "descriptive": "並非所有內容均以大聲閱讀語音或動態盲文形式閱讀"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "可以大聲閱讀和動態盲文形式閱讀",
+      "descriptive": "所有內容均可以大聲閱讀語音或動態盲文形式閱讀"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "預錄音訊片段",
+      "descriptive": "內容中嵌入了預錄音訊片段"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " 無關於預錄音訊的資訊",
+      "descriptive": " 無關於預錄音訊的資訊"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "僅限預錄音訊",
+      "descriptive": " 沒有文字版本的有聲書"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "預錄音訊與文字同步",
+      "descriptive": "所有內容均以預錄音訊形式提供，並與文字同步"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "可以修改外觀",
+      "descriptive": " 文字的外觀和頁面的版面配置可以依據閱讀系統的功能（字型系列和字型大小、段落、句子、單字和字母之間的間距，以及背景和文字的顏色）進行修改"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "無關於外觀可修改性的資訊",
+      "descriptive": " 無關於外觀可修改性的資訊"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "無法修改外觀",
+      "descriptive": "無法修改文字和頁面版面配置。閱讀體驗與印刷版相近。閱讀系統仍可提供縮放選項"
+    }
+  },
+  "conformance": {
+    "conformance-title": "一致性",
+    "conformance-details-title": "詳細的一致性資訊",
+    "conformance-a": {
+      "compact": "本出版物符合最低無障礙存取標準。",
+      "descriptive": "本出版物包含符合 EPUB 無障礙存取和 WCAG 2 A 級標準的一致性聲明"
+    },
+    "conformance-aa": {
+      "compact": "本出版物符合公認的無障礙存取標準。",
+      "descriptive": "本出版物包含符合 EPUB 無障礙存取和 WCAG 2 AA 級標準的一致性聲明"
+    },
+    "conformance-aaa": {
+      "compact": "本出版物超出了公認的無障礙存取標準。",
+      "descriptive": "本出版物包含符合 EPUB 無障礙存取和 WCAG 2 AAA 級標準的一致性聲明"
+    },
+    "conformance-certifier": {
+      "compact": "本出版物認證方為",
+      "descriptive": "本出版物認證方為 "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "認證方憑證為 ",
+      "descriptive": "認證方憑證為 "
+    },
+    "conformance-details-certification-info": {
+      "compact": "本出版物認證日期為 ",
+      "descriptive": "本出版物認證日期為 "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "如需更多資訊，請參閱認證方報告",
+      "descriptive": "如需更多資訊，請參閱認證方報告"
+    },
+    "conformance-details-claim": {
+      "compact": "本出版物聲稱符合",
+      "descriptive": "本出版物聲稱符合"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB 無障礙存取 1.0",
+      "descriptive": " EPUB 無障礙存取 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB 無障礙存取 1.1",
+      "descriptive": " EPUB 無障礙存取 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " A 級",
+      "descriptive": " A 級"
+    },
+    "conformance-details-level-aa": {
+      "compact": " AA 級",
+      "descriptive": " AA 級"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " AAA 級",
+      "descriptive": " AAA 級"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " 網頁無障礙存取內容指南 (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " 網頁無障礙存取內容指南 (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " 網頁無障礙存取內容指南 (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "沒有可用的資訊",
+      "descriptive": "沒有可用的資訊"
+    },
+    "conformance-unknown-standard": {
+      "compact": "無法確定本出版物是否符合公認的無障礙存取標準",
+      "descriptive": "無法確定本出版物是否符合公認的無障礙存取標準"
+    }
+  },
+  "navigation": {
+    "navigation-title": "導覽",
+    "navigation-index": {
+      "compact": "索引",
+      "descriptive": "包含參考條目連結的索引。"
+    },
+    "navigation-no-metadata": {
+      "compact": "沒有可用的資訊",
+      "descriptive": "沒有可用的資訊"
+    },
+    "navigation-page-navigation": {
+      "compact": "前往頁面",
+      "descriptive": "頁面清單可移至列印原始版本中的頁面"
+    },
+    "navigation-structural": {
+      "compact": "標題",
+      "descriptive": "用於結構化導航的標題、表格等元素"
+    },
+    "navigation-toc": {
+      "compact": "目錄",
+      "descriptive": "透過連結存取正文所有章節的目錄"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "豐富的內容",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "以 LaTeX 呈現的化學公式",
+      "descriptive": "以可存取格式 (LaTeX) 呈現的化學公式"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "以 MathML 呈現的化學公式",
+      "descriptive": "以可存取格式 (MathML) 呈現的化學公式"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "以 LaTeX 呈現的數學",
+      "descriptive": "以可存取格式 (LaTeX) 呈現的數學公式"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "以 MathML 呈現數學",
+      "descriptive": "以可存取格式 (MathML) 呈現的數學公式"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "提供數學的文字說明",
+      "descriptive": "提供數學的文字說明"
+    },
+    "rich-content-closed-captions": {
+      "compact": " 影片有隱藏式字幕",
+      "descriptive": " 出版物中包含的影片有隱藏式字幕"
+    },
+    "rich-content-extended": {
+      "compact": "資訊豐富的影像由擴展說明進行描述。",
+      "descriptive": "資訊豐富的影像由擴展說明進行描述。"
+    },
+    "rich-content-open-captions": {
+      "compact": " 影片有開放字幕",
+      "descriptive": " 出版物中包含的影片有開放式字幕"
+    },
+    "rich-content-transcript": {
+      "compact": "提供謄本",
+      "descriptive": "提供謄本"
+    },
+    "rich-content-unknown": {
+      "compact": "沒有可用的資訊",
+      "descriptive": "沒有可用的資訊"
+    }
+  },
+  "hazards": {
+    "hazards-title": "危險",
+    "hazards-flashing": {
+      "compact": "閃爍的內容",
+      "descriptive": "該出版物包含閃爍內容，可能引發光敏性癲癇發作"
+    },
+    "hazards-motion": {
+      "compact": "運動模擬",
+      "descriptive": "本出版物包含可能引起動暈症的運動模擬"
+    },
+    "hazards-no-metadata": {
+      "compact": "沒有可用的資訊",
+      "descriptive": "沒有可用的資訊"
+    },
+    "hazards-none": {
+      "compact": "無危險",
+      "descriptive": "該出版物不包含任何危險"
+    },
+    "hazards-sound": {
+      "compact": "音效",
+      "descriptive": "該出版物包含可能令人不適的聲音"
+    },
+    "hazards-unknown": {
+      "compact": "是否存在危險尚不可知",
+      "descriptive": "是否存在危險尚不可知"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "無障礙摘要",
+    "accessibility-summary-no-metadata": {
+      "compact": "沒有可用的資訊",
+      "descriptive": "沒有可用的資訊"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "法律考量",
+    "legal-considerations-exempt": {
+      "compact": "在某些司法管轄區聲稱享有無障礙豁免",
+      "descriptive": "本出版物在某些司法管轄區聲稱享有無障礙豁免"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "沒有可用的資訊",
+      "descriptive": "沒有可用的資訊"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "其他無障礙存取資訊",
+    "additional-accessibility-information-aria": {
+      "compact": "包括 ARIA 角色",
+      "descriptive": "透過 ARIA 角色優化內容結構，並使其更易於導覽"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "音訊描述",
+      "descriptive": "音訊描述"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "盲文",
+      "descriptive": "盲文"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "顏色並非傳達資訊的唯一方式",
+      "descriptive": "顏色並非傳達資訊的唯一方式"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "閱讀障礙的可讀性",
+      "descriptive": "閱讀障礙的可讀性"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "完整的 ruby 註解",
+      "descriptive": "完整的 ruby 註解"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "前景與背景音訊的高對比",
+      "descriptive": "前景與背景音訊的高對比"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "前景文字與背景之間的高對比",
+      "descriptive": "前景文字與背景之間的高對比"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "大字體",
+      "descriptive": "大字體"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "包含分頁符號",
+      "descriptive": "包含來自原始列印來源的分頁符號"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "一些 Ruby 註解",
+      "descriptive": "一些 Ruby 註解"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "手語",
+      "descriptive": "手語"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "包含觸覺圖形",
+      "descriptive": "已納入觸覺圖形，以利盲人感觸視覺元素"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "觸覺 3D 物件",
+      "descriptive": "觸覺 3D 物件"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "提供了文字轉語音提示",
+      "descriptive": "提供了文字轉語音提示"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "文字與背景之間的超高對比",
+      "descriptive": "文字與背景之間的超高對比"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "可見的頁碼 ",
+      "descriptive": "可見的頁碼 "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "無背景音效",
+      "descriptive": "無背景音效"
+    }
+  }
+}

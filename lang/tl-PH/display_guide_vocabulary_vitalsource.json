@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "tl-PH",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Mga paraan ng pagbasa",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "May alternatibong text",
+      "descriptive": "May mga alternatibong paglalarawan ng tet para sa mga larawan"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Walang makukuhang impormasyon tungkol sa nonvisual reading",
+      "descriptive": "Walang makukuhang impormasyon tungkol sa nonvisual reading"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Hindi mababasa sa read aloud o dynamic na braille",
+      "descriptive": "Hindi mababasa ang content bilang read aloud speech o dynamic na braille"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Hindi gana na nababasa sa read aloud o dynamic na braille",
+      "descriptive": "Hindi lahat ng content ay mababasa bilang read aoud speech o dynamic na braille"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Mababasa sa read alud o dynamic na braille",
+      "descriptive": "Mababasa ang lahat ng content bilang read aloud speech o dynamic na braille"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Mga pre-recorded na audio clip",
+      "descriptive": "Naka-embed sa content ang mga pre-recorded audio clip"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Walang makukuhang impormasyon tungkol sa pre-recorded audio",
+      "descriptive": " Walang makukuhang impormasyon tungkol sa pre-recorded audio"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Pre-recorded na audio lang",
+      "descriptive": " Audiobok na walang alternatibong text"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Pre-recorded na audio na naka-synchronize sa text",
+      "descriptive": "Available ang lahat ng content bilang pre-recorded audio  na naka-synchronize sa text"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Puwedeng baguhin ang hitsura",
+      "descriptive": " Puwedeng baguhin ang hitsura ng text at page layout batay sa mga kakayahan ng reading system (font family at font size, mga space sa pagitan ng mga paragraph, mga pangungusap, mga salita at letra pati na rin ang kulat ng background at text)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Walang makukuhang impormasyon tungkol sa modifiability ng hitsura",
+      "descriptive": " Walang makukuhang impormasyon tungkol sa modifiability ng hitsura"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Hindi puwedeng baguhin ang hitsura",
+      "descriptive": "Hindi puwedeng baguhin ang text at page layout dahil malapit na sa print version ang karanasan sa pagbabasa, pero puwede pa ring magbigay ng mga opsyon sa pag-zoom ang mga reading system"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Pagsunod",
+    "conformance-details-title": "Detalyadong impormasyon sa pagsunod",
+    "conformance-a": {
+      "compact": "Natutugunan ng publication na ito ang mga minimum na pamantayan sa accessibility",
+      "descriptive": "Naglalaman ang publication na ito ng pahayag sa pagsunod na nakakatugon ito sa EPUB Accessibility at WCAG 2 Level AAA na pamantayan"
+    },
+    "conformance-aa": {
+      "compact": "Natutugunan ng publication na ito ang mga tinatanggap na pamantayan sa accessibility",
+      "descriptive": "Naglalaman ang publication na ito ng pahayag ng pagsunod na nakakatugon ito sa EPUB Accessibility at WCAG 2 Level AAA na pamantayan"
+    },
+    "conformance-aaa": {
+      "compact": "Nahihigitan ng publication na ito ang tinatanggap na pamantayan sa accessibility",
+      "descriptive": "Naglalaman ang publication na ito ng pahayag ng pagsunod na nakakatugon ito sa EPUB Accessibility at WCAG 2 Level AAA na pamantayan"
+    },
+    "conformance-certifier": {
+      "compact": "Na-certify ang publication ng",
+      "descriptive": "Na-certify ang publication ng "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Ang credential ng nag-certify ay ",
+      "descriptive": "Ang credential ng nag-certify ay "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Na-certify ang publication noong ",
+      "descriptive": "Na-certify ang publication noong "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Para sa karagdagang impormasyon, sumangguni sa report ng nag-certify",
+      "descriptive": "Para sa karagdagang impormasyon, sumangguni sa report ng nag-certify"
+    },
+    "conformance-details-claim": {
+      "compact": "Sinasabi ng publication na ito na natutugunan ang",
+      "descriptive": "Sinasabi ng publication na ito na natutugunan ang"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB Accessibility 1.0",
+      "descriptive": " EPUB Accessibility 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB Accessibility 1.1",
+      "descriptive": " EPUB Accessibility 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Level A",
+      "descriptive": " Level A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Level AA",
+      "descriptive": " Level AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Level AAA",
+      "descriptive": " Level AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Walang makukuhang impormasyon",
+      "descriptive": "Walang makukuhang impormasyon"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Hindi matukoy ang pagsunod ng publication na ito sa mga pamantayan sa accessibility",
+      "descriptive": "Hindi matukoy ang pagsunod ng publication na ito sa mga pamantayan sa accessibility"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Nabigasyon",
+    "navigation-index": {
+      "compact": "Index",
+      "descriptive": "Index na may mga link sa mga entry ng sanggunian"
+    },
+    "navigation-no-metadata": {
+      "compact": "Walang makukuhang impormasyon",
+      "descriptive": "Walang makukuhang impormasyon"
+    },
+    "navigation-page-navigation": {
+      "compact": "Pumunta sa pahina",
+      "descriptive": "Listahan ng mga pahina para pumunta sa mga pahina mula sa print source version"
+    },
+    "navigation-structural": {
+      "compact": "Mga Heading",
+      "descriptive": "Mga element katulad ng mga heading, table, atbp. para sa naka-isturukturang pag-navigate"
+    },
+    "navigation-toc": {
+      "compact": "Talaan ng mga Nilalaman",
+      "descriptive": "Talaan ng mga Nilalaman para sa lahat ng chapter ng mga text sa pamamagitan ng mga link"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Mayamang Content",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Mga chemical formula sa LaTex",
+      "descriptive": "Mga chemical formula sa naa-access na format (LaText_"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Mga chemical formula sa MathML",
+      "descriptive": "Mga chemical formula sa naa-access na format (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Math bilang LaTex",
+      "descriptive": "Mga chemical formula sa Math sa na-access na format (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Math bilang MathML",
+      "descriptive": "Mga formula sa Math sa na-access na format (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "May mga text na paglalarawan ang Math",
+      "descriptive": "May mga text na paglalarawan ang Math"
+    },
+    "rich-content-closed-captions": {
+      "compact": " May mga naka-close na caption ang mga video",
+      "descriptive": " May mga naka-close na caption ang mga video na kasama sa mga publication"
+    },
+    "rich-content-extended": {
+      "compact": "Inilarawan ang mga rich image na impormasyon sa pamamagitan ng pinalawak na paglalarawan",
+      "descriptive": "Inilarawan ang mga rich image na impormasyon sa pamamagitan ng pinalawak na paglalarawan"
+    },
+    "rich-content-open-captions": {
+      "compact": " May mga naka-open na caption ang mga video",
+      "descriptive": " May mga naka-open na capton ang mga video na kasama sa mga publication"
+    },
+    "rich-content-transcript": {
+      "compact": "May (mga) transcript",
+      "descriptive": "May (mga) transcript"
+    },
+    "rich-content-unknown": {
+      "compact": "Walang makukuhang impormasyon",
+      "descriptive": "Walang makukuhang impormasyon"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Mga panganib",
+    "hazards-flashing": {
+      "compact": "Naka-flash na content",
+      "descriptive": "May mga naka-flash na content ang publication na ito na maaring magdulot ng mga photosensitive seizure"
+    },
+    "hazards-motion": {
+      "compact": "Naka-simulate na motion",
+      "descriptive": "May mga naka-simulate na motion ang publication na ito na maaring magdulot ng motion sickness"
+    },
+    "hazards-no-metadata": {
+      "compact": "Walang makukuhang impormasyon",
+      "descriptive": "Walang makukuhang impormasyon"
+    },
+    "hazards-none": {
+      "compact": "Walang problema",
+      "descriptive": "Walang problema ang publication"
+    },
+    "hazards-sound": {
+      "compact": "Mga tunog",
+      "descriptive": "May mga tunog ang publication na ito na maaaring hindi komportable"
+    },
+    "hazards-unknown": {
+      "compact": "Hindi alam kung may problema",
+      "descriptive": "Hindi alam kung may problema"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Buod ng accessibility",
+    "accessibility-summary-no-metadata": {
+      "compact": "Walang makukuhang impormasyon",
+      "descriptive": "Walang makukuhang impormasyon"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Mga legal na konsiderasyon",
+    "legal-considerations-exempt": {
+      "compact": "Sinasabing may exemption sa accessibility sa ilang jurisdiction",
+      "descriptive": "Sinasabi ng publication na ito na may exemption sa accessibility sa ilang jurisdiction"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Walang makukuhang impormasyon",
+      "descriptive": "Walang makukuhang impormasyon"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Karagdagang impormasyon sa accessibility",
+    "additional-accessibility-information-aria": {
+      "compact": "Kasama ang mga role ng ARIA",
+      "descriptive": "Pinapahusay ang content gamit ang mga role ng ARIA para i-optimize ang organisasyon at pangasiwaan ang pag-navigate"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Mga paglalarawan ng audio",
+      "descriptive": "Mga paglalarawan ng audio"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braille",
+      "descriptive": "Braille"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Hindi lang ang kulay ang tanging paraan para magparating ng impormasyon",
+      "descriptive": "Hindi lang ang kulay ang tanging paraan para magparating ng impormasyon"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Mababasa ng may dyslexia",
+      "descriptive": "Mababasa ng may dyslexia"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Mga kumpletong annotation ng ruby",
+      "descriptive": "Mga kumpletong annotation ng ruby"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Mataas na contrast sa pagitan ng foreground at backgrund audio",
+      "descriptive": "Mataas na contrast sa pagitan ng foreground at backgrund audio"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Mataas na contrast sa pagitan ng foreground at background text",
+      "descriptive": "Mataas na contrast sa pagitan ng foreground at background text"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Malaking print",
+      "descriptive": "Malaking print"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Kasama ang mga page break",
+      "descriptive": "Kasama ang mga page break mula sa original na print source"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Ilang annotation ng Ruby",
+      "descriptive": "Ilang annotation ng Ruby"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Sign language",
+      "descriptive": "Sign language"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Kasama ang mga tactile graphic",
+      "descriptive": "Naka-integrate ang mga tactice graphic para pangasiwaan ang access sa mga visual element ng mga may kapansanan sa paningin."
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Mga tactile na 3D object",
+      "descriptive": "Mga tactile na 3D object"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Kasama ang pahiwatig para sa text to speech",
+      "descriptive": "Kasama ang pahiwatig para sa text to speech"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Napakataas na contrast sa pagitan ng text at background",
+      "descriptive": "Napakataas na contrast sa pagitan ng text at background"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Nakikitang numero ng pahina ",
+      "descriptive": "Nakikitang numero ng pahina "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Walang tunog sa background",
+      "descriptive": "Walang tunog sa background"
+    }
+  }
+}
