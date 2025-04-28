@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "id-ID",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Cara-cara membaca",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Memiliki teks Alt",
+      "descriptive": "Memiliki deskripsi teks alternatif untuk gambar"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Tidak ada informasi yang tersedia tentang pembacaan nonvisual",
+      "descriptive": "Tidak ada informasi yang tersedia tentang pembacaan nonvisual"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Tidak dapat dibaca dengan suara keras atau braille dinamis",
+      "descriptive": "Konten tidak dapat dibaca sebagai ucapan yang dibacakan atau braille dinamis."
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Tidak sepenuhnya dapat dibaca dalam mode baca lantang atau braille dinamis",
+      "descriptive": "Tidak semua konten dapat dibaca sebagai ucapan yang dibaca dengan keras atau braille dinamis."
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Dapat dibaca dalam mode baca lantang atau braille dinamis",
+      "descriptive": "Semua konten dapat dibaca sebagai ucapan yang dibacakan atau braille dinamis."
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Klip audio yang sudah direkam sebelumnya",
+      "descriptive": "Klip audio yang direkam sebelumnya disematkan dalam konten"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Tidak ada informasi yang tersedia tentang audio yang direkam sebelumnya",
+      "descriptive": " Tidak ada informasi yang tersedia tentang audio yang direkam sebelumnya"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Hanya audio prarekaman",
+      "descriptive": " Buku audio tanpa alternatif teks"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Audio prarekaman disinkronkan dengan teks",
+      "descriptive": "Semua konten tersedia sebagai audio prarekaman yang disinkronkan dengan teks"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Penampilan bisa diubah",
+      "descriptive": " Tampilan teks dan tata letak halaman dapat dimodifikasi sesuai dengan kemampuan sistem membaca (jenis huruf dan ukuran huruf, spasi antar paragraf, kalimat, kata, dan huruf, serta warna latar belakang dan teks)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Tidak ada informasi tentang kemampuan modifikasi penampilan yang tersedia",
+      "descriptive": " Tidak ada informasi tentang kemampuan modifikasi penampilan yang tersedia"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Tampilan tidak bisa diubah",
+      "descriptive": "Tata letak teks dan halaman tidak bisa diubah karena pengalaman membaca hampir sama dengan versi cetak, tetapi sistem membaca tetap bisa menyediakan opsi zoom."
+    }
+  },
+  "conformance": {
+    "conformance-title": "Kesesuaian",
+    "conformance-details-title": "Informasi kesesuaian yang terperinci",
+    "conformance-a": {
+      "compact": "Publikasi ini memenuhi standar aksesibilitas minimum",
+      "descriptive": "Publikasi ini berisi pernyataan kesesuaian bahwa ia memenuhi standar Aksesibilitas EPUB dan WCAG 2 Level A"
+    },
+    "conformance-aa": {
+      "compact": "Publikasi ini memenuhi standar aksesibilitas yang diterima",
+      "descriptive": "Publikasi ini berisi pernyataan kesesuaian bahwa ia memenuhi standar Aksesibilitas EPUB dan WCAG 2 Level AA."
+    },
+    "conformance-aaa": {
+      "compact": "Publikasi ini melampaui standar aksesibilitas yang diterima",
+      "descriptive": "Publikasi ini berisi pernyataan kesesuaian bahwa ia memenuhi standar Aksesibilitas EPUB dan WCAG 2 Level AAA."
+    },
+    "conformance-certifier": {
+      "compact": "Publikasi tersebut telah disertifikasi oleh",
+      "descriptive": "Publikasi tersebut telah disertifikasi oleh "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Kredensial pemberi sertifikasi adalah ",
+      "descriptive": "Kredensial pemberi sertifikasi adalah "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Publikasi tersebut disertifikasi pada ",
+      "descriptive": "Publikasi tersebut disertifikasi pada "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Untuk informasi lebih lanjut, lihat laporan penilai",
+      "descriptive": "Untuk informasi lebih lanjut, lihat laporan penilai"
+    },
+    "conformance-details-claim": {
+      "compact": "Publikasi ini mengklaim memenuhi",
+      "descriptive": "Publikasi ini mengklaim memenuhi"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " Aksesibilitas EPUB 1.0",
+      "descriptive": " Aksesibilitas EPUB 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " Aksesibilitas EPUB 1.1",
+      "descriptive": " Aksesibilitas EPUB 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Level A",
+      "descriptive": " Level A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Level AA",
+      "descriptive": " Level AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Level AAA",
+      "descriptive": " Level AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Pedoman Aksesibilitas Konten Web (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Pedoman Aksesibilitas Konten Web (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Pedoman Aksesibilitas Konten Web (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Tidak ada informasi yang tersedia",
+      "descriptive": "Tidak ada informasi yang tersedia"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Kesesuaian dengan standar yang diterima untuk aksesibilitas publikasi ini tidak dapat ditentukan",
+      "descriptive": "Kesesuaian dengan standar yang diterima untuk aksesibilitas publikasi ini tidak dapat ditentukan"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Navigasi",
+    "navigation-index": {
+      "compact": "Indeks",
+      "descriptive": "Indeks dengan tautan ke entri yang dirujuk"
+    },
+    "navigation-no-metadata": {
+      "compact": "Tidak ada informasi yang tersedia",
+      "descriptive": "Tidak ada informasi yang tersedia"
+    },
+    "navigation-page-navigation": {
+      "compact": "Pergi ke halaman",
+      "descriptive": "Daftar halaman untuk menuju ke halaman dari versi cetak sumber"
+    },
+    "navigation-structural": {
+      "compact": "Judul",
+      "descriptive": "Elemen seperti judul, tabel, dan lain-lain untuk navigasi yang terstruktur"
+    },
+    "navigation-toc": {
+      "compact": "Daftar Isi",
+      "descriptive": "Daftar isi untuk semua bab dari teks melalui tautan"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Konten Berkualitas Tinggi",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Rumus kimia dalam LaTeX",
+      "descriptive": "Rumus kimia dalam format yang dapat diakses (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Rumus kimia dalam MathML",
+      "descriptive": "Rumus kimia dalam format yang dapat diakses (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Matematika dalam LaTeX",
+      "descriptive": "Rumus matematika dalam format yang dapat diakses (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Matematika dalam MathML",
+      "descriptive": "Rumus matematika dalam format yang dapat diakses (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Deskripsi teks matematika disediakan",
+      "descriptive": "Deskripsi teks matematika disediakan"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Video memiliki takarir tertutup",
+      "descriptive": " Video yang disertakan dalam publikasi memiliki takarir tertutup"
+    },
+    "rich-content-extended": {
+      "compact": "Gambar yang kaya informasi dijelaskan dengan deskripsi yang diperluas",
+      "descriptive": "Gambar yang kaya informasi dijelaskan dengan deskripsi yang diperluas"
+    },
+    "rich-content-open-captions": {
+      "compact": " Video memiliki takarir terbuka",
+      "descriptive": " Video yang disertakan dalam publikasi memiliki takarir terbuka"
+    },
+    "rich-content-transcript": {
+      "compact": "Transkrip disediakan",
+      "descriptive": "Transkrip disediakan"
+    },
+    "rich-content-unknown": {
+      "compact": "Tidak ada informasi yang tersedia",
+      "descriptive": "Tidak ada informasi yang tersedia"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Bahaya",
+    "hazards-flashing": {
+      "compact": "Konten berkedip",
+      "descriptive": "Publikasi ini mengandung konten yang berkedip-kedip dan dapat memicu kejang fotosensitif."
+    },
+    "hazards-motion": {
+      "compact": "Simulasi gerakan",
+      "descriptive": "Publikasi ini berisi simulasi gerakan yang dapat menyebabkan mabuk gerakan"
+    },
+    "hazards-no-metadata": {
+      "compact": "Tidak ada informasi yang tersedia",
+      "descriptive": "Tidak ada informasi yang tersedia"
+    },
+    "hazards-none": {
+      "compact": "Tidak ada bahaya",
+      "descriptive": "Publikasi ini tidak mengandung bahaya"
+    },
+    "hazards-sound": {
+      "compact": "Bunyi",
+      "descriptive": "Publikasi ini mengandung suara yang bisa membuat tidak nyaman"
+    },
+    "hazards-unknown": {
+      "compact": "Keberadaan bahaya tidak diketahui",
+      "descriptive": "Keberadaan bahaya tidak diketahui"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Ringkasan Aksesibilitas",
+    "accessibility-summary-no-metadata": {
+      "compact": "Tidak ada informasi yang tersedia",
+      "descriptive": "Tidak ada informasi yang tersedia"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Pertimbangan hukum",
+    "legal-considerations-exempt": {
+      "compact": "Mengklaim pengecualian aksesibilitas di beberapa yurisdiksi",
+      "descriptive": "Publikasi ini mengklaim pengecualian aksesibilitas di beberapa yurisdiksi."
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Tidak ada informasi yang tersedia",
+      "descriptive": "Tidak ada informasi yang tersedia"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Informasi aksesibilitas tambahan",
+    "additional-accessibility-information-aria": {
+      "compact": "Peran ARIA disertakan",
+      "descriptive": "Konten diperkuat dengan peran ARIA untuk mengoptimalkan pengaturan dan mempermudah navigasi"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Deskripsi audio",
+      "descriptive": "Deskripsi audio"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braille",
+      "descriptive": "Braille"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Warna bukan satu-satunya cara untuk menyampaikan informasi",
+      "descriptive": "Warna bukan satu-satunya cara untuk menyampaikan informasi"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Keterbacaan disleksia",
+      "descriptive": "Keterbacaan disleksia"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Anotasi ruby lengkap",
+      "descriptive": "Anotasi ruby lengkap"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Kontras tinggi antara audio latar depan dan latar belakang",
+      "descriptive": "Kontras tinggi antara audio latar depan dan latar belakang"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Kontras tinggi antara teks latar depan dan latar belakang",
+      "descriptive": "Kontras tinggi antara teks latar depan dan latar belakang"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Teks besar",
+      "descriptive": "Teks besar"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Pemutusan halaman disertakan",
+      "descriptive": "Pemutusan halaman disertakan dari sumber cetak asli"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Beberapa catatan Ruby",
+      "descriptive": "Beberapa catatan Ruby"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Bahasa Isyarat",
+      "descriptive": "Bahasa Isyarat"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Grafis taktil termasuk",
+      "descriptive": "Grafik taktil telah diintegrasikan untuk memudahkan akses ke elemen visual bagi penyandang tunanetra"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Objek 3D taktil",
+      "descriptive": "Objek 3D taktil"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Petunjuk text-to-speech disediakan",
+      "descriptive": "Petunjuk text-to-speech disediakan"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Kontras sangat tinggi antara teks dan latar belakang",
+      "descriptive": "Kontras sangat tinggi antara teks dan latar belakang"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Penomoran halaman yang terlihat ",
+      "descriptive": "Penomoran halaman yang terlihat "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Tanpa suara latar",
+      "descriptive": "Tanpa suara latar"
+    }
+  }
+}

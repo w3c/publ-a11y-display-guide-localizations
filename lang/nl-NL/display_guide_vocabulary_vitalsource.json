@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "nl-NL",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Leesmethoden",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Heeft alternatieve tekst",
+      "descriptive": "Heeft alternatieve tekstbeschrijvingen voor afbeeldingen."
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Er is geen informatie beschikbaar over niet-visueel lezen",
+      "descriptive": "Er is geen informatie beschikbaar over niet-visueel lezen"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Niet leesbaar in hardop voorlezen of dynamische braille",
+      "descriptive": "De inhoud is niet leesbaar als hardop voorgelezen spraak of dynamische braille"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Niet volledig leesbaar in hardop voorlezen of dynamische braille",
+      "descriptive": "Niet alle inhoud zal leesbaar zijn als voorgelezen spraak of dynamische braille."
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Leesbaar in hardop voorlezen of dynamische braille",
+      "descriptive": "Alle inhoud kan worden gelezen als voorgelezen spraak of dynamische braille."
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Vooraf opgenomen audioclips",
+      "descriptive": "Vooraf opgenomen audioclips zijn ingebed in de content"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Er is geen informatie beschikbaar over vooraf opgenomen audio",
+      "descriptive": " Er is geen informatie beschikbaar over vooraf opgenomen audio"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Alleen vooraf opgenomen audio",
+      "descriptive": " Audioboek zonder tekstalternatief"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Vooraf opgenomen audio gesynchroniseerd met tekst",
+      "descriptive": "Alle inhoud is beschikbaar als vooraf opgenomen audio gesynchroniseerd met tekst"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Het uiterlijk kan worden aangepast",
+      "descriptive": " Het uiterlijk van de tekst en de paginalay-out kunnen worden aangepast aan de mogelijkheden van het leessysteem (lettertypefamilie en lettergrootte, spaties tussen alinea's, zinnen, woorden en letters, evenals de kleur van achtergrond en tekst)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Er is geen informatie beschikbaar over de modificeerbaarheid van het uiterlijk",
+      "descriptive": " Er is geen informatie beschikbaar over de modificeerbaarheid van het uiterlijk"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Het uiterlijk kan niet worden aangepast",
+      "descriptive": "Tekst en pagina-indeling kunnen niet worden gewijzigd, omdat de leeservaring dicht in de buurt komt van een gedrukte versie, maar leessystemen kunnen nog steeds zoomopties bieden"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Conformiteit",
+    "conformance-details-title": "Gedetailleerde conformiteitsinformatie",
+    "conformance-a": {
+      "compact": "Deze publicatie voldoet aan de minimale toegankelijkheidsnormen",
+      "descriptive": "De publicatie bevat een conformiteitsverklaring dat deze voldoet aan de EPUB-toegankelijkheidsnorm en WCAG 2-niveau A."
+    },
+    "conformance-aa": {
+      "compact": "Deze publicatie voldoet aan de geaccepteerde toegankelijkheidsnormen",
+      "descriptive": "De publicatie bevat een conformiteitsverklaring dat deze voldoet aan de EPUB-toegankelijkheidsnorm en de WCAG 2 Level AA-standaard."
+    },
+    "conformance-aaa": {
+      "compact": "Deze publicatie overtreft de geaccepteerde toegankelijkheidsnormen",
+      "descriptive": "De publicatie bevat een conformiteitsverklaring dat deze voldoet aan de EPUB-toegankelijkheids- en WCAG 2 Level AAA-normen."
+    },
+    "conformance-certifier": {
+      "compact": "De publicatie is gecertificeerd door",
+      "descriptive": "De publicatie is gecertificeerd door "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "De referentie van de certificeerder is ",
+      "descriptive": "De referentie van de certificeerder is "
+    },
+    "conformance-details-certification-info": {
+      "compact": "De publicatie is gecertificeerd op ",
+      "descriptive": "De publicatie is gecertificeerd op "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Voor meer informatie raadpleegt u het rapport van de certificeerder",
+      "descriptive": "Voor meer informatie raadpleegt u het rapport van de certificeerder"
+    },
+    "conformance-details-claim": {
+      "compact": "Deze publicatie beweert te voldoen aan",
+      "descriptive": "Deze publicatie beweert te voldoen aan"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB Accessibility 1.0",
+      "descriptive": " EPUB Accessibility 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB Toegankelijkheid 1.1",
+      "descriptive": " EPUB Toegankelijkheid 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Niveau A",
+      "descriptive": " Niveau A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Level AA",
+      "descriptive": " Level AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Niveau AAA",
+      "descriptive": " Niveau AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Richtlijnen voor toegankelijkheid van webinhoud (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Richtlijnen voor toegankelijkheid van webinhoud (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Er is geen informatie beschikbaar",
+      "descriptive": "Er is geen informatie beschikbaar"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Overeenstemming met geaccepteerde standaarden voor toegankelijkheid van deze publicatie kan niet worden vastgesteld",
+      "descriptive": "Overeenstemming met geaccepteerde standaarden voor toegankelijkheid van deze publicatie kan niet worden vastgesteld"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Navigatie",
+    "navigation-index": {
+      "compact": "Index",
+      "descriptive": "Index met links naar verwijzingen naar items."
+    },
+    "navigation-no-metadata": {
+      "compact": "Er is geen informatie beschikbaar",
+      "descriptive": "Er is geen informatie beschikbaar"
+    },
+    "navigation-page-navigation": {
+      "compact": "Ga naar pagina",
+      "descriptive": "Paginalijst om naar pagina's van de gedrukte bronversie te navigeren"
+    },
+    "navigation-structural": {
+      "compact": "Koppen",
+      "descriptive": "Elementen zoals koppen, tabellen, enz. voor gestructureerde navigatie"
+    },
+    "navigation-toc": {
+      "compact": "Inhoudsopgave",
+      "descriptive": "Inhoudsopgave naar alle hoofdstukken van de tekst via links."
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Rijke content",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Chemische formules in LaTeX",
+      "descriptive": "Chemische formules in toegankelijk formaat (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Chemische formules in MathML",
+      "descriptive": "Chemische formules in toegankelijk formaat (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Wiskunde als LaTeX",
+      "descriptive": "Wiskundige formules in toegankelijk formaat (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Wiskunde als MathML",
+      "descriptive": "Wiskundige formules in toegankelijk formaat (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Er worden tekstomschrijvingen van wiskunde gegeven",
+      "descriptive": "Er worden tekstomschrijvingen van wiskunde gegeven"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Video's hebben ondertiteling",
+      "descriptive": " Video's in publicaties hebben ondertiteling"
+    },
+    "rich-content-extended": {
+      "compact": "Informatierijke afbeeldingen worden beschreven met uitgebreide beschrijvingen.",
+      "descriptive": "Informatierijke afbeeldingen worden beschreven met uitgebreide beschrijvingen."
+    },
+    "rich-content-open-captions": {
+      "compact": " Video's hebben open bijschriften",
+      "descriptive": " Video's in publicaties hebben open ondertiteling."
+    },
+    "rich-content-transcript": {
+      "compact": "Transcript(en) verstrekt",
+      "descriptive": "Transcript(en) verstrekt"
+    },
+    "rich-content-unknown": {
+      "compact": "Er is geen informatie beschikbaar",
+      "descriptive": "Er is geen informatie beschikbaar"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Gevaren",
+    "hazards-flashing": {
+      "compact": "Knipperende inhoud",
+      "descriptive": "De publicatie bevat flitsende inhoud die fotosensitieve aanvallen kan veroorzaken."
+    },
+    "hazards-motion": {
+      "compact": "Bewegingssimulatie",
+      "descriptive": "De publicatie bevat bewegingssimulaties die misselijkheid kunnen veroorzaken."
+    },
+    "hazards-no-metadata": {
+      "compact": "Er is geen informatie beschikbaar",
+      "descriptive": "Er is geen informatie beschikbaar"
+    },
+    "hazards-none": {
+      "compact": "Geen gevaren",
+      "descriptive": "De publicatie bevat geen gevaren"
+    },
+    "hazards-sound": {
+      "compact": "Geluiden",
+      "descriptive": "De publicatie bevat geluiden die ongemak kunnen veroorzaken."
+    },
+    "hazards-unknown": {
+      "compact": "De aanwezigheid van gevaren is onbekend",
+      "descriptive": "De aanwezigheid van gevaren is onbekend"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Samenvatting van de toegankelijkheid",
+    "accessibility-summary-no-metadata": {
+      "compact": "Er is geen informatie beschikbaar",
+      "descriptive": "Er is geen informatie beschikbaar"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Juridische overwegingen",
+    "legal-considerations-exempt": {
+      "compact": "Claimt een vrijstelling van toegankelijkheid in sommige rechtsgebieden",
+      "descriptive": "Deze publicatie claimt een vrijstelling van toegankelijkheid in sommige rechtsgebieden."
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Er is geen informatie beschikbaar",
+      "descriptive": "Er is geen informatie beschikbaar"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Aanvullende informatie over toegankelijkheid",
+    "additional-accessibility-information-aria": {
+      "compact": "ARIA-rollen inbegrepen",
+      "descriptive": "Inhoud is verrijkt met ARIA-rollen om de organisatie te optimaliseren en navigatie te vergemakkelijken"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Audiobeschrijvingen",
+      "descriptive": "Audiobeschrijvingen"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braille",
+      "descriptive": "Braille"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Kleur is niet de enige manier om informatie over te brengen.",
+      "descriptive": "Kleur is niet de enige manier om informatie over te brengen."
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Leesbaarheid voor dyslexie",
+      "descriptive": "Leesbaarheid voor dyslexie"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Volledige Ruby-annotaties",
+      "descriptive": "Volledige Ruby-annotaties"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Hoog contrast tussen voorgrond- en achtergrondgeluid",
+      "descriptive": "Hoog contrast tussen voorgrond- en achtergrondgeluid"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Hoog contrast tussen voorgrondtekst en achtergrond",
+      "descriptive": "Hoog contrast tussen voorgrondtekst en achtergrond"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Grote lettertjes",
+      "descriptive": "Grote lettertjes"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Pagina-einden zijn inbegrepen",
+      "descriptive": "Pagina-einden opgenomen van de originele printbron"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Enkele Ruby-annotaties",
+      "descriptive": "Enkele Ruby-annotaties"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Gebarentaal",
+      "descriptive": "Gebarentaal"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Tactiele grafieken inbegrepen",
+      "descriptive": "Tactiele afbeeldingen zijn geïntegreerd om de toegang tot visuele elementen voor blinden mogelijk te maken"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Tactiele 3D-objecten",
+      "descriptive": "Tactiele 3D-objecten"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Tekst-naar-spraak hinting beschikbaar",
+      "descriptive": "Tekst-naar-spraak hinting beschikbaar"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Ultra hoog contrast tussen tekst en achtergrond",
+      "descriptive": "Ultra hoog contrast tussen tekst en achtergrond"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Zichtbare paginanummering ",
+      "descriptive": "Zichtbare paginanummering "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Zonder achtergrondgeluiden",
+      "descriptive": "Zonder achtergrondgeluiden"
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "fi-FI",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Lukemistavat",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Sisältää vaihtoehtoisia tekstejä",
+      "descriptive": "Sisältää kuvien vaihtoehtoiset tekstikuvaukset"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Tietoa ei-visuaalisesta luvusta ei saatavilla",
+      "descriptive": "Tietoa ei-visuaalisesta luvusta ei saatavilla"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Ei saatavilla ääneen luettuna tai dynaamisella pistekirjoituksella",
+      "descriptive": "Sisältö ei ole saatavilla ääneen luettuna tai dynaamisella pistekirjoituksella"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Ei täysin saatavilla ääneen luettuna tai dynaamisella pistekirjoituksella",
+      "descriptive": "Koko sisältö ei ole saatavilla ääneen luettuna tai dynaamisella pistekirjoituksella"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Saatavilla ääneen luettuna tai dynaamisella pistekirjoituksella",
+      "descriptive": "Koko sisältö on saatavilla ääneen luettuna tai dynaamisella pistekirjoituksella"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Valmiiksi nauhoitettuja äänileikkeitä",
+      "descriptive": "Sisältöön on upotettu valmiiksi nauhoitettuja äänileikkeitä"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Valmiiksi nauhoitetusta äänisisällöstä ei ole saatavilla tietoja",
+      "descriptive": " Valmiiksi nauhoitetusta äänisisällöstä ei ole saatavilla tietoja"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Vain valmiiksi nauhoitettu ääni",
+      "descriptive": " Äänikirja ilman tekstivaihtoehtoa"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Valmiiksi nauhoitettu ääni synkronoitu tekstin kanssa",
+      "descriptive": "Koko sisältö on saatavilla valmiiksi nauhoitettuna ja tekstin kanssa synkronoituna"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Ulkoasua voi muokata",
+      "descriptive": " Tekstin ulkoasua ja sivuasettelua voidaan muokata lukujärjestelmän ominaisuuksien mukaan (kirjasinperhe ja -koko, kappaleiden, virkkeiden, sanojen ja kirjainten välit sekä taustan ja tekstin väri)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Ulkonäön muokattavuudesta ei ole saatavilla tietoa",
+      "descriptive": " Ulkonäön muokattavuudesta ei ole saatavilla tietoa"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Ulkoasua ei voi muokata",
+      "descriptive": "Tekstiä ja sivun asettelua ei voi muuttaa, koska lukukokemus on lähellä painettua versiota, mutta lukujärjestelmät voivat silti tarjota zoomausvalintoja"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Vaatimustenmukaisuus",
+    "conformance-details-title": "Yksityiskohtaiset vaatimustenmukaisuustiedot",
+    "conformance-a": {
+      "compact": "Tämä julkaisu täyttää saavutettavuuden vähimmäisstandardit",
+      "descriptive": "Julkaisu sisältää vaatimustenmukaisuusilmoituksen siitä, että se täyttää EPUB-saavutettavuus- ja WCAG 2 -tason A-standardit"
+    },
+    "conformance-aa": {
+      "compact": "Tämä julkaisu täyttää hyväksytyt saavutettavuusstandardit",
+      "descriptive": "Julkaisu sisältää vaatimustenmukaisuusilmoituksen siitä, että se täyttää EPUB-saavutettavuus- ja WCAG 2 -tason AA-standardit"
+    },
+    "conformance-aaa": {
+      "compact": "Tämä julkaisu ylittää hyväksytyt saavutettavuusstandardit",
+      "descriptive": "Julkaisu sisältää vaatimustenmukaisuusilmoituksen siitä, että se täyttää EPUB-saavutettavuus- ja WCAG 2 -tason AAA-standardit"
+    },
+    "conformance-certifier": {
+      "compact": "Julkaisun on sertifioinut",
+      "descriptive": "Julkaisun on sertifioinut "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Sertifioijan valtakirja on ",
+      "descriptive": "Sertifioijan valtakirja on "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Julkaisu on sertifioitu ",
+      "descriptive": "Julkaisu on sertifioitu "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Lisätietoja on sertifioijan raportissa",
+      "descriptive": "Lisätietoja on sertifioijan raportissa"
+    },
+    "conformance-details-claim": {
+      "compact": "Tämän julkaisun on ilmoitettu täyttävän",
+      "descriptive": "Tämän julkaisun on ilmoitettu täyttävän"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB-saavutettavuus 1.0",
+      "descriptive": " EPUB-saavutettavuus 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB-saavutettavuus 1.1",
+      "descriptive": " EPUB-saavutettavuus 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Taso A",
+      "descriptive": " Taso A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Taso AA",
+      "descriptive": " Taso AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Taso AAA",
+      "descriptive": " Taso AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Tietoja ei ole saatavilla",
+      "descriptive": "Tietoja ei ole saatavilla"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Tämän julkaisun saavutettavuutta koskevien hyväksyttyjen standardien mukaisuutta ei voida vahvistaa",
+      "descriptive": "Tämän julkaisun saavutettavuutta koskevien hyväksyttyjen standardien mukaisuutta ei voida vahvistaa"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Siirtyminen",
+    "navigation-index": {
+      "compact": "Hakemisto",
+      "descriptive": "Hakemisto, jossa on linkit viitattuihin merkintöihin"
+    },
+    "navigation-no-metadata": {
+      "compact": "Tietoja ei ole saatavilla",
+      "descriptive": "Tietoja ei ole saatavilla"
+    },
+    "navigation-page-navigation": {
+      "compact": "Siirry sivulle",
+      "descriptive": "Sivuluettelo painetun lähdeversion sivuille siirtymiseen"
+    },
+    "navigation-structural": {
+      "compact": "Otsikot",
+      "descriptive": "Elementtejä, kuten otsikoita ja taulukoita, jäsenneltyä navigointia varten"
+    },
+    "navigation-toc": {
+      "compact": "Sisällysluettelo",
+      "descriptive": "Sisällysluettelo, josta pääsee linkkien kautta kaikkiin tekstin lukuihin"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Runsas sisältö",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Kemialliset kaavat LaTeX-muodossa",
+      "descriptive": "Kemialliset kaavat saavutettavassa muodossa (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Kemialliset kaavat MathML-muodossa",
+      "descriptive": "Kemialliset kaavat saavutettavassa muodossa (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Matematiikka LaTeX-muodossa",
+      "descriptive": "Matemaattiset kaavat saavutettavassa muodossa (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Matematiikka MathML-muodossa",
+      "descriptive": "Matemaattiset kaavat saavutettavassa muodossa (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Matematiikan tekstikuvaukset ovat saatavilla",
+      "descriptive": "Matematiikan tekstikuvaukset ovat saatavilla"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Videot on tekstitetty",
+      "descriptive": " Julkaisuihin sisältyvissä videoissa on tekstitykset"
+    },
+    "rich-content-extended": {
+      "compact": "Runsaasti tietoa sisältäviä kuvia kuvaillaan laajennetuilla kuvauksilla",
+      "descriptive": "Runsaasti tietoa sisältäviä kuvia kuvaillaan laajennetuilla kuvauksilla"
+    },
+    "rich-content-open-captions": {
+      "compact": " Videoissa on tekstitykset",
+      "descriptive": " Julkaisuihin sisältyvissä videoissa on tekstitykset"
+    },
+    "rich-content-transcript": {
+      "compact": "Transkriptio saatavilla",
+      "descriptive": "Transkriptio saatavilla"
+    },
+    "rich-content-unknown": {
+      "compact": "Tietoja ei ole saatavilla",
+      "descriptive": "Tietoja ei ole saatavilla"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Vaarat",
+    "hazards-flashing": {
+      "compact": "Vilkkuvaa sisältöä",
+      "descriptive": "Julkaisu sisältää vilkkuvaa sisältöä, joka voi aiheuttaa kohtauksia valoherkille"
+    },
+    "hazards-motion": {
+      "compact": "Liikkeen simulointi",
+      "descriptive": "Julkaisu sisältää liikesimulaatioita, jotka voivat aiheuttaa matkapahoinvointia"
+    },
+    "hazards-no-metadata": {
+      "compact": "Tietoja ei ole saatavilla",
+      "descriptive": "Tietoja ei ole saatavilla"
+    },
+    "hazards-none": {
+      "compact": "Ei vaaroja",
+      "descriptive": "Julkaisu ei sisällä vaaroja"
+    },
+    "hazards-sound": {
+      "compact": "Äänet",
+      "descriptive": "Julkaisu sisältää ääniä, jotka voivat aiheuttaa epämukavuutta"
+    },
+    "hazards-unknown": {
+      "compact": "Vaaroja ei tiedossa",
+      "descriptive": "Vaaroja ei tiedossa"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Yhteenveto saavutettavuudesta",
+    "accessibility-summary-no-metadata": {
+      "compact": "Tietoja ei ole saatavilla",
+      "descriptive": "Tietoja ei ole saatavilla"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Oikeudelliset näkökohdat",
+    "legal-considerations-exempt": {
+      "compact": "Poikkeuksia esteettömyyteen ilmoitettu joillakin lainkäyttöalueilla",
+      "descriptive": "Tässä julkaisussa on ilmoitettu poikkeuksia esteettömyyteen joillakin lainkäyttöalueilla"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Tietoja ei ole saatavilla",
+      "descriptive": "Tietoja ei ole saatavilla"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Lisätietoja saavutettavuudesta",
+    "additional-accessibility-information-aria": {
+      "compact": "Sisältää ARIA-rooleja",
+      "descriptive": "Sisältöä on parannettu ARIA-rooleilla järjestelyn optimoimiseksi ja navigoinnin helpottamiseksi"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Äänikuvaukset",
+      "descriptive": "Äänikuvaukset"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Pistekirjoitus",
+      "descriptive": "Pistekirjoitus"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Värit eivät ole ainoa tapa välittää tietoa",
+      "descriptive": "Värit eivät ole ainoa tapa välittää tietoa"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Soveltuvuus lukihäiriöisille",
+      "descriptive": "Soveltuvuus lukihäiriöisille"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Täydelliset Ruby-merkinnät",
+      "descriptive": "Täydelliset Ruby-merkinnät"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Korkea kontrasti etu- ja taustaäänten välillä",
+      "descriptive": "Korkea kontrasti etu- ja taustaäänten välillä"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Korkea kontrasti etualan tekstin ja taustan välillä",
+      "descriptive": "Korkea kontrasti etualan tekstin ja taustan välillä"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Suuri teksti",
+      "descriptive": "Suuri teksti"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Sisältää sivunvaihdot",
+      "descriptive": "Sisältää alkuperäisen painetun lähteen sivunvaihdot"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Jonkin verran Ruby-merkintöjä",
+      "descriptive": "Jonkin verran Ruby-merkintöjä"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Viittomakieli",
+      "descriptive": "Viittomakieli"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Sisältää tuntopalautteen",
+      "descriptive": "Visuaalisten elementtien käyttöä on helpotettu integroidun tuntopalautteen avulla sokeita varten"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Kosketeltavia 3D-objekteja",
+      "descriptive": "Kosketeltavia 3D-objekteja"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Sisältää tekstistä puheeksi -vihjeitä",
+      "descriptive": "Sisältää tekstistä puheeksi -vihjeitä"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Erittäin korkea kontrasti tekstin ja taustan välillä",
+      "descriptive": "Erittäin korkea kontrasti tekstin ja taustan välillä"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Sivunumerot näkyvissä ",
+      "descriptive": "Sivunumerot näkyvissä "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Ilman taustaääniä",
+      "descriptive": "Ilman taustaääniä"
+    }
+  }
+}

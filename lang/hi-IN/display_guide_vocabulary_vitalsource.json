@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "hi-IN",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "पढ़ने के तरीके",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "वैकल्पिक टेक्स्ट मौजूद है",
+      "descriptive": "इमेज के लिए टेक्स्ट के रूप वैकल्पिक विवरण मौजूद है"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "बिना देखे पढ़ने वाली सुविधा के बारे में कोई जानकारी उपलब्ध नहीं है",
+      "descriptive": "बिना देखे पढ़ने वाली सुविधा के बारे में कोई जानकारी उपलब्ध नहीं है"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "बोलकर पढ़ने या डायनमिक ब्रेल की सुविधा की मदद से पढ़ा नहीं जा सकता",
+      "descriptive": "बोलकर पढ़ने या डायनमिक ब्रेल सुविधा की मदद से इस कॉन्टेंट को नहीं पढ़ा जा सकता"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "बोलकर पढ़ने या डायनमिक ब्रेल सुविधा की मदद से पूरी तरह नहीं पढ़ा जा सकता",
+      "descriptive": "बोलकर पढ़ने या डायनमिक ब्रेल सुविधा से सभी तरह के कॉन्टेटं को नहीं पढ़ा जा सकता"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "बोलकर पढ़ने या डायनमिक ब्रेल सुविधा की मदद से पढ़ा जा सकता है",
+      "descriptive": "बोलकर पढ़ने या डायनमिक ब्रेल सुविधा की मदद से सभी कॉन्टेंट को पढ़ा जा सकता है"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "पहले से रिकॉर्ड की गई ऑडियो क्लिप्स",
+      "descriptive": "पहले से रिकॉर्ड किए गए ऑडियो क्लिप, कॉन्टेंट में एम्बेड किए गए हैं"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " पहले से रिकॉर्ड किए गए ऑडियो के बारे में कोई जानकारी उपलब्ध नहीं है",
+      "descriptive": " पहले से रिकॉर्ड किए गए ऑडियो के बारे में कोई जानकारी उपलब्ध नहीं है"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "सिर्फ़ पहले से रिकॉर्ड किया गया ऑडियो",
+      "descriptive": " ऑडियोबुक, जिसमें टेक्स्ट के लिए कोई विकल्प नहीं है"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "पहले से रिकॉर्ड किया गया ऑडियो, टेक्स्ट के साथ सिंक्रनाइज़ किया गया है",
+      "descriptive": "सभी कॉन्टेंट पहले से रिकॉर्ड किए गए ऑडियो के रूप में उपलब्ध हैं, जिन्हें टेक्स्ट के साथ सिंक्रनाइज़ किया गया है"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "लुक में बदलाव किया जा सकता है",
+      "descriptive": " टेक्स्ट और पेज के लेआउट के लुक को रीडिंग सिस्टम (फ़ॉन्ट फ़ैमिली, फ़ॉन्ट साइज़, पैराग्राफ़, वाक्यों, शब्दों, और अक्षरों के बीच में स्पेस के साथ-साथ बैकग्रउंट और टेक्स्ट का रंग) के हिसाब से बदला जा सकता है"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "लुक में बदलाव करने की सुविधा के बारे में कोई जानकारी उपलब्ध नहीं है",
+      "descriptive": " लुक में बदलाव करने की सुविधा के बारे में कोई जानकारी उपलब्ध नहीं है"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "लुक में बदलाव नहीं किया जा सकता",
+      "descriptive": "टेक्स्ट और पेज के लेआउट को बदला नहीं जा सकता, क्योंकि पढ़ने का अनुभव लगभग प्रिंट वर्ज़न के जैसा है. हालांकि, रीडिंग सिस्टम में अभी भी ज़ूम करने की सुविधा मिल सकती है."
+    }
+  },
+  "conformance": {
+    "conformance-title": "ज़रूरी मानकों का पालन",
+    "conformance-details-title": "अनुरूपता के बारे में पूरी जानकारी",
+    "conformance-a": {
+      "compact": "यह पब्लिकेशन, ऐक्सेसिबिलिटी के लिए ज़रूरी स्टैंडर्ड के मुताबिक है",
+      "descriptive": "पब्लिकेशन में एक अनुरूपता कथन शामिल है जिसमें यह लिखा है कि वह EPUB एक्सेसिबिलिटी और WCAG 2 लेवल A स्टैंडर्ड के मुताबिक है"
+    },
+    "conformance-aa": {
+      "compact": "यह पब्लिकेशन, ऐक्सेसिबिलिटी के लिए स्वीकार किए गए स्टैंडर्ड के मुताबिक है",
+      "descriptive": "पब्लिकेशन में एक अनुरूपता कथन शामिल है जिसमें यह लिखा है कि वह EPUB एक्सेसिबिलिटी और WCAG 2 लेवल AA स्टैंडर्ड के मुताबिक है"
+    },
+    "conformance-aaa": {
+      "compact": "यह पब्लिकेशन, ऐक्सेसिबिलिटी के लिए स्वीकार किए गए स्टैंडर्ड के तहत तय की गई सीमा से ज़्यादा है",
+      "descriptive": "पब्लिकेशन में एक अनुरूपता कथन शामिल है जिसमें यह लिखा है कि वह EPUB एक्सेसिबिलिटी और WCAG 2 लेवल AAA स्टैंडर्ड के मुताबिक है"
+    },
+    "conformance-certifier": {
+      "compact": "पब्लिकेशन को इसने सर्टिफ़िकेट दिया था",
+      "descriptive": "पब्लिकेशन को इसने सर्टिफ़िकेट दिया था "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "सर्टिफ़िकेट देने वाले के क्रेडेंशियल ",
+      "descriptive": "सर्टिफ़िकेट देने वाले के क्रेडेंशियल "
+    },
+    "conformance-details-certification-info": {
+      "compact": "पब्लिकेशन को इस तारीख को सर्टिफ़िकेट दिया था ",
+      "descriptive": "पब्लिकेशन को इस तारीख को सर्टिफ़िकेट दिया था "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "ज़्यादा जानकारी के लिए, सर्टिफ़िकेट देने वाले की रिपोर्ट देखें",
+      "descriptive": "ज़्यादा जानकारी के लिए, सर्टिफ़िकेट देने वाले की रिपोर्ट देखें"
+    },
+    "conformance-details-claim": {
+      "compact": "इस पब्लिकेशन के लिए दावा किया गया है कि यह इन शर्तों को पूरा करता है",
+      "descriptive": "इस पब्लिकेशन के लिए दावा किया गया है कि यह इन शर्तों को पूरा करता है"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB एक्सेसिबिलिटी 1.0",
+      "descriptive": " EPUB एक्सेसिबिलिटी 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB एक्सेसिबिलिटी 1.1",
+      "descriptive": " EPUB एक्सेसिबिलिटी 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " लेवल A",
+      "descriptive": " लेवल A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " लेवल AA",
+      "descriptive": " लेवल AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " लेवल AAA",
+      "descriptive": " लेवल AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " वेब कॉन्टेंट एक्सेसिबिलिटी के बारे में दिशानिर्देश (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " वेब कॉन्टेंट एक्सेसिबिलिटी के बारे में दिशानिर्देश (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " वेब कॉन्टेंट एक्सेसिबिलिटी के बारे में दिशानिर्देश (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "कोई जानकारी उपलब्ध नहीं है",
+      "descriptive": "कोई जानकारी उपलब्ध नहीं है"
+    },
+    "conformance-unknown-standard": {
+      "compact": "इस पब्लिकेशन की ऐक्सेसिबिलिटी के लिए स्वीकार किए गए स्टैंडर्ड के पालन से जुड़ी जानकारी मौजूद नहीं है",
+      "descriptive": "इस पब्लिकेशन की ऐक्सेसिबिलिटी के लिए स्वीकार किए गए स्टैंडर्ड के पालन से जुड़ी जानकारी मौजूद नहीं है"
+    }
+  },
+  "navigation": {
+    "navigation-title": "नेविगेशन",
+    "navigation-index": {
+      "compact": "अनुक्रमणिका",
+      "descriptive": "रेफ़र की गई एंट्री के लिंक के साथ इंडेक्स"
+    },
+    "navigation-no-metadata": {
+      "compact": "कोई जानकारी उपलब्ध नहीं है",
+      "descriptive": "कोई जानकारी उपलब्ध नहीं है"
+    },
+    "navigation-page-navigation": {
+      "compact": "पृष्ठ पर जाएँ",
+      "descriptive": "सोर्स के प्रिंट किए गए वर्ज़न से पेजों पर जाने के लिए, पेजों की सूची"
+    },
+    "navigation-structural": {
+      "compact": "हेडिंग",
+      "descriptive": "सट्रक्चर्ड नेविगेशन के लिए शीर्षक, टेबल वगैरह जैसे एलिमेंट"
+    },
+    "navigation-toc": {
+      "compact": "कॉन्टेंट की टेबल",
+      "descriptive": "लिंक के साथ टेक्स्ट के सभी चैप्टर के लिए, कॉन्टेंट की टेबल"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "इंटरैक्टिव कॉन्टेंट",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "LaTeX में रासायनिक फ़ॉर्मुले",
+      "descriptive": "ऐक्सेसिबल फ़ॉर्मैट में रासायनिक फ़ॉर्मुले (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "MathML में रासायनिक फ़ॉर्मुले",
+      "descriptive": "ऐक्सेसिबल फ़ॉर्मैट में रासायनिक फ़ॉर्मुले (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "LaTeX के रूप में गणित",
+      "descriptive": "ऐक्सेसिबल फ़ॉर्मैट में गणित के फ़ॉर्मुले (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "MathML के रूप में गणित",
+      "descriptive": "ऐक्सेसिबल फ़ॉर्मैट में गणित के फ़ॉर्मुले (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "गणित के लिए टेक्स्ट के रूप में विवरण मौजूद है",
+      "descriptive": "गणित के लिए टेक्स्ट के रूप में विवरण मौजूद है"
+    },
+    "rich-content-closed-captions": {
+      "compact": " वीडियो के सबटाइटल मौजूद हैं",
+      "descriptive": " पब्लिकेशन में शामिल वीडियो के सबटाइटल मौजूद हैं"
+    },
+    "rich-content-extended": {
+      "compact": "अतिरिक्त विवरण में, जानकारी वाली इमेंज के बारे में जानकारी दी गई है",
+      "descriptive": "अतिरिक्त विवरण में, जानकारी वाली इमेंज के बारे में जानकारी दी गई है"
+    },
+    "rich-content-open-captions": {
+      "compact": " वीडियो में ही सबटाइटल दिए गए हैं",
+      "descriptive": " पब्लिकेशन में मौजूद वीडियो में ही सबटाइटल दिए गए हैं"
+    },
+    "rich-content-transcript": {
+      "compact": "ट्रांसक्रिप्ट दिए गए हैं",
+      "descriptive": "ट्रांसक्रिप्ट दिए गए हैं"
+    },
+    "rich-content-unknown": {
+      "compact": "कोई जानकारी उपलब्ध नहीं है",
+      "descriptive": "कोई जानकारी उपलब्ध नहीं है"
+    }
+  },
+  "hazards": {
+    "hazards-title": "खतरा",
+    "hazards-flashing": {
+      "compact": "चमकने वाला कॉन्टेंट",
+      "descriptive": "पब्लिकेशन में चमकने वाला कॉन्टेंट शामिल है, जो लाइट चमकने से पड़ने वाले दौरे का कारण बन सकती है"
+    },
+    "hazards-motion": {
+      "compact": "मोशन सिमुलेशन",
+      "descriptive": "इस पब्लिकेशन में मोशन सिमुलेशन शामिल हैं, जो मोशन सिकनेस का कारण बन सकते हैं"
+    },
+    "hazards-no-metadata": {
+      "compact": "कोई जानकारी उपलब्ध नहीं है",
+      "descriptive": "कोई जानकारी उपलब्ध नहीं है"
+    },
+    "hazards-none": {
+      "compact": "कोई खतरा नहीं",
+      "descriptive": "पब्लिकेशन में कोई खतरा नहीं है"
+    },
+    "hazards-sound": {
+      "compact": "आवाज़ें",
+      "descriptive": "पब्लिकेशन में ऐसी आवाज़ें हैं जो असुविधाजनक हो सकती हैं"
+    },
+    "hazards-unknown": {
+      "compact": "खतरों के मौजूद होने की जानकारी नहीं है",
+      "descriptive": "खतरों के मौजूद होने की जानकारी नहीं है"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "ऐक्सेसिबिलिटी से जुड़ी खास जानकारी",
+    "accessibility-summary-no-metadata": {
+      "compact": "कोई जानकारी उपलब्ध नहीं है",
+      "descriptive": "कोई जानकारी उपलब्ध नहीं है"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "कानूनी विचार",
+    "legal-considerations-exempt": {
+      "compact": "कुछ जगहों के कानूनी दायरे में एक्सेसिबिलिटी छूट का दावा करता है",
+      "descriptive": "यह पब्लिकेशन, कुछ जगहों के कानूनी दायरे में एक्सेसिबिलिटी छूट का दावा करता है"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "कोई जानकारी उपलब्ध नहीं है",
+      "descriptive": "कोई जानकारी उपलब्ध नहीं है"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "ऐक्सेसिबिलिटी से जुड़ी अतिरिक्त जानकारी",
+    "additional-accessibility-information-aria": {
+      "compact": "ARIA की भूमिकाएं शामिल हैं",
+      "descriptive": "संगठन को बेहतर बनाने और नेविगेशन की सुविधा के लिए ARIA भूमिकाओं के साथ कॉन्टेंट बेहतर बनाया जाता है"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "ऑडियो विवरण",
+      "descriptive": "ऑडियो विवरण"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "ब्रेल",
+      "descriptive": "ब्रेल"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "जानकारी देने के लिए सिर्फ़ रंग ही ज़रिया नहीं है",
+      "descriptive": "जानकारी देने के लिए सिर्फ़ रंग ही ज़रिया नहीं है"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "डिस्लेक्सिया के मरीज के लिए पढ़ने की सुविधा",
+      "descriptive": "डिस्लेक्सिया के मरीज के लिए पढ़ने की सुविधा"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "पूरे रूबी एनोटेशन",
+      "descriptive": "पूरे रूबी एनोटेशन"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "सामने और बैकग्राउंड ऑडियो के बीच ज़्यादा कॉन्ट्रास्ट",
+      "descriptive": "सामने और बैकग्राउंड ऑडियो के बीच ज़्यादा कॉन्ट्रास्ट"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "सामने और बैकग्राउंड टेक्स्ट के बीच ज़्यादा कॉन्ट्रास्ट",
+      "descriptive": "सामने और बैकग्राउंड टेक्स्ट के बीच ज़्यादा कॉन्ट्रास्ट"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "बड़ा प्रिंट",
+      "descriptive": "बड़ा प्रिंट"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "पेज ब्रेक शामिल हैं",
+      "descriptive": "ओरिजनल प्रिंट सोर्स से पेज ब्रेक शामिल किए गए हैं"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "कुछ रूबी एनोटेशन",
+      "descriptive": "कुछ रूबी एनोटेशन"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "सांकेतिक भाषा",
+      "descriptive": "सांकेतिक भाषा"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "टैक्टाइल ग्राफ़िक्स शामिल हैं",
+      "descriptive": "टैक्टाइल ग्राफ़िक्स को इंटीग्रेट किया गया है, ताकि दृष्टिहीन लोग दिखने वाले कॉन्टेंट को समझ सकें"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "टैक्टाइल 3D ऑब्जेक्ट",
+      "descriptive": "टैक्टाइल 3D ऑब्जेक्ट"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "टेक्स्ट को बोलकर संकेत देने की सुविधा दी गई है",
+      "descriptive": "टेक्स्ट को बोलकर संकेत देने की सुविधा दी गई है"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "टेक्स्ट और बैकग्राउंड के बीच बहुत ज़्यादा कॉन्ट्रास्ट",
+      "descriptive": "टेक्स्ट और बैकग्राउंड के बीच बहुत ज़्यादा कॉन्ट्रास्ट"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "पेज के दिखने वाले नंबर ",
+      "descriptive": "पेज के दिखने वाले नंबर "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "बैकग्राउंड में आवाज़ के बिना",
+      "descriptive": "बैकग्राउंड में आवाज़ के बिना"
+    }
+  }
+}

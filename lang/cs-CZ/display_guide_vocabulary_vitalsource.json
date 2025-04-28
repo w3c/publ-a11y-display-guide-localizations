@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "cs-CZ",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Způsoby četby",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Má alternativní text",
+      "descriptive": "Obsahuje alternativní textové popisy obrázků."
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Nejsou dostupné žádné informace o nevizuální četbě",
+      "descriptive": "Nejsou dostupné žádné informace o nevizuální četbě"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Nelze číst jako hlasité čtení nebo dynamické Braillovo písmo",
+      "descriptive": "Obsah není čitelný jako hlasité čtení nebo dynamické Braillovo písmo."
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Není plně čitelné v hlasitém čtení nebo dynamickém Braillově písmu",
+      "descriptive": "Ne všechen obsah bude čitelný jako hlasité čtení nebo dynamické Braillovo písmo."
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Lze číst jako hlasité čtení nebo dynamické Braillovo písmo",
+      "descriptive": "Veškerý obsah bude čitelný jako hlasité čtení nebo dynamické Braillovo písmo."
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Předem nahrané zvukové klipy",
+      "descriptive": "Předem nahrané zvukové klipy jsou vloženy do obsahu"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Nejsou k dispozici žádné informace o předem nahraném zvuku",
+      "descriptive": " Nejsou k dispozici žádné informace o předem nahraném zvuku"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Pouze předem nahraný zvuk",
+      "descriptive": " Audiokniha bez textové alternativy"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Předem nahraný zvuk synchronizovaný s textem.",
+      "descriptive": "Veškerý obsah je k dispozici jako předem nahraný zvuk synchronizovaný s textem."
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Vzhled lze upravit.",
+      "descriptive": " Vzhled textu a rozložení stránky lze upravit podle možností čtecího systému (písmová rodina a velikost písma, mezery mezi odstavci, větami, slovy a písmeny, stejně jako barva pozadí a textu)."
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Nejsou k dispozici žádné informace o možnostech úpravy vzhledu",
+      "descriptive": " Nejsou k dispozici žádné informace o možnostech úpravy vzhledu"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Vzhled nelze upravit.",
+      "descriptive": "Text a rozložení stránky nelze upravovat, protože zážitek ze čtení se blíží tištěné verzi, ovšem čtecí systémy mohou umožňovat přiblížení"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Shoda",
+    "conformance-details-title": "Podrobné informace o shodě",
+    "conformance-a": {
+      "compact": "Tato publikace splňuje minimální normy přístupnosti",
+      "descriptive": "Publikace obsahuje prohlášení o shodě, že splňuje normu přístupnosti EPUB a WCAG 2 úrovně A."
+    },
+    "conformance-aa": {
+      "compact": "Tato publikace splňuje uznávané normy přístupnosti",
+      "descriptive": "Publikace obsahuje prohlášení o shodě, že splňuje normu přístupnosti EPUB a WCAG 2 úrovně AA."
+    },
+    "conformance-aaa": {
+      "compact": "Tato publikace předčí uznávané normy přístupnosti",
+      "descriptive": "Publikace obsahuje prohlášení o shodě, že splňuje normu přístupnosti EPUB a WCAG 2 úrovně AAA."
+    },
+    "conformance-certifier": {
+      "compact": "Publikace byla certifikována organizací",
+      "descriptive": "Publikace byla certifikována organizací "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Pověření certifikátora je ",
+      "descriptive": "Pověření certifikátora je "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Publikace byla certifikována dne ",
+      "descriptive": "Publikace byla certifikována dne "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Další informace naleznete ve zprávě certifikátora",
+      "descriptive": "Další informace naleznete ve zprávě certifikátora"
+    },
+    "conformance-details-claim": {
+      "compact": "Tato publikace uvádí, že splňuje",
+      "descriptive": "Tato publikace uvádí, že splňuje"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " EPUB Accessibility 1.0",
+      "descriptive": " EPUB Accessibility 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " EPUB Accessibility 1.1",
+      "descriptive": " EPUB Accessibility 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Úroveň A",
+      "descriptive": " Úroveň A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Úroveň AA",
+      "descriptive": " Úroveň AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Úroveň AAA",
+      "descriptive": " Úroveň AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Pokyny pro přístupnost webového obsahu (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Pokyny pro přístupnost webového obsahu (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Pokyny pro přístupnost webového obsahu (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Nejsou k dispozici žádné informace",
+      "descriptive": "Nejsou k dispozici žádné informace"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Shodu této publikace s uznávanými normami přístupnosti nelze určit",
+      "descriptive": "Shodu této publikace s uznávanými normami přístupnosti nelze určit"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Navigace",
+    "navigation-index": {
+      "compact": "Rejstřík",
+      "descriptive": "Rejstřík s odkazy na odkazované záznamy"
+    },
+    "navigation-no-metadata": {
+      "compact": "Nejsou k dispozici žádné informace",
+      "descriptive": "Nejsou k dispozici žádné informace"
+    },
+    "navigation-page-navigation": {
+      "compact": "Přejít na stránku",
+      "descriptive": "Seznam stránek pro přechod na stránky z tištěné verze zdroje"
+    },
+    "navigation-structural": {
+      "compact": "Nadpisy",
+      "descriptive": "Prvky jako nadpisy, tabulky atd. pro strukturovanou navigaci"
+    },
+    "navigation-toc": {
+      "compact": "Obsah",
+      "descriptive": "Obsah s přístupem ke všem kapitolám textu prostřednictvím odkazů"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Formátovaný obsah",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Chemické vzorce ve formátu LaTeX",
+      "descriptive": "Chemické vzorce v přístupném formátu (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Chemické vzorce ve formátu MathML",
+      "descriptive": "Chemické vzorce v přístupném formátu (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Matematika jako LaTeX",
+      "descriptive": "Matematické vzorce v přístupném formátu (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Matematika jako MathML",
+      "descriptive": "Matematické vzorce v přístupném formátu (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Jsou uvedeny textové popisy matematiky.",
+      "descriptive": "Jsou uvedeny textové popisy matematiky."
+    },
+    "rich-content-closed-captions": {
+      "compact": " Videa mají skryté titulky.",
+      "descriptive": " Videa obsažená v publikacích mají skryté titulky."
+    },
+    "rich-content-extended": {
+      "compact": "Obrázky bohaté na informace jsou popsány rozšířenými popisy.",
+      "descriptive": "Obrázky bohaté na informace jsou popsány rozšířenými popisy."
+    },
+    "rich-content-open-captions": {
+      "compact": " Videa mají zobrazené titulky",
+      "descriptive": " Videa obsažená v publikacích mají zobrazené titulky."
+    },
+    "rich-content-transcript": {
+      "compact": "Přepisy jsou k dispozici",
+      "descriptive": "Přepisy jsou k dispozici"
+    },
+    "rich-content-unknown": {
+      "compact": "Nejsou k dispozici žádné informace",
+      "descriptive": "Nejsou k dispozici žádné informace"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Nebezpečí",
+    "hazards-flashing": {
+      "compact": "Blikající obsah",
+      "descriptive": "Publikace obsahuje blikající obsah, který může způsobit fotosenzitivní záchvaty."
+    },
+    "hazards-motion": {
+      "compact": "Simulace pohybu",
+      "descriptive": "Publikace obsahuje simulace pohybu, které mohou způsobit kinetózu."
+    },
+    "hazards-no-metadata": {
+      "compact": "Nejsou k dispozici žádné informace",
+      "descriptive": "Nejsou k dispozici žádné informace"
+    },
+    "hazards-none": {
+      "compact": "Žádná rizika",
+      "descriptive": "Publikace neobsahuje žádná rizika."
+    },
+    "hazards-sound": {
+      "compact": "Zvuky",
+      "descriptive": "Publikace obsahuje zvuky, které mohou být nepříjemné."
+    },
+    "hazards-unknown": {
+      "compact": "Přítomnost rizik není známa.",
+      "descriptive": "Přítomnost rizik není známa."
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Přehled přístupnosti",
+    "accessibility-summary-no-metadata": {
+      "compact": "Nejsou k dispozici žádné informace",
+      "descriptive": "Nejsou k dispozici žádné informace"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Právní informace",
+    "legal-considerations-exempt": {
+      "compact": "Uplatňuje výjimku z přístupnosti v některých jurisdikcích",
+      "descriptive": "Tato publikace uvádí, že v některých jurisdikcích má výjimku z přístupnosti."
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Nejsou k dispozici žádné informace",
+      "descriptive": "Nejsou k dispozici žádné informace"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Další informace o přístupnosti",
+    "additional-accessibility-information-aria": {
+      "compact": "Včetně rolí ARIA",
+      "descriptive": "Obsah je rozšířen o role ARIA, které optimalizují organizaci a usnadňují navigaci"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Zvukové popisy",
+      "descriptive": "Zvukové popisy"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braillovo písmo",
+      "descriptive": "Braillovo písmo"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Barva není jediným způsobem, jak předávat informace.",
+      "descriptive": "Barva není jediným způsobem, jak předávat informace."
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Čitelnost pro dyslektiky",
+      "descriptive": "Čitelnost pro dyslektiky"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Úplné fonetické poznámky",
+      "descriptive": "Úplné fonetické poznámky"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Vysoký kontrast mezi zvukem v popředí a na pozadí",
+      "descriptive": "Vysoký kontrast mezi zvukem v popředí a na pozadí"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Vysoký kontrast mezi textem v popředí a na pozadí",
+      "descriptive": "Vysoký kontrast mezi textem v popředí a na pozadí"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Velké písmo",
+      "descriptive": "Velké písmo"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Včetně zalomení stránky",
+      "descriptive": "Včetně zalomení stránek z původního tištěného zdroje"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Některé fonetické poznámky",
+      "descriptive": "Některé fonetické poznámky"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Znakový jazyk",
+      "descriptive": "Znakový jazyk"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Taktilní grafika zahrnuta",
+      "descriptive": "Taktilní grafika byla integrována, aby usnadnila přístup k vizuálním prvkům nevidomým."
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Hmatové 3D objekty",
+      "descriptive": "Hmatové 3D objekty"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Byla poskytnuta nápověda pro převod textu na řeč",
+      "descriptive": "Byla poskytnuta nápověda pro převod textu na řeč"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Ultra vysoký kontrast mezi textem a pozadím",
+      "descriptive": "Ultra vysoký kontrast mezi textem a pozadím"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Viditelné číslování stránek ",
+      "descriptive": "Viditelné číslování stránek "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Bez zvuků na pozadí",
+      "descriptive": "Bez zvuků na pozadí"
+    }
+  }
+}

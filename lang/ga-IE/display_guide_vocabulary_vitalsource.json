@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "author": "VitalSource",
+    "language": "ga-IE",
+    "variant": "canonical",
+    "version": "2.0.b",
+    "audience": "general",
+    "description": "Professional translation of the W3C canonical vocabulary, open-sourced by VitalSource"
+  },
+  "ways-of-reading": {
+    "ways-of-reading-title": "Bealaí léitheoireachta",
+    "ways-of-reading-nonvisual-reading-alt-text": {
+      "compact": "Tá téacs malartach ann",
+      "descriptive": "Tá tuairiscí téacs malartacha ag íomhánna ann"
+    },
+    "ways-of-reading-nonvisual-reading-no-metadata": {
+      "compact": "Níl aon fhaisnéis faoi léamh neamhamhairc ar fáil",
+      "descriptive": "Níl aon fhaisnéis faoi léamh neamhamhairc ar fáil"
+    },
+    "ways-of-reading-nonvisual-reading-none": {
+      "compact": "Níl sé inléite i léamh os ard nó i mbraille dinimiciúil",
+      "descriptive": "Níl an t-ábhar inléite mar chaint léite os ard nó braille dinimiciúil"
+    },
+    "ways-of-reading-nonvisual-reading-not-fully": {
+      "compact": "Níl sé inléite go hiomlán i léamh os ard nó i braille dinimiciúil",
+      "descriptive": "Ní bheidh an t-ábhar ar fad inléite mar chaint léite os ard nó braille dinimiciúil"
+    },
+    "ways-of-reading-nonvisual-reading-readable": {
+      "compact": "Inléite i léamh os ard nó braille dinimiciúil",
+      "descriptive": "Is féidir an t-ábhar go léir a léamh mar chaint léite os ard nó braille dinimiciúil"
+    },
+    "ways-of-reading-prerecorded-audio-complementary": {
+      "compact": "Gearrthóga fuaime réamhthaifeadta",
+      "descriptive": "Tá gearrthóga fuaime réamhthaifeadta leabaithe san ábhar"
+    },
+    "ways-of-reading-prerecorded-audio-no-metadata": {
+      "compact": " Níl aon eolas faoi fhuaim réamhthaifeadta ar fáil",
+      "descriptive": " Níl aon eolas faoi fhuaim réamhthaifeadta ar fáil"
+    },
+    "ways-of-reading-prerecorded-audio-only": {
+      "compact": "Fuaim réamhthaifeadta amháin",
+      "descriptive": " Closleabhar gan aon rogha téacs"
+    },
+    "ways-of-reading-prerecorded-audio-synchronized": {
+      "compact": "Fuaim réamhthaifeadta sioncronaithe le téacs",
+      "descriptive": "Tá an t-ábhar go léir ar fáil mar fhuaim réamhthaifeadta sioncronaithe le téacs"
+    },
+    "ways-of-reading-visual-adjustments-modifiable": {
+      "compact": "Is féidir an chuma a athrú",
+      "descriptive": " Is féidir cuma leagan amach an téacs agus an leathanaigh a mhodhnú de réir chumais an chórais léitheoireachta (clófhoireann agus clómhéid, spásanna idir míreanna, abairtí, focail agus litreacha, chomh maith le dath an chúlra agus an téacs)"
+    },
+    "ways-of-reading-visual-adjustments-unknown": {
+      "compact": "Níl aon fhaisnéis ar fáil faoi inmhodhnaitheacht cuma",
+      "descriptive": " Níl aon fhaisnéis ar fáil faoi inmhodhnaitheacht cuma"
+    },
+    "ways-of-reading-visual-adjustments-unmodifiable": {
+      "compact": "Ní féidir an chuma a athrú",
+      "descriptive": "Ní féidir leagan amach an téacs agus na leathanach a athrú mar go bhfuil an taithí léitheoireachta gar do leagan clóite, ach is féidir le córais léitheoireachta roghanna zúmála a chur ar fáil fós"
+    }
+  },
+  "conformance": {
+    "conformance-title": "Comhréireacht",
+    "conformance-details-title": "Eolas comhréireachta mionsonraithe",
+    "conformance-a": {
+      "compact": "Comhlíonann an foilseachán seo íoschaighdeáin inrochtaineachta",
+      "descriptive": "Tá ráiteas comhréireachta san fhoilseachán go gcomhlíonann sé caighdeán Inrochtaineachta EPUB agus caighdeán WCAG 2 Leibhéal A"
+    },
+    "conformance-aa": {
+      "compact": "Comhlíonann an foilseachán seo caighdeáin inrochtaineachta inghlactha",
+      "descriptive": "Tá ráiteas comhréireachta san fhoilseachán go gcomhlíonann sé caighdeán Inrochtaineachta EPUB agus caighdeán WCAG 2 Leibhéal AA"
+    },
+    "conformance-aaa": {
+      "compact": "Sáraíonn an foilseachán seo caighdeáin inrochtaineachta a bhfuil glacadh leo",
+      "descriptive": "Tá ráiteas comhréireachta san fhoilseachán go gcomhlíonann sé caighdeán Inrochtaineachta EPUB agus caighdeán WCAG 2 Leibhéal AAA"
+    },
+    "conformance-certifier": {
+      "compact": "Deimhníodh an foilseachán le",
+      "descriptive": "Deimhníodh an foilseachán le "
+    },
+    "conformance-certifier-credentials": {
+      "compact": "Is iad dintiúir an deimhnitheora ",
+      "descriptive": "Is iad dintiúir an deimhnitheora "
+    },
+    "conformance-details-certification-info": {
+      "compact": "Deimhníodh an foilseachán ar ",
+      "descriptive": "Deimhníodh an foilseachán ar "
+    },
+    "conformance-details-certifier-report": {
+      "compact": "Le haghaidh tuilleadh faisnéise, féach ar thuarascáil an deimhnitheora",
+      "descriptive": "Le haghaidh tuilleadh faisnéise, féach ar thuarascáil an deimhnitheora"
+    },
+    "conformance-details-claim": {
+      "compact": "Éilíonn an foilseachán seo go gcomh",
+      "descriptive": "Éilíonn an foilseachán seo go gcomh"
+    },
+    "conformance-details-epub-accessibility-1-0": {
+      "compact": " Inrochtaineacht EPUB 1.0",
+      "descriptive": " Inrochtaineacht EPUB 1.0"
+    },
+    "conformance-details-epub-accessibility-1-1": {
+      "compact": " Inrochtaineacht EPUB 1.1",
+      "descriptive": " Inrochtaineacht EPUB 1.1"
+    },
+    "conformance-details-level-a": {
+      "compact": " Leibhéal A",
+      "descriptive": " Leibhéal A"
+    },
+    "conformance-details-level-aa": {
+      "compact": " Leibhéal AA",
+      "descriptive": " Leibhéal AA"
+    },
+    "conformance-details-level-aaa": {
+      "compact": " Leibhéal AAA",
+      "descriptive": " Leibhéal AAA"
+    },
+    "conformance-details-wcag-2-0": {
+      "compact": " WCAG 2.0",
+      "descriptive": " Treoirlínte Inrochtaineachta Ábhar Gréasáin (WCAG) 2.0"
+    },
+    "conformance-details-wcag-2-1": {
+      "compact": " WCAG 2.1",
+      "descriptive": " Treoirlínte Ábhar Inrochtaineachta Gréasáin (WCAG) 2.1"
+    },
+    "conformance-details-wcag-2-2": {
+      "compact": " WCAG 2.2",
+      "descriptive": " Treoirlínte Ábhar Inrochtaineachta Gréasáin (WCAG) 2.2"
+    },
+    "conformance-no": {
+      "compact": "Níl aon fhaisnéis ar fáil",
+      "descriptive": "Níl aon fhaisnéis ar fáil"
+    },
+    "conformance-unknown-standard": {
+      "compact": "Ní féidir a chinneadh an bhfuiltear ag cloí le caighdeáin ghlactha inrochtaineachta an fhoilseacháin seo",
+      "descriptive": "Ní féidir a chinneadh an bhfuiltear ag cloí le caighdeáin ghlactha inrochtaineachta an fhoilseacháin seo"
+    }
+  },
+  "navigation": {
+    "navigation-title": "Nascleanúint",
+    "navigation-index": {
+      "compact": "Innéacs",
+      "descriptive": "Innéacs le naisc chuig iontrálacha tagartha"
+    },
+    "navigation-no-metadata": {
+      "compact": "Níl aon fhaisnéis ar fáil",
+      "descriptive": "Níl aon fhaisnéis ar fáil"
+    },
+    "navigation-page-navigation": {
+      "compact": "Gabh chuig leathanach",
+      "descriptive": "Liosta leathanach le dul go dtí leathanaigh ón leagan foinse priontála"
+    },
+    "navigation-structural": {
+      "compact": "Ceannteidil",
+      "descriptive": "Gnéithe cosúil le ceannteidil, táblaí, srl. le haghaidh nascleanúint struchtúrtha"
+    },
+    "navigation-toc": {
+      "compact": "Clár na n-ábhar",
+      "descriptive": "Tábla ábhair a thugann rochtain ar gach caibidil den téacs trí naisc"
+    }
+  },
+  "rich-content": {
+    "rich-content-title": "Ábhar saibhir",
+    "rich-content-accessible-chemistry-as-latex": {
+      "compact": "Foirmlí ceimiceacha i LaTeX",
+      "descriptive": "Foirmlí ceimiceacha i bhformáid inrochtana (LaTeX)"
+    },
+    "rich-content-accessible-chemistry-as-mathml": {
+      "compact": "Foirmlí ceimiceacha i MathML",
+      "descriptive": "Foirmlí ceimiceacha i bhformáid inrochtana (MathML)"
+    },
+    "rich-content-accessible-math-as-latex": {
+      "compact": "Mata mar LaTeX",
+      "descriptive": "Foirmlí matamaitice i bhformáid inrochtana (LaTeX)"
+    },
+    "rich-content-accessible-math-as-mathml": {
+      "compact": "Math mar MathML",
+      "descriptive": "Foirmlí matamaitice i bhformáid inrochtana (MathML)"
+    },
+    "rich-content-accessible-math-described": {
+      "compact": "Cuirtear tuairiscí téacs ar fáil ar an matamaitic",
+      "descriptive": "Cuirtear tuairiscí téacs ar fáil ar an matamaitic"
+    },
+    "rich-content-closed-captions": {
+      "compact": " Tá fotheidil dúnta ar na físeáin",
+      "descriptive": " Tá fotheidil dúnta ag físeáin atá san áireamh i bhfoilseacháin"
+    },
+    "rich-content-extended": {
+      "compact": "Déantar cur síos ar íomhánna saibhir faisnéise trí thuairisc",
+      "descriptive": "Déantar cur síos ar íomhánna saibhir faisnéise trí thuairisc"
+    },
+    "rich-content-open-captions": {
+      "compact": " Tá fotheidil oscailte ar na físeáin",
+      "descriptive": " Tá fotheidil oscailte ag físeáin atá san áireamh i bhfoilseacháin"
+    },
+    "rich-content-transcript": {
+      "compact": "Tras-scríbhinn(eanna) ar fáil",
+      "descriptive": "Tras-scríbhinn(eanna) ar fáil"
+    },
+    "rich-content-unknown": {
+      "compact": "Níl aon fhaisnéis ar fáil",
+      "descriptive": "Níl aon fhaisnéis ar fáil"
+    }
+  },
+  "hazards": {
+    "hazards-title": "Guaiseacha",
+    "hazards-flashing": {
+      "compact": "Ábhar gealánacha",
+      "descriptive": "Tá ábhar gealánach san fhoilseachán a d’fhéadfadh taomanna fóta-íogair a chruthú"
+    },
+    "hazards-motion": {
+      "compact": "Insamhladh gluaiseachta",
+      "descriptive": "Tá ionsamhlúcháin gluaisne san fhoilseachán a d'fhéadfadh a bheith ina gcúis le breoiteacht gluaisne"
+    },
+    "hazards-no-metadata": {
+      "compact": "Níl aon fhaisnéis ar fáil",
+      "descriptive": "Níl aon fhaisnéis ar fáil"
+    },
+    "hazards-none": {
+      "compact": "Gan aon ghuaiseacha",
+      "descriptive": "Níl aon ghuaiseacha sa foilseachán"
+    },
+    "hazards-sound": {
+      "compact": "Fuaimeanna",
+      "descriptive": "Tá fuaimeanna san fhoilseachán a bhféadfadh míchompord a bheith mar thoradh orthu"
+    },
+    "hazards-unknown": {
+      "compact": "Níl a fhios an bhfuil guaiseacha ann",
+      "descriptive": "Ní fios láithreacht guaiseacha"
+    }
+  },
+  "accessibility-summary": {
+    "accessibility-summary-title": "Achoimre inrochtaineachta",
+    "accessibility-summary-no-metadata": {
+      "compact": "Níl aon fhaisnéis ar fáil",
+      "descriptive": "Níl aon fhaisnéis ar fáil"
+    }
+  },
+  "legal-considerations": {
+    "legal-considerations-title": "Creithnithe dlí",
+    "legal-considerations-exempt": {
+      "compact": "Éilítear díolúine inrochtaineachta i ndlínsí áirithe",
+      "descriptive": "Éilíonn an foilseachán seo díolúine inrochtaineachta i roinnt dlínsí"
+    },
+    "legal-considerations-no-metadata": {
+      "compact": "Níl aon fhaisnéis ar fáil",
+      "descriptive": "Níl aon fhaisnéis ar fáil"
+    }
+  },
+  "additional-accessibility-information": {
+    "additional-accessibility-information-title": "Faisnéis inrochtaineachta bhreise",
+    "additional-accessibility-information-aria": {
+      "compact": "Róil ARIA san áireamh",
+      "descriptive": "Feabhsaítear an t-ábhar le róil ARIA chun an eagraíocht a bharrfheabhsú agus nascleanúint a éascú"
+    },
+    "additional-accessibility-information-audio-descriptions": {
+      "compact": "Cur síos fuaime",
+      "descriptive": "Cur síos fuaime"
+    },
+    "additional-accessibility-information-braille": {
+      "compact": "Braille",
+      "descriptive": "Braille"
+    },
+    "additional-accessibility-information-color-not-sole-means-of-conveying-information": {
+      "compact": "Ní hé dath an t-aon mhodh amháin chun faisnéis a chur in iúl",
+      "descriptive": "Ní hé dath an t-aon mhodh amháin chun faisnéis a chur in iúl"
+    },
+    "additional-accessibility-information-dyslexia-readability": {
+      "compact": "Inléiteacht disléicse",
+      "descriptive": "Inléiteacht disléicse"
+    },
+    "additional-accessibility-information-full-ruby-annotations": {
+      "compact": "Anótálacha iomlána Ruby",
+      "descriptive": "Anótálacha iomlána Ruby"
+    },
+    "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
+      "compact": "Codarsnacht ard idir fuaim an tulra agus fuaim an chúlra",
+      "descriptive": "Codarsnacht ard idir fuaim an tulra agus fuaim an chúlra"
+    },
+    "additional-accessibility-information-high-contrast-between-text-and-background": {
+      "compact": "Codarsnacht ard idir téacs an tulra agus an cúlra",
+      "descriptive": "Codarsnacht ard idir téacs an tulra agus an cúlra"
+    },
+    "additional-accessibility-information-large-print": {
+      "compact": "Cló mór",
+      "descriptive": "Cló mór"
+    },
+    "additional-accessibility-information-page-breaks": {
+      "compact": "Briseadh leathanaigh san áireamh",
+      "descriptive": "Briseadh leathanaigh san áireamh ón bhfoinse priontála bunaidh"
+    },
+    "additional-accessibility-information-ruby-annotations": {
+      "compact": "Roinnt anótálacha Ruby",
+      "descriptive": "Roinnt anótálacha Ruby"
+    },
+    "additional-accessibility-information-sign-language": {
+      "compact": "Teanga chomharthaíochta",
+      "descriptive": "Teanga chomharthaíochta"
+    },
+    "additional-accessibility-information-tactile-graphics": {
+      "compact": "Grafaicí teagmhála san áireamh",
+      "descriptive": "Comhtháthaíodh grafaicí teagmhála chun rochtain ar eilimintí amhairc a éascú do dhaoine dall"
+    },
+    "additional-accessibility-information-tactile-objects": {
+      "compact": "Réada tadhlacha 3T",
+      "descriptive": "Réada tadhlacha 3T"
+    },
+    "additional-accessibility-information-text-to-speech-hinting": {
+      "compact": "Cuireadh leid téacs-go-hurlabhra ar fáil",
+      "descriptive": "Cuireadh leid téacs-go-hurlabhra ar fáil"
+    },
+    "additional-accessibility-information-ultra-high-contrast-between-text-and-background": {
+      "compact": "Codarsnacht an-ard idir téacs agus cúlra",
+      "descriptive": "Codarsnacht an-ard idir téacs agus cúlra"
+    },
+    "additional-accessibility-information-visible-page-numbering": {
+      "compact": "Uimhriú leathanaigh infheicthe ",
+      "descriptive": "Uimhriú leathanaigh infheicthe "
+    },
+    "additional-accessibility-information-without-background-sounds": {
+      "compact": "Gan fuaimeanna cúlra",
+      "descriptive": "Gan fuaimeanna cúlra"
+    }
+  }
+}
