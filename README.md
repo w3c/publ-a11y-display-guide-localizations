@@ -16,7 +16,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 Because
 persons and organizations with different levels of
 technicality must be able to contribute, we accept both
-raw files via Pull requests and also propose email proposals.
+raw files via Pull requests or proposals submitted through email.
 
 
 ## Why are there different translations?
@@ -37,7 +37,7 @@ Different countries or different target
 audience services may want to use specific language, and we
 have provided flexibility in the guide to accommodate this
 while maintaining a high level of understanding and similar
-quality to help users in a country find likewise information
+quality to help users in a country find comparable information
 between two bookstores or libraries in the same language
 area.
 
@@ -69,15 +69,15 @@ player in the value chain.
 ## How to choose between localization files?
 
 The first keys of each JSON files contains descriptive
-information about it, including:
+information, including:
 
 <ul>
 <li>Author, name of the organisation responsible for the
 establishment and maintenance of this localization
 </li>
 <li>Language, is a 4 letters code where the two first
-letters specifies the language as per ISO 639-1 and
-the two others the country as per ISO 3166-1 alpha-2
+letter specifies the language as per ISO 639-1 and
+ the third and fourth letters conform to the country as per ISO 3166-1 alpha-2
 </li>
 <li>Variant, a one word free name to identify your work
 </li>
