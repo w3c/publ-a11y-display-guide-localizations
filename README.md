@@ -75,9 +75,7 @@ information, including:
 <li>Author, name of the organisation responsible for the
 establishment and maintenance of this localization
 </li>
-<li>Language, is a 4 letters code where the two first
-letter specifies the language as per ISO 639-1 and
- the third and fourth letters conform to the country as per ISO 3166-1 alpha-2
+<li>Language, a 4-letter identifier where the first two letters specify the language according to ISO 639-1, and the last two letters define a region or script as per ISO 3166-1 alpha-2.
 </li>
 <li>Variant, a one word free name to identify your work
 </li>
