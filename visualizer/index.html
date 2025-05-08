@@ -97,6 +97,7 @@ function createListsAndTables(data, parentContainer) {
                 const spanValue = document.createElement('span');
                 spanValue.textContent = data[key][subKey];
                 listItem.appendChild(spanKey);
+                listItem.appendChild(document.createTextNode(': ')); // Add a colon and space
                 listItem.appendChild(spanValue);
                 metadataList.appendChild(listItem);
             });
