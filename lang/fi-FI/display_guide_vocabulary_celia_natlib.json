@@ -78,8 +78,8 @@
             "descriptive": "Julkaisun saavutettavuuden on arvioinut "
         },
         "conformance-certifier-credentials": {
-            "compact": "Arvioijan sertifiointitunnus ",
-            "descriptive": "Arvioijan sertifiointitunnus "
+            "compact": "Arvioijan sertifiointitunnus on ",
+            "descriptive": "Arvioijan sertifiointitunnus on "
         },
         "conformance-details-certification-info": {
             "compact": "Julkaisu on arvioitu ",
