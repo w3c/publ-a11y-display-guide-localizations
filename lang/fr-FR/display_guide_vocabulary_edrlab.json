@@ -23,7 +23,7 @@
         },
         "ways-of-reading-nonvisual-reading-not-fully": {
             "compact": "Pas entièrement lisible en voix de synthèse ou en braille",
-            "descriptive": "Tous les contenus ne pourront pas être lus à haute voix ou en braille"
+            "descriptive": "Tous les contenus ne pourront pas être lus en voix de synthèse ou en braille"
         },
         "ways-of-reading-nonvisual-reading-readable": {
             "compact": "Entièrement lisible en voix de synthèse ou en braille",
