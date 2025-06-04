@@ -228,7 +228,7 @@
         },
         "hazards-no-metadata": {
             "compact": "Information saknas",
-            "descriptive": "Information saknas",
+            "descriptive": "Information saknas"
         },
         "hazards-none": {
             "compact": "Inga risker",
