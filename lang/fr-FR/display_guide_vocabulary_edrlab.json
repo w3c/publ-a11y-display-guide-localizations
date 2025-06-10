@@ -14,12 +14,12 @@
             "descriptive": "Les images sont décrites par un texte"
         },
         "ways-of-reading-nonvisual-reading-no-metadata": {
-            "compact": "Aucune information pour la lecture en voix de synthèse ou en braille",
-            "descriptive": "Il n'est pas possible de savoir si le contenu sera totalement lisible en voix de synthèse ou en braille"
+            "compact": "Aucune information sur les possibilités de lecture en voix de synthèse ou en braille",
+            "descriptive": "Aucune information sur les possibilités de lecture  en voix de synthèse ou en braille n'est disponible"
         },
         "ways-of-reading-nonvisual-reading-none": {
             "compact": "Non lisible en voix de synthèse ou en braille",
-            "descriptive": "Le contenu n'est pas lisible en voix de synthèse ou en braille"
+            "descriptive": "Le contenu n'est pas lisible en lecture à haute voix ou en braille"
         },
         "ways-of-reading-nonvisual-reading-not-fully": {
             "compact": "Pas entièrement lisible en voix de synthèse ou en braille",
@@ -27,15 +27,15 @@
         },
         "ways-of-reading-nonvisual-reading-readable": {
             "compact": "Entièrement lisible en voix de synthèse ou en braille",
-            "descriptive": "Tous les contenus peuvent être lus en voix de synthèse ou en braille"
+            "descriptive": "Tous les contenus peuvent être lus à haute voix ou en braille"
         },
         "ways-of-reading-prerecorded-audio-complementary": {
             "compact": "Clips audio préenregistrés",
             "descriptive": "Des clips audio préenregistrés sont intégrés au contenu"
         },
         "ways-of-reading-prerecorded-audio-no-metadata": {
-            "compact": "Aucune information sur les enregistrements audio",
-            "descriptive": "Il n'est pas possible de savoir si le livre contient des  enregistrements audio"
+            "compact": "Aucune information sur les enregistrements audio n'est disponible",
+            "descriptive": "Aucune information sur les enregistrements audio n'est disponible"
         },
         "ways-of-reading-prerecorded-audio-only": {
             "compact": "Audio préenregistré uniquement",
@@ -51,11 +51,11 @@
         },
         "ways-of-reading-visual-adjustments-unknown": {
             "compact": "Aucune information sur les possibilités d'adaptation de l'affichage",
-            "descriptive": "Il n'est pas possible de savoir si l'apparence du texte et la mise en page peuvent être modifiées"
+            "descriptive": "Aucune information sur les possibilités d'adaptation de l'affichage n'est disponible"
         },
         "ways-of-reading-visual-adjustments-unmodifiable": {
             "compact": "Mise en page fixe",
-            "descriptive": "L'aspect du texte et la mise en page ne peuvent pas être modifiés, l'expérience de lecture est proche d'une version imprimée. Les systèmes de lecture peuvent offrir des options de zoom"
+            "descriptive": "L'aspect du texte et la mise en page ne peuvent pas être modifiés, l'expérience de lecture est proche d'une version imprimée, mais les systèmes de lecture peuvent toujours offrir des options de zoom"
         }
     },
     "conformance": {
@@ -188,7 +188,7 @@
             "descriptive": "Les images porteuses d'informations complexes sont décrites par des descriptions longues"
         },
         "rich-content-open-captions": {
-            "compact": "Sous-titres incrustés",
+            "compact": "Sous-titres incrustés dans les vidéos",
             "descriptive": "Des sous titres sont incrustés pour les vidéos"
         },
         "rich-content-transcript": {
@@ -204,27 +204,27 @@
         "hazards-title": "Points d'attention",
         "hazards-flashing": {
             "compact": "Flashs lumineux",
-            "descriptive": "La publication contient des flashs lumineux qui peuvent provoquer des crises d’épilepsie"
+            "descriptive": "La publication contient des flashs lumineux qui peuvent provoquer des crises de photosensibilité"
         },
         "hazards-flashing-none": {
             "compact": "Pas de flashs lumineux",
-            "descriptive": "La publication ne contient pas de flashs lumineux susceptibles de provoquer des crises d’épilepsie"
+            "descriptive": "La publication ne contient pas de flashs lumineux susceptibles de provoquer des crises de photosensibilité"
         },
         "hazards-flashing-unknown": {
             "compact": "Pas d'information concernant la présence de flashs lumineux",
-            "descriptive": "La présence de flashs lumineux susceptibles de provoquer des crises d’épilepsie n'a pas pu être déterminée"
+            "descriptive": "La présence de flashs lumineux susceptibles de provoquer des crises de photosensibilité n'a pas pu être déterminée"
         },
         "hazards-motion": {
             "compact": "Sensations de mouvement",
-            "descriptive": "La publication contient des images en mouvement qui peuvent provoquer des nausées, des vertiges et des maux de tête"
+            "descriptive": "La publication contient des sensations de mouvement qui peuvent provoquer le mal des transports"
         },
         "hazards-motion-none": {
             "compact": "Pas de sensations de mouvement",
-            "descriptive": "La publication ne contient pas d'images en mouvement qui pourraient provoquer des nausées, des vertiges et des maux de tête"
+            "descriptive": "La publication ne contient pas de sensations de mouvement susceptibles de provoquer de l'inconfort"
         },
         "hazards-motion-unknown": {
-            "compact": "Pas d'information concernant la présence d'images en mouvement",
-            "descriptive": "La présence d'images en mouvement susceptibles de provoquer des nausées, des vertiges et des maux de tête n'a pas pu être déterminée"
+            "compact": "Pas d'information concernant la présence de sensations de mouvement",
+            "descriptive": "La présence de sensations de mouvement susceptibles de provoquer de l'inconfort n'a pas pu être déterminée"
         },
         "hazards-no-metadata": {
             "compact": "Aucune information disponible",
@@ -232,7 +232,7 @@
         },
         "hazards-none": {
             "compact": "Aucun points d'attention",
-            "descriptive": "La publication ne présente aucun risque lié à la présence de flashs lumineux, de sensations de mouvement ou de sons"
+            "descriptive": "La publication ne présente aucun risque lié à la présence de flashs lumineux, sensations de mouvement ou sons"
         },
         "hazards-sound": {
             "compact": "Sons",
