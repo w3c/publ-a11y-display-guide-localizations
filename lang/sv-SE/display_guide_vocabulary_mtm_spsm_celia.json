@@ -3,8 +3,9 @@
         "author": "Swedish Agency for Accessible Media (MTM), National Agency for Special Needs Education and Schools (SPSM), Accessibility Library Celia",
         "language": "sv-SE",
         "variant": "canonical",
-        "version": "2.0.c",
+        "version": "2.1.a",
         "audience": "general",
+        "source": "https://www.w3.org/community/reports/publishingcg/CG-FINAL-a11y-display-guidelines-20251222/",
         "description": "Expert translation provided by the Swedish Agency for Accessible Media (MTM), the National Agency for Special Needs Education and Schools (SPSM), and Accessibility Library Celia (Finland)"
     },
     "ways-of-reading": {
