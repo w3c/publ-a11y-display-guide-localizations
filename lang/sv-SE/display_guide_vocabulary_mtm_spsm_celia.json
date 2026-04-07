@@ -212,7 +212,7 @@
             "descriptive": "Publikationen har inget blinkande innehåll som kan vara skadligt för ljuskänsliga personer"
         },
         "hazards-flashing-unknown": {
-            "compact": "Inga kända risk med blinkande innehåll",
+            "compact": "Inga kända risker med blinkande innehåll",
             "descriptive": "Förekomst av blinkande innehåll som kan vara skadligt för ljuskänsliga personer är okänd"
         },
         "hazards-motion": {
