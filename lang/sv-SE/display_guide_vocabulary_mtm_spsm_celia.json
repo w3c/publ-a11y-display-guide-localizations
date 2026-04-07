@@ -208,11 +208,11 @@
             "descriptive": "Publikationen har blinkande innehåll som kan vara skadligt för ljuskänsliga personer"
         },
         "hazards-flashing-none": {
-            "compact": "Ingen risk för blinkande innehåll",
+            "compact": "Inga risker med blinkande innehåll",
             "descriptive": "Publikationen har inget blinkande innehåll som kan vara skadligt för ljuskänsliga personer"
         },
         "hazards-flashing-unknown": {
-            "compact": "Ingen känd risk för blinkande innehåll",
+            "compact": "Inga kända risk med blinkande innehåll",
             "descriptive": "Förekomst av blinkande innehåll som kan vara skadligt för ljuskänsliga personer är okänd"
         },
         "hazards-motion": {
@@ -220,11 +220,11 @@
             "descriptive": "Publikationen innehåller rörelsesimulering som skulle kunna orsaka illamående"
         },
         "hazards-motion-none": {
-            "compact": "Ingen risk för rörelsesimulering",
+            "compact": "Inga risker med rörelsesimulering",
             "descriptive": "Publikationen innehåller ingen rörelsesimulering som skulle kunna orsaka illamående"
         },
         "hazards-motion-unknown": {
-            "compact": "Ingen känd risk för rörelsesimulering",
+            "compact": "Inga kända risker med rörelsesimulering",
             "descriptive": "Förekomst av rörelsesimulering som skulle kunna orsaka illamående är okänd"
         },
         "hazards-no-metadata": {
