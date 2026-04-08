@@ -3,8 +3,9 @@
         "author": "Swedish Agency for Accessible Media (MTM), National Agency for Special Needs Education and Schools (SPSM), Accessibility Library Celia",
         "language": "sv-SE",
         "variant": "canonical",
-        "version": "2.0.c",
+        "version": "2.1.a",
         "audience": "general",
+        "source": "https://www.w3.org/community/reports/publishingcg/CG-FINAL-a11y-display-guidelines-20251222/",
         "description": "Expert translation provided by the Swedish Agency for Accessible Media (MTM), the National Agency for Special Needs Education and Schools (SPSM), and Accessibility Library Celia (Finland)"
     },
     "ways-of-reading": {
@@ -74,56 +75,56 @@
             "descriptive": "Publikationen anger att den uppfyller standarderna EPUB Accessibility och WCAG 2 nivå AAA"
         },
         "conformance-certifier": {
-            "compact": "Publikationen är certifierad av ",
-            "descriptive": "Publikationen är certifierad av "
+            "compact": "Publikationen är certifierad av {certifier}",
+            "descriptive": "Publikationen är certifierad av {certifier}"
         },
         "conformance-certifier-credentials": {
-            "compact": "Certifierarens märkning är ",
-            "descriptive": "Certifierarens märkning är "
+            "compact": "Certifierarens märkning är {certifier_credentials}",
+            "descriptive": "Certifierarens märkning är {certifier_credentials}"
         },
         "conformance-details-certification-info": {
-            "compact": "Publikationen certifierades den ",
-            "descriptive": "Publikationen certifierades den "
+            "compact": "Publikationen certifierades den {certification_date}",
+            "descriptive": "Publikationen certifierades den {certification_date}"
         },
         "conformance-details-certifier-report": {
             "compact": "Se certifieringsrapporten för mer information",
             "descriptive": "Se certifieringsrapporten för mer information"
         },
         "conformance-details-claim": {
-            "compact": "Publikationen anger att den uppfyller kraven enligt",
-            "descriptive": "Publikationen anger att den uppfyller kraven enligt"
+            "compact": "Publikationen anger att den uppfyller kraven enligt {epub_accessibility} {wcag_version} {wcag_level}",
+            "descriptive": "Publikationen anger att den uppfyller kraven enligt {epub_accessibility} {wcag_version} {wcag_level}"
         },
         "conformance-details-epub-accessibility-1-0": {
-            "compact": " EPUB Accessibility 1.0",
-            "descriptive": " EPUB Accessibility 1.0"
+            "compact": "EPUB Accessibility 1.0",
+            "descriptive": "EPUB Accessibility 1.0"
         },
         "conformance-details-epub-accessibility-1-1": {
-            "compact": " EPUB Accessibility 1.1",
-            "descriptive": " EPUB Accessibility 1.1"
+            "compact": "EPUB Accessibility 1.1",
+            "descriptive": "EPUB Accessibility 1.1"
         },
         "conformance-details-level-a": {
-            "compact": " nivå A",
-            "descriptive": " nivå A"
+            "compact": "nivå A",
+            "descriptive": "nivå A"
         },
         "conformance-details-level-aa": {
-            "compact": " nivå AA",
-            "descriptive": " nivå AA"
+            "compact": "nivå AA",
+            "descriptive": "nivå AA"
         },
         "conformance-details-level-aaa": {
-            "compact": " nivå AAA",
-            "descriptive": " nivå AAA"
+            "compact": "nivå AAA",
+            "descriptive": "nivå AAA"
         },
         "conformance-details-wcag-2-0": {
-            "compact": " WCAG 2.0",
-            "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.0"
+            "compact": "WCAG 2.0",
+            "descriptive": "Web Content Accessibility Guidelines (WCAG) 2.0"
         },
         "conformance-details-wcag-2-1": {
-            "compact": " WCAG 2.1",
-            "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.1"
+            "compact": "WCAG 2.1",
+            "descriptive": "Web Content Accessibility Guidelines (WCAG) 2.1"
         },
         "conformance-details-wcag-2-2": {
-            "compact": " WCAG 2.2",
-            "descriptive": " Web Content Accessibility Guidelines (WCAG) 2.2"
+            "compact": "WCAG 2.2",
+            "descriptive": "Web Content Accessibility Guidelines (WCAG) 2.2"
         },
         "conformance-no": {
             "compact": "Information saknas",
@@ -207,24 +208,24 @@
             "descriptive": "Publikationen har blinkande innehåll som kan vara skadligt för ljuskänsliga personer"
         },
         "hazards-flashing-none": {
-            "compact": "Inget blinkande innehåll",
-            "descriptive": "Publikationen har inget blinkande innehåll"
+            "compact": "Inga risker med blinkande innehåll",
+            "descriptive": "Publikationen har inget blinkande innehåll som kan vara skadligt för ljuskänsliga personer"
         },
         "hazards-flashing-unknown": {
-            "compact": "Förekomst av blinkande innehåll är okänd",
-            "descriptive": "Förekomst av blinkande innehåll är okänd"
+            "compact": "Inga kända risker med blinkande innehåll",
+            "descriptive": "Förekomst av blinkande innehåll som kan vara skadligt för ljuskänsliga personer är okänd"
         },
         "hazards-motion": {
             "compact": "Rörelsesimulering",
             "descriptive": "Publikationen innehåller rörelsesimulering som skulle kunna orsaka illamående"
         },
         "hazards-motion-none": {
-            "compact": "Ingen rörelsesimulering",
-            "descriptive": "Publikationen innehåller ingen rörelsesimulering"
+            "compact": "Inga risker med rörelsesimulering",
+            "descriptive": "Publikationen innehåller ingen rörelsesimulering som skulle kunna orsaka illamående"
         },
         "hazards-motion-unknown": {
-            "compact": "Förekomst av rörelsesimulering är okänd",
-            "descriptive": "Förekomst av rörelsesimulering är okänd"
+            "compact": "Inga kända risker med rörelsesimulering",
+            "descriptive": "Förekomst av rörelsesimulering som skulle kunna orsaka illamående är okänd"
         },
         "hazards-no-metadata": {
             "compact": "Information saknas",
@@ -239,11 +240,11 @@
             "descriptive": "Publikationen innehåller ljud som kan orsaka obehag"
         },
         "hazards-sound-none": {
-            "compact": "Inget ljud som kan orsaka obehag",
+            "compact": "Inga ljudrelaterade risker",
             "descriptive": "Publikationen innehåller inget ljud som kan orsaka obehag"
         },
         "hazards-sound-unknown": {
-            "compact": "Förekomst av ljud som kan orsaka obehag är okänd",
+            "compact": "Inga kända ljudrelaterade risker",
             "descriptive": "Förekomst av ljud som kan orsaka obehag är okänd"
         },
         "hazards-unknown": {
@@ -258,8 +259,8 @@
             "descriptive": "Information saknas"
         },
         "accessibility-summary-publisher-contact": {
-            "compact": "För mer information om den här publikationens tillgänglighet, kontakta utgivaren: ",
-            "descriptive": "För mer information om den här publikationens tillgänglighet, kontakta utgivaren: "
+            "compact": "För mer information om den här publikationens tillgänglighet, kontakta utgivaren: {publisher_contact_for_accessibility}",
+            "descriptive": "För mer information om den här publikationens tillgänglighet, kontakta utgivaren: {publisher_contact_for_accessibility}"
         }
     },
     "legal-considerations": {
