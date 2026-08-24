@@ -3,9 +3,9 @@
 
 # Localizations of the Accessibility Metadata Display Guide for Digital Publications
 
-This repository hosts the localizations of the compact and descriptive display statements defined in the [Accessibility Metadata Display Guide for Digital Publications](https://w3c.github.io/cg-reports/publishingcg/CG-FINAL-epub-techniques-20250422/).
+This repository hosts the localizations of the compact and descriptive display statements defined in the [Accessibility Metadata Display Guide for Digital Publications](https://w3c-cg.github.io/publ-a11y/metadata-display-guide/guidelines/latest/).
 
-A [localisation visualizer](https://w3c.github.io/publ-a11y-display-guide-localizations/visualizer/index.html) allow human browsing of the different translation packages. A dropdown menu allows to choose the localisation to be displayed.
+A [localisation visualizer](https://w3c-cg.github.io/publ-a11y-display-guide-localizations/visualizer/index.html) allow human browsing of the different translation packages. A dropdown menu allows to choose the localisation to be displayed.
 
 ## Contributing to the Repository
 
